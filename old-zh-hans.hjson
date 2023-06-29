@@ -1,0 +1,475 @@
+﻿Mods: {
+	CalValEX: {
+	#Should show the source of chinese translation,IMPORTANT because PIRACY in China is frequently,we have no choice but sry about this.
+	#Translator:MeireiHakuya(冥岭白夜),Proofread:Soammer（夏沫）,chinese translation version made by the two from Koibumi Group(灾厄维基汉化组).
+	#Soammer reserves the right for Final Interpretatio of Chinese translation,and provides the newest translated text.
+		NPCName: 
+		{
+			# April fools!
+			Meldosaurus : 梅杜萨拉斯
+			Jharim : 丛林“暴君”
+			Fogbound : '''超级究极欧米伽雾气弥漫之神EX：至暗降临版'''
+			#Critters
+			AstJR : 星胶史莱姆
+			Blightolemur : 枯萎狐猴
+			Blinker : 闪耀萤火虫
+			CrystalFly : 亵渎晶蝶
+			Eyedol: 大眼娃
+			GAstJR : 黄金星胶史莱姆
+			GodSlayerSlug : 弑神者蛞蝓
+			GoldenIsopod : 黄金大王具足虫
+			GoldEyedol : 黄金大眼娃
+			GoldViolemur : 黄金狐猴
+			Isopod : 深渊大王具足虫
+			NukeFly : 硫海飞蝇
+			Orthobab : 直角石幼体
+			OrthoceraApparition : '''直角石？'''
+			PlagueFrog : 瘟疫箭毒蛙
+			ProvFly : 亵渎火蝶
+			SandTurtle : 沙漠龟
+			Swearshroom : 寄生菌
+			Violemur : 星幻狐猴
+			Xerocodile : 苏醒的克洛希克鳄
+			XerocodileSwim : 苏醒的克洛希克鳄
+		}
+		
+		ItemName: 
+		{
+			# April fools!
+			AmogusItem : 飞船通讯器
+			ShadesBane : 影之祸
+			Nyanthrop : 奈亚斯洛普
+			KnowledgeMeldosaurus : 梅杜萨拉斯
+			MeldosaurusMask : 梅杜萨拉斯面具
+			MeldosaurusTrophy : 梅杜萨拉斯纪念章
+			MeldosaurusMusicBox : 音乐盒（梅杜萨拉斯）
+			MeldosaurusBag : 宝藏袋
+			JharimHead : 丛林“暴君”杰粒木的脑袋
+			FogG : 净化后的雾
+			# Critters
+			AstJRItem : 星胶史莱姆
+			BlightolemurItem : 枯萎狐猴
+			BlinkerItem : 闪耀萤火虫
+			CrystalFlyItem : 亵渎晶蝶
+			EyedolItem: 大眼娃
+			GAstJRItem : 黄金星胶史莱姆
+			GodSlayerSlugItem : 弑神者蛞蝓
+			GoldenIsopodItem : 黄金大王具足虫
+			GoldEyedolItem : 黄金大眼娃
+			GoldViolemurItem : 黄金狐猴
+			IsopodItem : 深渊大王具足虫
+			NukeFlyItem : 硫海飞蝇
+			OrthobabItem : 直角石幼体
+			PlagueFrogItem : 瘟疫箭毒蛙
+			ProvFlyItem : 亵渎火蝶
+			SandTurtleItem : 沙漠龟
+			SwearshroomItem : 寄生菌
+			ViolemurItem : 星幻狐猴
+			XerocodileItem : 苏醒的克洛希克鳄
+			# Tiles
+			BubbleMachine : 起泡器
+		}
+		
+		ItemTooltip: 
+		{
+			# April fools!
+			AmogusItem: '''召唤一个幻云宇航员
+				不 可 能 得 到！
+				作弊可能会为你带来一些灾难性的后果
+				讨厌外星恐龙'''
+			ShadesBane : '''真近战命中敌人会让他们身上爆发出诅咒焰球
+			点击右键随机发射诅咒焰球和玛瑙弹
+			‘名剑排行榜 第2940358304位’ '''
+			Nyanthrop : 向任意方向发射台风弹幕
+			KnowledgeMeldosaurus : '''那个梅杜萨拉斯...
+				是一种由腐朽意志产生的可怕的生物，没人知道它为什么存在，它想要什么...
+				咻！但是我很高兴他走了！！！它在我的里面让我好痒！！！'''
+			JharimHead: '''召唤丛林“暴君”
+				不会在愚人节以外的时间生效'''
+			FogG: ''':为什么:
+				召唤弥漫雾气'''
+			#Tiles
+			BubbleMachine : '''这看起来真时髦，老兄'''
+		}
+		
+		ProjectileName: 
+		{
+			# Meldosaurus stuff
+			EntropicVomet: 熵喷
+			TomeoFates: 命运巨著
+			GodsFire: 神明烈焰
+			ShardofAntumbra: 半影裂片
+			MeldosaurusClone: 梅杜萨拉斯之影
+		}
+
+		MapObject: 
+		{
+			# Meldosaurus stuff
+			MeldosaurusMusicBoxPlaced: 音乐盒
+			MeldosaurusTrophyPlaced: 梅杜萨拉斯纪念章
+		}
+		
+		BuffName: 
+		{
+			AmogusBuff: 幻云宇航员
+			# Light pets
+			DarksunSpiritBuff: 暗日精灵
+			EnredBuff: 宇宙助手
+			GodrgeBuff: 蛙蛙乔治
+			HeatBuff: 小热能之魂
+			ImpBuff: 迷你献祭者
+			PhantomBuff: 解脱了的幻魂
+			ProBuff: 亵渎战队
+			PylonBuff: 钨钢原型充能塔
+			SeerBuff: 监星集群
+			SolarBunBuff: 太阳小面包
+			SupJewelBuff: 惘信之玉
+			VanityCoreBuff: 虚荣核心
+			YeetBuff: 小光鱼
+			# Mounts
+			AnthozoanBuff: 寒武纪甲壳生物
+			AuricTeslaBuff : 圣金源特斯拉
+			BikeBuff: 亵渎守卫牌摩托车
+			BloodstoneCarriageBuff: 血石马车
+			FloatyBuff: 海蜉蝣魔毯
+			HadarianBuff: 哈德安翼龙幼崽
+			HiveVuff: 思维聚合体
+			LeviathanMountBuff: 利维鱼
+			NuclearHorrorBuff: 辐核恐惧
+			PBGMountBuff: 瘟疫骑手
+			SilvaJeepBuff: 始源林海吉普车
+			TractorMount: 钨钢坦克
+			YharonMountBuff: 犽吾埃特
+			# Elementals
+			cloudbuff: 小雨云元素
+			minihotebuff: 童灵之心
+			MoistBuff: 元气满满的塞壬之子
+			rarebrimlingbuff: 稀有硫磺火灵
+			RareSsandBuff: 小稀有沙元素
+			SsandBuff: 小沙元素
+			# Exos
+			AresBuff: 玩具XF-阿瑞斯
+			ExoMayhemBuff: 星流微械
+			ThanatosBuff: 玩具XM-塔纳托斯
+			TwinsBuff: 玩具XS-阿波罗和阿尔忒弥斯
+			# Scuttlers
+			AmberBuff: 琥珀潜遁者
+			AmethystBuff: 紫晶潜遁者
+			BejeweledBuff: 五彩潜遁者
+			CrystalBuff: 水晶潜遁者
+			DiamondBuff: 钻石潜遁者
+			EmeraldBuff: 翡翠潜遁者
+			RubyBuff: 红玉潜遁者
+			SapphireBuff: 蓝玉潜遁者
+			TopazBuff: 黄玉潜遁者
+			# Pets
+			AeroBuff: 天蓝史莱姆兄弟
+			AndroombaBuff: 扫地机器人安德洛
+			AquaBuff: 渊海灾虫宝宝
+			AvalonBuff: 至高亵渎守卫
+			BabySquidBuff: '''鱿鱼仔'''
+			BeeBuff: 已重新编程的瘟疫使者
+			BlockarozBuff: 立方体领主
+			BuppyBuff: 巴皮
+			CalamityBABYBuff: 与神同行
+			CatfishBuff: 猫鱼
+			ChilledOut: 酷酷的家伙
+			ckidbuff: 小极寒之灵
+			ClamHermitBuff: 小蛤隐士
+			CnidBuff: 小卧龙海马
+			CoolBlueBuff: 酷酷的蓝色家伙们
+			CrabBuff: 菌生蟹幼体
+			DebrisPet: 小幻影骸虫
+			DEBuff: 暗能量
+			DesertBuff: 荒漠灾虫宝宝
+			DeusBuff: 小星神游龙
+			DogBuff: 神明吞噬者
+			Doggobuff: 生气的小狗狗
+			EggBuff: 无依无靠的蛋
+			EurosBuff: 小欧罗斯
+			Excalibuff: 光之剑
+			FathomEelBuff: 幻渊巨鳗
+			FistuloidBuff: 瘤囊
+			FogBuff: 弥漫雾气
+			FollyBuff: 痴愚幼龙
+			GeorgeBuff: 蛙蛙乔治
+			GoozmaBuff: 古兹玛
+			GrandBuff: 旱海狂鲨的小孙子
+			HivelingBuff: 迷你腐巢意志
+			HoodiedolistBuff: 小灵巫
+			JaredBuff: 幻海妖龙
+			JellyBuff: 小末世星史莱姆
+			JunkoBuff: 西格纯狐
+			LumpyBuff: 笨重
+			MechaGeorgeBuff: 机械乔治
+			MiniBumbleBuff: 迷你癫痫鸟
+			MiniDogeBuff: 杀戮洪潮
+			MoistScourgeBuff: 小“渊漠”灾虫
+			NuclearFuryshronBuff: 硫海遗爵之首
+			NuggetBuff: 丛林小肥龙
+			OmegaSquidBuff: 欧米茄鱿鱼仔
+			OrbBuff: 龙球
+			PhageBuff: 太空疫病
+			PillagerBuff: 迷你毁灭魔像
+			PolterBuff: '''幽花酱'''
+			PuppoBuff: 小吉娃娃
+			ReaperBuff: 强力人
+			RedPandaBuff: 可爱的小熊猫塔拉正跟着你
+			Rembuff: 巨型塞壬悬浮头像
+			RepurposedMonitorBuff: 机器人查尔
+			RoverSpindleBuff: 钨钢漫步者
+			RustyBuff: 锈蚀宝箱怪
+			SadStoneBuff: 悲伤之石
+			ScorchingFuryshronBuff: 熔渣公爵之首
+			ScourgeBuff: 灾虫双子
+			SentiPet: 你的仆从
+			SepulcherBuff: 灾坟
+			SepulcherBuffNeo: 灾坟魔物
+			ShartBuff: 鲨！
+			SigBuff: 斗篷和匕首
+			SkaterBuff: 硫酸爬虫幼崽
+			SlimeBuff: 史莱姆半神
+			SmaulerBuff: 迷你渊海鲨
+			StasisArmoredBuff: 装甲风暴无人机
+			StasisNakedBuff: 裸体风暴无人机
+			SWPetBuff: '''小风暴编织者'''
+			TerminalRockBuff: '''克希洛克的宠物石'''
+			TUBBUFF: '''T.U.B'''
+			UngodlyBuff: 渎神者
+			WulfrumArmy: 钨钢军团
+			WyrmBuff: 小小妖龙
+			YharimSquidBuff: 古圣金源鱿鱼仔
+			# Transformations
+			ClassicBrimmyBuff: 硫磺火元素幻化
+			CloudTransformationBuff: 雨云元素幻化
+			ProtoRingBuff: 仙女座原型机
+			SandTransformationBuff: 砂元素幻化
+			SignutTransformationBuff: 空灵刺客
+			# Æ: Drae's stuff
+			AlarmClockBuff: 闹钟
+			AlterBellBuff: 圣坛之钟
+			BestInstrumentBuff: 最好的仪器
+			DustChimeBuff: 尘土归一
+			HarbingerOfWorkBuff: 工作的征兆
+			MaladyBellsBuff: 腐败之钟
+			NurseryBellsBuff: 温床之钟
+			ScratchedGongBuff: 刻丹
+			SpiritDinerBuff: 精神晚餐之钟
+			TubRuneBuff: T.U.B.符文
+			VaselineBuff: 凡士林之钟
+			WormBellBuff: 爬行魅力
+			PandoraBuff: 聒噪之匣
+		}
+		
+		BuffDescription: 
+		{
+			AmogusBuff: 在我们之中！
+			# Light pets
+			DarksunSpiritBuff: 暗日精灵们决定追随于你！
+			EnredBuff: 他来帮忙了！
+			GodrgeBuff: 悲悯众生
+			HeatBuff: 就由我来审判你的罪行……好吧，开个玩笑而已
+			ImpBuff: 嘿！
+			PhantomBuff: 终于自由了,但它依然选择跟着你！
+			ProBuff: 小亵渎天神和她的部下们在黑暗中迸发出神圣的光芒。
+			PylonBuff: 使其他钨钢原型机器人超载
+			SeerBuff: 一同监视这个世界
+			SolarBunBuff: 沐浴在那神圣的日光下
+			SupJewelBuff: 净即是污；污即是净
+			VanityCoreBuff: 和睦相处！
+			YeetBuff: 一条寻阳鱼宝宝正跟着你。
+			# Mounts
+			AnthozoanBuff: 这只不会朝你扔石头
+			AuricTeslaBuff: '''亚利姆车车
+				暴君车车'''
+			BikeBuff: 行车不规范，亲人两行泪。
+			BloodstoneCarriageBuff: '''你甚至可以叫他——'''
+			FloatyBuff: '''警告:无法飞行。'''
+			HadarianBuff: SCREEEE
+			HiveVuff: 我发誓不是你想的那样
+			LeviathanMountBuff: 很擅长捉鱼
+			NuclearHorrorBuff: 你无法理解为什么它愿意帮助你
+			PBGMountBuff: 你要相信你的蜂啊
+			SilvaJeepBuff: 哔，哔，艾慕吉普~
+			TractorMount: 前进士兵！
+			YharonMountBuff: 他终于来了！
+			# Elementals
+			cloudbuff: 虽然她无法保护你，但她仍然会拼尽全力。
+			minihotebuff: 刑啊，你看起来像在管理一家幼儿园啥的。
+			MoistBuff: 虽然她无法为你防御，但她仍然会拼尽全力。
+			rarebrimlingbuff: 虽然她无法保护你，但她仍然会拼尽全力。
+			RareSsandBuff: 虽然她无法治疗你，但她仍然会拼尽全力。
+			SsandBuff: 虽然她无法保护你，但她仍然会拼尽全力。
+			# Exos
+			AresBuff: 它登场了！
+			ExoMayhemBuff: 完美的娱乐来源
+			ThanatosBuff: '''T(oy t) han(at)os
+				（Thanos亦为神话中塔纳托斯的名讳）'''
+			TwinsBuff: 它们在这儿
+			# Scuttlers
+			AmberBuff: 依旧不肯放开它的宝石
+			AmethystBuff: 依旧不肯放开它的宝石
+			BejeweledBuff: 永远不肯放开它的宝石
+			CrystalBuff: 依旧不肯放开它的水晶
+			DiamondBuff: 依旧不肯放开它的宝石
+			EmeraldBuff: 依旧不肯放开它的宝石
+			RubyBuff: 依旧不肯放开它的宝石
+			SapphireBuff: 依旧不肯放开它的宝石
+			TopazBuff: 依旧不肯放开它的宝石
+			# Pets
+			AeroBuff: 我们一起滑翔
+			AndroombaBuff: Nyoooom！
+			AquaBuff: Blaaaargh！
+			AvalonBuff: 因为蓝色的火焰看起来很酷
+			BabySquidBuff: '''^-^'''
+			BeeBuff: 哔哔哔.啵啵啵.嗡嗡嗡.
+			BlockarozBuff: 这是我的一份声明
+			BuppyBuff: 你会扔那个球吗？
+			CalamityBABYBuff: 无所不能的灾厄之神宝宝正陪伴着你……只是别被敌人打中哟！
+			CatfishBuff: 啥？一只猫鱼？你在说什么？
+			ChilledOut: 这位超级炫酷的哥们儿会跟着你
+			ckidbuff: 冰灵之子的波加洛舞
+			ClamHermitBuff: 一个古怪的小家伙
+			CnidBuff: 这个可怜的小家伙真的非常需要一张纸巾……
+			CoolBlueBuff: 一些很裤的篮色镓钬
+			CrabBuff: 很有菌且很有趣
+			DebrisPet: 听我说，你这小家伙
+			DEBuff: 一小团纯粹的虚无在你的身旁浮动
+			DesertBuff: Blaaaargh
+			DeusBuff: 一大群‘蠕虫’
+			DogBuff: '''这一点儿都不正常。'''
+			Doggobuff: 大概是灾厄里第五乖的狗狗。
+			EggBuff: 它认为你是它的妈妈……
+			EurosBuff: 他正小心翼翼地跟着你
+			Excalibuff: 不要仅仅因为某人丢了把剑给你就觉得自己能统治世界了！
+			FathomEelBuff: 一条横行霸道的闯入者！
+			FistuloidBuff: 恶心
+			FogBuff: 嗷
+			FollyBuff: 一个克隆的克隆的克隆的克隆
+			GeorgeBuff: 乔治
+			GoozmaBuff: 它存在的最后痕迹已从时间中被抹去
+			GrandBuff: 顶级掠食者的后代
+			HivelingBuff: 一小群微生物正跟着你
+			HoodiedolistBuff: 他的斗篷就是他的家
+			JaredBuff: 深海食人龙
+			JellyBuff: 一件来自遥远过去的纪念品
+			JunkoBuff: 心之所在
+			LumpyBuff: 笨重
+			MechaGeorgeBuff: ……KDlt7S1U9x8
+			MiniBumbleBuff: 啾啾啾
+			MiniDogeBuff: 癫痫鸟的克隆体们会紧紧地跟着你
+			MoistScourgeBuff: 恶！
+			NuclearFuryshronBuff: 其中之一……
+			NuggetBuff: 哇嗷！
+			OmegaSquidBuff: 真正的克总
+			OrbBuff: 超高速振动
+			PhageBuff: 你已经被初生的噬星体所感染！
+			PillagerBuff: '''现在是乱撕乱砸时间！'''
+			PolterBuff: 小小小幽幽幽花花花~~~
+			PuppoBuff: 他真是个好孩子
+			ReaperBuff: 你可以说这是一个……强力的buff
+			RedPandaBuff: 可爱的小熊猫塔拉正跟着你
+			Rembuff: 从2018年开始就在等着她的到来！
+			RepurposedMonitorBuff: 不兼容  但  无法替代
+			RoverSpindleBuff: 往日辉煌不可替代……
+			RustyBuff: 幸好没有更大的
+			SadStoneBuff: ''':('''
+			ScorchingFuryshronBuff: '''孩子们，别吸熔渣！'''
+			ScourgeBuff: Blaaaargh的平方
+			SentiPet: 这些来自宇宙的可怕生物将会一直守护你
+			SepulcherBuff: '''一条由许多早已逝去的无辜者的灵魂所组成的黑暗造物……
+	可爱'''
+			SepulcherBuffNeo: （只有）这只是友善的
+			ShartBuff: 不，他们不能打曲棍球
+			SigBuff: 缥缈无形的刺客会保护你的背后……大概吧
+			SkaterBuff: 如果用酸液泡泡喂养可以让它长得更加强壮！
+			SlimeBuff: 合法的王位继承者
+			SmaulerBuff: 嗷呜~
+			StasisArmoredBuff: 他像许多动漫里的男主一样神经大条
+			StasisNakedBuff: 别……别盯着我看……笨……笨蛋!
+			SWPetBuff: '''‘我想它们最终没有灭绝’'''
+			TerminalRockBuff: '''‘它的确能让我开心起来……’'''
+			TUBBUFF: 一只小触手怪正跟着你
+			UngodlyBuff: 他正在去吃你袜子的路上
+			WulfrumArmy: 叮 当 砰
+			WyrmBuff: 呃,它好黏……
+			YharimSquidBuff: 它已经走得太远了
+			# Transformations
+			ClassicBrimmyBuff: 是的，你可以碰水
+			CloudTransformationBuff: 感觉云云的~
+			ProtoRingBuff: 仍然在解决问题
+			SandTransformationBuff: '''呵呵~'''
+			SignutTransformationBuff: 我从来没有这么紧张过
+			# Æ: Drae's stuff（不确定）
+			AlarmClockBuff: 如果置之不理，它可能会短路
+			AltarBellBuff: 指引明路之星
+			BestInstrumentBuff: 旅途的片段，保护好它们
+			DustChimeBuff: 冒险开始了！
+			HarbingerOfWorkBuff: 他们过于热情\n他们的系统在重复
+			MaladyBellsBuff: 你的旅途还没有结束，他们会照顾你的
+			NurseryBellsBuff: 一个泰拉瑞亚大陆上最好的朋友现在跟着你！
+			ScratchedGongBuff: 你出演的大型歌剧的结果即将完成
+			SpiritDinerBuff: 你的面前有一条黑暗的路，他们会帮助你的
+			TubRuneBuff: 我们最后的信息
+			VaselineBuff: 阳光照了进来
+			WormBellBuff: 继续
+			PandoraBuff: 梦想，全部结束了\n我们正在等待另一出好戏
+		}
+
+		BiomeName: 
+		{
+			AstralBlight: 枯星瘟疫
+		}
+
+		TownNPCMood: 
+		{
+			Jharim: 
+			{
+				Content: "赫赫赫，这个世界的一切都好棒",
+				NoHome: "请 给我一个家！野外会助长我的暴力倾向！",
+				LoveSpace: "杰粒木很高兴！要是你能向我鞠躬我会更高兴！",
+				FarFromHome: "我命令你将伟大的杰粒木带回他的家！",
+				DislikeCrowded: "这些庶民吵得我都听不见自己在想什么了",
+				LikeBiome: "啊，{BiomeName}，回到这里真好！",
+				LoveBiome: "我喜欢闻这些真菌的味道！",
+				DislikeBiome: "阿巴巴巴巴 阿巴巴巴 阿巴阿 巴阿巴 阿巴 阿巴阿 带 我 离 开 这 里！",
+				HateBiome: "我鄙视这个海洋里的存在！它在一直对我大声嚷嚷！",
+				LikeNPC: "我一直想当一个海盗，而{NPCName}看起来是一个不错的导师！",
+				LoveNPC: "{NPCName}让我想起了我的妈妈，我爱她！妈妈……",
+				DislikeNPC: "{NPCName}一直在崇拜一个愚蠢的摇滚歌手而不是我！不开心！",
+				HateNPC: "我绝对不会向{NPCName}纳税。邪恶的生物！",
+			},
+			OracleNPC: 
+			{
+                Content: "这里真的很冷",
+                NoHome: "哦伙计，没有一个像样的家我就没法照顾我的这些小家伙们",
+                LoveSpace: "哇哦，这里有这么大的空间让T.U.B.可以到处乱跑，太棒了！",
+                FarFromHome: "我并不觉得T.U.B.会在离家里这么远的地方感到舒服……",
+                DislikeCrowded: "和这群人住在一起有点不舒服————这里没有太多的空间给我的小家伙们",
+                HateCrowded: "这些人都在恐吓T.U.B.！",
+                LikeBiome: "{BiomeName}是可以让我和我的小家伙们安定下来的好地方",
+                DislikeBiome: "看起来{BiomeName}并不太适合我和我的小家伙们",
+                HateBiome: "所有的怪物看起来都很可怕，我觉得我的T.U.B.在这里不太安全",
+                LikeNPC: "{NPCName}很酷，她和T.U.B.是好朋友",
+                DislikeNPC: "{NPCName}是一个以猎杀宠物为乐的恶心的混混，太卑鄙了！",
+                LikeNPC_Princess: "{NPCName}似乎很受小家伙们的欢迎，她给它们了一个很好的氛围",
+            },
+			JellyPriestNPC: 
+			{
+				Content: "这个地方似乎可以用来做个神社",
+                NoHome: "我需要一个可以安置装饰建筑和让我能够祭拜的地方！",
+                LoveSpace: "我可以用这些位置建造很多的东西！",
+                FarFromHome: "请你把我带回家，我的某个部件可能会坏掉",
+                DislikeCrowded: "这里人多的有些让我紧张，他们可能会打碎我的雕像！",
+                HateCrowded: "大家都堆在这里，我没法安心的造我的建筑，我的所有东西都坏了！",
+                LoveBiome: "{BiomeName}非常好，我感觉有些温暖……也许我信仰的女神就在这里……",
+                LikeBiome: "这个地方非常的安静————在森林里建房子肯定不会错！",
+                DislikeBiome: "这里实在是太热了，我想女神肯定不会在这种地方",
+                HateBiome: "这里到处都是可怕的生物在游荡，我无法建造任何东西！",
+                LikeNPC: "{NPCName}和我都很欣赏艺术，他们的品味真不错",
+                DislikeNPC: "{NPCName}的纵火癖太可怕了，我担心他迟早有一天会炸掉我的植物！",
+                LikeNPC_Princess: "{NPCName}有一些漂亮的装饰物，我很喜欢她的风格",
+			},
+		}
+	}
+}
