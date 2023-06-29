@@ -446,12 +446,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			DraedonHelmet: {
 				# Hats
-				DisplayName: Arsenal Soldier Helmet大兵头盔
+				DisplayName: Arsenal Soldier Helmet阿森纳士兵头盔
 				# Hats
 				Tooltip:
 					'''
-					Changes appearance depending on held item damage type
-					CURRENTLY UNSTABLE
+					Changes appearance depending on held item damage type依据物品伤害种类改变外貌
+					CURRENTLY UNSTABLE目前不稳定
 					'''
 			}
 
@@ -461,13 +461,13 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AncientAuricTeslaHelm: {
-				DisplayName: Ancient Auric Tesla Helm
-				Tooltip: A polished piece of an ancient armor
+				DisplayName: Ancient Auric Tesla Helm古圣金源头甲
+				Tooltip: A polished piece of an ancient armor一个抛光的古代盔甲
 			}
 
 			AncientPerennialFlower: {
-				DisplayName: Ancient Perennial Tulip
-				Tooltip: "'I'm a pretty girl!'"
+				DisplayName: Ancient Perennial Tulip不朽郁金香
+				Tooltip: "'I'm a pretty girl!'"我是个美丽的女孩
 			}
 
 			AstrachnidCranium: {
@@ -476,23 +476,23 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AstrumDeusMask: {
-				DisplayName: Blighted Deus Mask
-				Tooltip: "'A faded star reignited' "
+				DisplayName: Blighted Deus Mask星神面具
+				Tooltip: "'A faded star reignited' "陨星再度升起
 			}
 
 			AureicFedora: {
-				DisplayName: Aureic Fedora
+				DisplayName: Aureic Fedora奥里亚克软呢帽
 				Tooltip: "'Just don't tip it on someone directly'"
 			}
 
 			BanditHat: {
-				DisplayName: Bandit's Hat
+				DisplayName: Bandit's Hat强盗帽
 				Tooltip: ""
 			}
 
 			BelladonnaHat: {
 				DisplayName: Belladona Spirit Hat
-				Tooltip: Poisonous, but stylish
+				Tooltip: Poisonous, but stylish有毒,但时尚
 			}
 
 			BigWorm: {
@@ -501,23 +501,23 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BirbHat: {
-				DisplayName: Follyhat
-				Tooltip: The one hat to rule them all
+				DisplayName: Follyhat癫痫帽
+				Tooltip: The one hat to rule them all一顶能统治他人的帽子
 			}
 
 			BloodyMaryHat: {
-				DisplayName: Bloody Mary Hat
-				Tooltip: Feeling elegant
+				DisplayName: Bloody Mary Hat血腥玛丽帽
+				Tooltip: Feeling elegant十分优雅
 			}
 
 			CalaCirclet: {
-				DisplayName: Calamity Circlet
-				Tooltip: Cursed?
+				DisplayName: Calamity Circlet灾厄头箍
+				Tooltip: Cursed?被诅咒
 			}
 
 			ClamMask: {
-				DisplayName: Clamitous Hat
-				Tooltip: "'That's a typo, right?'"
+				DisplayName: Clamitous Hat灾难之帽
+				Tooltip: "'That's a typo, right?'"这是个文字错误,对吗
 			}
 
 			CoralMask: {
@@ -526,8 +526,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			CosmicCone: {
-				DisplayName: The Cosmic Cone
-				Tooltip: A hat so pointy it could pierce the heavens
+				DisplayName: The Cosmic Cone宇宙圆锥帽
+				Tooltip: A hat so pointy it could pierce the heavens尖锐到足以刺穿天空
 			}
 
 			Cryocap: {
@@ -536,67 +536,67 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			CultistHood: {
-				DisplayName: Cultist Assassin Hood
+				DisplayName: Cultist Assassin Hood邪教刺客兜帽
 				Tooltip: ""
 			}
 
 			DemonshadeHood: {
-				DisplayName: Ancient Demonshade Helm
+				DisplayName: Ancient Demonshade Helm古代魔影头盔
 				Tooltip: ""
 			}
 
 			DevilfishMask1: {
-				DisplayName: Curly Devil Fish Mask
-				Tooltip: Edgy
+				DisplayName: Curly Devil Fish Mask卷毛魔鬼鱼面具
+				Tooltip: Edgy烦躁不安
 			}
 
 			DevilfishMask2: {
-				DisplayName: Pointed Devil Fish Mask
-				Tooltip: Edgier
+				DisplayName: Pointed Devil Fish Mask尖魔鬼鱼面具
+				Tooltip: Edgier更加烦躁
 			}
 
 			DevilfishMask3: {
-				DisplayName: Exposed Devil Fish Mask
-				Tooltip: Rubbing salt on the wound
+				DisplayName: Exposed Devil Fish Mask暴露魔鬼鱼面具
+				Tooltip: Rubbing salt on the wound伤口撒盐
 			}
 
 			DummyMask: {
-				DisplayName: Dummy Mask
-				Tooltip: The only dummy here is you
+				DisplayName: Dummy Mask傻瓜面具
+				Tooltip: The only dummy here is you这儿的傻瓜只有你
 			}
 
 			EarthenHelmet: {
-				DisplayName: Earthen Helmet
+				DisplayName: Earthen Helmet土质头盔
 				Tooltip: ""
 			}
 
 			EidoMask: {
-				DisplayName: Eidolist Mask
+				DisplayName: Eidolist Mask幻海灵妖面具
 				Tooltip: ""
 			}
 
 			FallenPaladinsHelmet: {
-				DisplayName: "Fallen Paladin's Helmet "
+				DisplayName: "Fallen Paladin's Helmet "陨落圣骑士头盔
 				Tooltip: ""
 			}
 
 			FlakHeadCrab: {
-				DisplayName: Flak Head Crab
-				Tooltip: It appears you have a parasite
+				DisplayName: Flak Head Crab高口蟹帽
+				Tooltip: It appears you have a parasite这让你显得有寄生虫
 			}
 
 			GammaHelmet: {
-				DisplayName: Gamma Sludge
-				Tooltip: I'm Radioactive!
+				DisplayName: Gamma Sludge伽马淤泥
+				Tooltip: I'm Radioactive!我即是辐射
 			}
 
 			GruelingMask: {
-				DisplayName: Grueling Mask
-				Tooltip: Yaaagh!
+				DisplayName: Grueling Mask灾坟面具
+				Tooltip: Yaaagh!耶！
 			}
 
 			MaulerMask: {
-				DisplayName: Mauler Mask
+				DisplayName: Mauler Mask狂鲨面具
 				Tooltip: Mauling faces since the 80s
 			}
 
