@@ -8,22 +8,24 @@ Mods: {
 				DisplayName: 丛林暴君
 
 				TownNPCMood: {
-					Content: Hyuck Hyuck Hyuck, all is well in the world.
-					NoHome: PLEASE give me a home, being in the wild is giving me violent urges.
+					Content: Hyuck Hyuck Hyuck, all is well in the world.桀桀桀，世间万物都很美好啊.
+					NoHome: PLEASE give me a home, being in the wild is giving me violent urges.请给我一个家吧，身处野外只会让我感到无尽的虚空
 					LoveSpace: Jharim is very happy, and the only thing that would make it better is you bowing down to me immediately!
-					FarFromHome: I demand you to bring the great Jharim back to his home!
+jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
+					FarFromHome: I demand you to bring the great Jharim back to his home!我要求你将伟大的jharim带回他的家!
 					DislikeCrowded: I can't hear my own thoughts with all the noise these peasants are making Hyu Hyu Hyu...
-					LikeBiome: Ah the {BiomeName}, it's good to be back here!
-					LoveBiome: I love sniffing Fungi!
-					DislikeBiome: BRRRR BRRR BRB RBR BR BRB RB RBR BR GET ME OUT OF HERE!
-					HateBiome: I despise the very existence of the ocean! It keeps screaming at me!
-					LikeNPC: I've always wanted to be a pirate, and {NPCName} is a good mentor!
-					LoveNPC: "{NPCName} reminds me a lot about my mother and I love it! Mother..."
-					DislikeNPC: I refuse to pay taxes to {NPCName}. Vile creature!
-					HateNPC: OH NO NO NO GET THAT B- I MEAN WITCH AWAY FROM ME
-					LikeNPC_Princess: Jharim deems {NPCName} as a worthy ally to the Jharim nation.
-					Princess_LovesNPC: "{NPCName} is such a goofy fella."
-					HateCrowded: I hate how crowded I am.
+在这些平民发出的噪音之下我无法集中思想.嗯...
+					LikeBiome: Ah the {BiomeName}, it's good to be back here!我很高兴能回到{BiomeName}
+					LoveBiome: I love sniffing Fungi!我太爱闻蘑菇的味道了!
+					DislikeBiome: BRRRR BRRR BRB RBR BR BRB RB RBR BR GET ME OUT OF HERE!（冷颤）快!带!我!离!开!这!
+					HateBiome: I despise the very existence of the ocean! It keeps screaming at me!我蔑视海洋的存在，它一直在向我尖啸!
+					LikeNPC: I've always wanted to be a pirate, and {NPCName} is a good mentor!我一直想成为一个强盗，而{NPCName}是个好导师!
+					LoveNPC: "{NPCName} reminds me a lot about my mother and I love it! Mother..."{NPCName}让我想起很多关于我母亲的回忆，我爱我的母亲"
+					DislikeNPC: I refuse to pay taxes to {NPCName}. Vile creature!我拒绝向{NPCName}付任何税，下贱的生物
+					HateNPC: OH NO NO NO GET THAT B- I MEAN WITCH AWAY FROM ME天啊，这个混-我的意思是让女巫远离我
+					LikeNPC_Princess: Jharim deems {NPCName} as a worthy ally to the Jharim nation.Jharim认为{NPCName}是我王国最好的盟友
+					Princess_LovesNPC: "{NPCName} is such a goofy fella.""{NPCName}是个傻小子"
+					HateCrowded: I hate how crowded I am.我讨厌我现在是多么的拥挤
 				}
 			}
 
@@ -60,11 +62,11 @@ Mods: {
 				DisplayName: 水母祭祀
 
 				TownNPCMood: {
-					Content: This place should be fine to make a shrine at.
-					NoHome: I need an established place to build and worship at!
-					LoveSpace: I can build a lot with all of this space!
-					FarFromHome: Please take me back to my home. One of my pieces might get broken.
-					DislikeCrowded: The amount of people here is a bit unnerving, someone might break one of my statues.
+					Content: This place should be fine to make a shrine at.这里很适合建一个寺庙
+					NoHome: I need an established place to build and worship at!我需要一个地方建造和敬拜寺庙
+					LoveSpace: I can build a lot with all of this space!我可以在这个地方建造许多东西
+					FarFromHome: Please take me back to my home. One of my pieces might get broken.请带我回家吧，某个地方可能坏了
+					DislikeCrowded: The amount of people here is a bit unnerving, someone might break one of my statues.这么多人让我感到一点不安，有人可能会破坏我的状态
 					HateCrowded: I can't build properly with everyone here, things are getting broken left and right!
 					LoveBiome: The {BiomeName} is pretty nice. I feel a warm presence... perhaps the goddess resides here...
 					LikeBiome: This place is peaceful - you can't go wrong building in the {BiomeName}
