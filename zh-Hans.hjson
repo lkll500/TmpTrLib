@@ -19,8 +19,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					LoveBiome: I love sniffing Fungi!我太爱闻蘑菇的味道了!
 					DislikeBiome: BRRRR BRRR BRB RBR BR BRB RB RBR BR GET ME OUT OF HERE!（冷颤）快!带!我!离!开!这!
 					HateBiome: I despise the very existence of the ocean! It keeps screaming at me!我蔑视海洋的存在，它一直在向我尖啸!
-					LikeNPC: I've always wanted to be a pirate, and {NPCName} is a good mentor!我一直想成为一个强盗，而{NPCName}是个好导师!
-					LoveNPC: "{NPCName} reminds me a lot about my mother and I love it! Mother..."{NPCName}让我想起很多关于我母亲的回忆，我爱我的母亲"
+					LikeNPC: I've always wanted to be a pirate, and {NPCName} is a good mentor!我一直想成为一个海盗，而{NPCName}是个好导师!
+					LoveNPC: "{NPCName} reminds me a lot about my mother and I love it! Mother..."{NPCName}让我想起很多关于我母亲的回忆，我爱她!母亲..."
 					DislikeNPC: I refuse to pay taxes to {NPCName}. Vile creature!我拒绝向{NPCName}付任何税，下贱的生物
 					HateNPC: OH NO NO NO GET THAT B- I MEAN WITCH AWAY FROM ME天啊，这个混-我的意思是让女巫远离我
 					LikeNPC_Princess: Jharim deems {NPCName} as a worthy ally to the Jharim nation.Jharim认为{NPCName}是我王国最好的盟友
@@ -66,18 +66,18 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					NoHome: I need an established place to build and worship at!我需要一个地方建造和敬拜寺庙
 					LoveSpace: I can build a lot with all of this space!我可以在这个地方建造许多东西
 					FarFromHome: Please take me back to my home. One of my pieces might get broken.请带我回家吧，某个地方可能坏了
-					DislikeCrowded: The amount of people here is a bit unnerving, someone might break one of my statues.这么多人让我感到一点不安，有人可能会破坏我的状态
-					HateCrowded: I can't build properly with everyone here, things are getting broken left and right!
-					LoveBiome: The {BiomeName} is pretty nice. I feel a warm presence... perhaps the goddess resides here...
-					LikeBiome: This place is peaceful - you can't go wrong building in the {BiomeName}
-					DislikeBiome: The heat is unbearable here, I don't think the goddess would come to a place like this.
-					HateBiome: There are horrible creatures here, I can't build anything with them roaming!
-					LikeNPC: "{NPCName} and I share an appreciation for the arts. They have fine taste."
-					DislikeNPC: "{NPCName}'s pyromania is dreadful. I keep fearing that any day now, he'll blow up my plants!"
-					LikeNPC_Princess: "{NPCName} has some nice decorations, I like her style."
-					Princess_LovesNPC: "{NPCName} seems to fill a similar role as me, selling pretty decorations. I hope she doesn't see any competition!"
-					LoveNPC: I love {NPCName}.
-					HateNPC: I hate {NPCName}.
+					DislikeCrowded: The amount of people here is a bit unnerving, someone might break one of my statues.这么多人让我感到有点不安，有人可能会破坏我的建筑
+					HateCrowded: I can't build properly with everyone here, things are getting broken left and right!我不能在每个人都在的情况下建造,周围的东西都被破坏了
+					LoveBiome: The {BiomeName} is pretty nice. I feel a warm presence... perhaps the goddess resides here...{BiomeName}真是个好地方啊.我感觉到了一个温暖的存在...也许女神居住在这
+					LikeBiome: This place is peaceful - you can't go wrong building in the {BiomeName}这个地方安静平和-在{BiomeName}你不会建造错误的建筑
+					DislikeBiome: The heat is unbearable here, I don't think the goddess would come to a place like this.我的内心无法忍受,我不认为女神会来这么一个地方
+					HateBiome: There are horrible creatures here, I can't build anything with them roaming!这里徘徊的怪物让我无法建造任何东西!
+					LikeNPC: "{NPCName} and I share an appreciation for the arts. They have fine taste.""{NPCName}和我都对艺术感兴趣,他们的品味很棒
+					DislikeNPC: "{NPCName}'s pyromania is dreadful. I keep fearing that any day now, he'll blow up my plants!"{NPCName}的炸药太可怕了，我无时无刻不在害怕他会炸了我的植物
+					LikeNPC_Princess: "{NPCName} has some nice decorations, I like her style."{NPCName}有一些漂亮的装饰,我喜欢她的风格
+					Princess_LovesNPC: "{NPCName} seems to fill a similar role as me, selling pretty decorations. I hope she doesn't see any competition!"{NPCName}似乎扮演一个跟我一样的角色,售卖漂亮的装饰.我希望她没有看到任何竞争
+					LoveNPC: I love {NPCName}.我喜欢{NPCName}
+					HateNPC: I hate {NPCName}.我讨厌{NPCName}
 				}
 			}
 
@@ -85,22 +85,22 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: 神谕
 
 				TownNPCMood: {
-					Content: It's pretty chill here.
-					NoHome: Man, I can't care for all my little buddies without a proper home!
-					LoveSpace: There's so much room here for TUB to run around, it's great!
-					FarFromHome: I don't think TUB is feeling too comfortable this far away from home.
-					DislikeCrowded: It's a bit uncomfortable here with all these dudes here - not much space for my little buddies.
-					HateCrowded: All of these people are scaring TUB!
-					LikeBiome: The {BiomeName} is a nice and peaceful place for me and my little buddies to settle down.
-					DislikeBiome: The {BiomeName} isn’t really a suitable place for most of my little buddies.
-					HateBiome: All of these monsters are worrying, I don't feel like TUB is safe.
-					LikeNPC: "{NPCName} is pretty rad. Her and TUB make good friends."
-					DislikeNPC: "{NPCName} is a disgusting punk who hunts little critters for fun, how vile!"
-					LikeNPC_Princess: "{NPCName} seems to be popular with the animals, she has a nice vibe."
-					Princess_LovesNPC: I like how chill {NPCName} is. Her little TUB is cute too!
-					LoveBiome: I love {BiomeName}.
-					LoveNPC: I love {NPCName}.
-					HateNPC: I hate {NPCName}.
+					Content: It's pretty chill here.这儿真是太冷了.
+					NoHome: Man, I can't care for all my little buddies without a proper home!朋友，没有家的话我就不能照顾我的小家伙
+					LoveSpace: There's so much room here for TUB to run around, it's great!这儿有足够的地方让TUB跑来跑去，太棒了
+					FarFromHome: I don't think TUB is feeling too comfortable this far away from home.离家太远的话，TUB会不舒服的
+					DislikeCrowded: It's a bit uncomfortable here with all these dudes here - not much space for my little buddies.太多人的话会有点不舒服-没有足够的地方给我的小家伙
+					HateCrowded: All of these people are scaring TUB!所以人都在惊吓TUB
+					LikeBiome: The {BiomeName} is a nice and peaceful place for me and my little buddies to settle down.{BiomeName}是个美好而又宁静的地方让我的小家伙休息
+					DislikeBiome: The {BiomeName} isn’t really a suitable place for most of my little buddies.对我的大多数小家伙而言，{BiomeName}不是一个合适的地方
+					HateBiome: All of these monsters are worrying, I don't feel like TUB is safe.这些怪物一直在骚扰着，我不认为TUB很安全
+					LikeNPC: "{NPCName} is pretty rad. Her and TUB make good friends.""{NPCName}太棒了,TUB和她成为了好朋友"
+					DislikeNPC: "{NPCName} is a disgusting punk who hunts little critters for fun, how vile!""{NPCName}是个以捉弄小动物为乐的卑鄙小人，太可恶了"
+					LikeNPC_Princess: "{NPCName} seems to be popular with the animals, she has a nice vibe.""动物面对{NPCName}时似乎很友好，美好的气氛总是围绕着她"
+					Princess_LovesNPC: I like how chill {NPCName} is. Her little TUB is cute too!我喜欢{NPCName}总是很冷静,她的小TUB也十分可爱
+					LoveBiome: I love {BiomeName}.我喜欢{BiomeName}
+					LoveNPC: I love {NPCName}.我喜欢{NPCName}
+					HateNPC: I hate {NPCName}.我讨厌{NPCName}
 				}
 			}
 
@@ -135,24 +135,24 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: 影之祸
 				Tooltip:
 					'''
-					Makes cursed fireballs erupt from enemies on true melee hits
-					Right click to unleash fireballs in random directions along with an onyx dart
+					Makes cursed fireballs erupt from enemies on true melee hits近战击中敌人时发射诅咒火球
+					Right click to unleash fireballs in random directions along with an onyx dart右键将从随机方向
 					'Edgy sword #2940358304' 
 					'''
 			}
 
 			Nyanthrop: {
 				DisplayName: 奈亚斯洛普
-				Tooltip: Fires typhoons in random directions
+				Tooltip: Fires typhoons in random directions从随机方向发射龙卷风
 			}
 
 			KnowledgeMeldosaurus: {
 				DisplayName: 冥思恐龙
 				Tooltip:
 					'''
-					The Meldosaurus...
-					A dreaded creature birthed from the wills of decay. Nobody knows why it exists, and what it wants...
-					HUGH! Glad he's gone now!!! Him being inside me was making me itchy!
+					The Meldosaurus...米鲁龙...
+					A dreaded creature birthed from the wills of decay. Nobody knows why it exists, and what it wants...从腐化中诞生的可怕生物.没人知道它为何存在,它想要什么
+					HUGH! Glad he's gone now!!! Him being inside me was making me itchy!休!很高兴现在他已经走了!!!
 					'''
 			}
 
@@ -180,8 +180,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: 丛林暴君杰粒木被斩首的脑袋
 				Tooltip:
 					'''
-					Summons the Jungle Tyrant
-					Does not work outside of April Fools
+					Summons the Jungle Tyrant召唤丛林暴君
+					Does not work outside of April Fools愚人节之外没有效果
 					'''
 			}
 
@@ -189,8 +189,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: 净化之雾
 				Tooltip:
 					'''
-					Summons the Fogbound
-					':Why:'
+					Summons the Fogbound召唤迷雾
+					':Why:'为什么
 					'''
 			}
 
@@ -326,7 +326,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				# Backs
 				DisplayName: 背包服务器
 				# Backs
-				Tooltip: "'Draedon's eyes are on you' "
+				Tooltip: "'Draedon's eyes are on you' ""嘉登之眼在你身上"
 			}
 
 			PrismShell: {
@@ -424,29 +424,29 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			EidCape: {
 				# Capes
-				DisplayName: Eidolist Cape
+				DisplayName: Eidolist Cape幻海灵巫披风
 				# Capes
-				Tooltip: Whispers of the deep can be heard through the weavings of this eldritch fabric...
+				Tooltip: Whispers of the deep can be heard through the weavings of this eldritch fabric...深渊的低语从这件可怕的纺织品中传出
 			}
 
 			SigCape: {
-				DisplayName: Signus' Cape
-				Tooltip: Mask yourself in the shadows
+				DisplayName: Signus' Cape神之使徒,西格纳斯的披风
+				Tooltip: Mask yourself in the shadows让你隐藏在阴影之中
 			}
 
 			YharimCape: {
-				DisplayName: Tyrant's Cape
-				Tooltip: Not the true one, but still regal and elegant
+				DisplayName: Tyrant's Cape暴君披风
+				Tooltip: Not the true one, but still regal and elegant不是真的,但仍然优雅而又豪华
 			}
 
 			YharimCapeBaby: {
-				DisplayName: Auric Mantle
-				Tooltip: "'Still not the true one, looks like a kid's toy'"
+				DisplayName: Auric Mantle圣金源披风
+				Tooltip: "'Still not the true one, looks like a kid's toy'"仍然不是真的,看起来像个孩子的玩具
 			}
 
 			DraedonHelmet: {
 				# Hats
-				DisplayName: Arsenal Soldier Helmet
+				DisplayName: Arsenal Soldier Helmet大兵头盔
 				# Hats
 				Tooltip:
 					'''
