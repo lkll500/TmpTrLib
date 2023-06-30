@@ -466,7 +466,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AncientPerennialFlower: {
-				DisplayName: Ancient Perennial Tulip不朽郁金香
+				DisplayName: Ancient Perennial Tulip古代永恒郁金香
 				Tooltip: "'I'm a pretty girl!'"我是个美丽的女孩
 			}
 
@@ -491,12 +491,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BelladonnaHat: {
-				DisplayName: Belladona Spirit Hat
+				DisplayName: Belladona Spirit Hat莨菪之灵帽
 				Tooltip: Poisonous, but stylish有毒,但时尚
 			}
 
 			BigWorm: {
-				DisplayName: Large Perforator Mask
+				DisplayName: Large Perforator Mask（大）血肉寄生者面具
 				Tooltip: "'In the anne-lead'"
 			}
 
@@ -521,8 +521,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			CoralMask: {
-				DisplayName: Belching Coral Mask
-				Tooltip: "'It's big brine time'"
+				DisplayName: Belching Coral Mask喷嚏珊瑚面具
+				Tooltip: "'It's big brine time'"喷水时间到
 			}
 
 			CosmicCone: {
@@ -576,7 +576,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			FallenPaladinsHelmet: {
-				DisplayName: "Fallen Paladin's Helmet "陨落圣骑士头盔
+				DisplayName: "Fallen Paladin's Helmet "堕落圣骑士头盔
 				Tooltip: ""
 			}
 
@@ -601,7 +601,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			MidWorm: {
-				DisplayName: Medium Perforator Mask
+				DisplayName: Medium Perforator Mask（中）血肉寄生者面具
 				Tooltip: "'Worming its way to the top!'"
 			}
 
@@ -611,67 +611,67 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			OmegaBlue: {
-				DisplayName: Ancient Omega Blue Helmet
-				Tooltip: You are beneath my notice, wyrm!
+				DisplayName: Ancient Omega Blue Helmet古代蓝色欧米茄头盔
+				Tooltip: You are beneath my notice, wyrm!你在我的注意之下，虫子
 			}
 
 			OracleBeanie: {
-				DisplayName: Oracle's Beanie
+				DisplayName: Oracle's Beanie神谕者小帽
 				Tooltip: ""
 			}
 
 			PerennialFlower: {
-				DisplayName: Perennial Tulip
-				Tooltip: "'Am I a pretty girl?'"
+				DisplayName: Perennial Tulip永恒郁金香
+				Tooltip: "'Am I a pretty girl?'"我是个美丽的女孩吗
 			}
 
 			PolterMask: {
-				DisplayName: Odd Polterghast Mask
+				DisplayName: Odd Polterghast Mask奇怪幽花面具
 				Tooltip: ""
 			}
 
 			ProfanedCultistMask: {
-				DisplayName: Profaned Cultist Mask
+				DisplayName: Profaned Cultist Mask邪教教徒面具
 				Tooltip: ""
 			}
 
 			ScornEaterMask: {
-				DisplayName: Scorn Eater Mask
-				Tooltip: The searing fire blazes fiercly
+				DisplayName: Scorn Eater Mask吞食魔面具
+				Tooltip: The searing fire blazes fiercly灼热的火焰熊熊燃烧
 			}
 
 			SeaCrown: {
-				DisplayName: Sea Empress Crown
-				Tooltip: Wearing this will make you feel royal
+				DisplayName: Sea Empress Crown海洋女皇面具
+				Tooltip: Wearing this will make you feel royal戴了这个你会变得高贵
 			}
 
 			SlimeGodMask: {
-				DisplayName: Slime God Core Mask
+				DisplayName: Slime God Core Mask史莱姆之神面具（核心）
 				Tooltip: ""
 			}
 
 			SmallWorm: {
-				DisplayName: Small Perforator Mask
+				DisplayName: Small Perforator Mask（小）血肉寄生者面具
 				Tooltip: "'The worm-st one of the bunch'"
 			}
 
 			SpectralstormHat: {
-				DisplayName: Spectralstorm Hat
+				DisplayName: Spectralstorm Hat光谱风暴帽
 				Tooltip: "'The actual dumbest idea ever submitted to suggestions'"
 			}
 
 			SquidHat: {
-				DisplayName: The Squid Hat
-				Tooltip: Splattershot sold separately
+				DisplayName: The Squid Hat乌贼帽
+				Tooltip: Splattershot sold separately墨水飞溅地到处都是
 			}
 
 			StonePile: {
-				DisplayName: Stone Pile
-				Tooltip: "'Requires a strong head to wear'"
+				DisplayName: Stone Pile石头堆
+				Tooltip: "'Requires a strong head to wear'"需要一个坚硬的脑袋来戴
 			}
 
 			TerminalMask: {
-				DisplayName: Terminal Facemask
+				DisplayName: Terminal Facemask终末面具
 				Tooltip:
 					'''
 					Through bloodshed and turmoil new sight is attained,
@@ -680,22 +680,22 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			TrueCosmicCone: {
-				DisplayName: True Cosmic Cone
-				Tooltip: "'A cosmically large hat so pointy it could pierce through dimensions' "
+				DisplayName: True Cosmic Cone真▪宇宙圆锥帽
+				Tooltip: "'A cosmically large hat so pointy it could pierce through dimensions' "尖锐到可以刺穿空间
 			}
 
 			UnloadedHelm: {
-				DisplayName: Unloaded Helm
-				Tooltip: Still reeks
+				DisplayName: Unloaded Helm过载装甲帽
+				Tooltip: Still reeks仍然很臭
 			}
 
 			DraedonLeggings: {
 				# Legs
-				DisplayName: Arsenal Soldier Leggings
+				DisplayName: Arsenal Soldier Leggings阿森纳士兵护腿
 				# Legs
 				Tooltip:
 					'''
-					CURRENTLY UNSTABLE
+					CURRENTLY UNSTABLE目前不稳定
 					Well, not really, only the other pieces are,
 					but why would you use these without them? 
 					'''
@@ -707,42 +707,42 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BrimmySpirit: {
-				DisplayName: Brimstone Flames
+				DisplayName: Brimstone Flames硫磺火焰
 				Tooltip: ""
 			}
 
 			CultistLegs: {
-				DisplayName: Cultist Assassin Pants
+				DisplayName: Cultist Assassin Pants邪教教徒裤
 				Tooltip: ""
 			}
 
 			DemonshadePants: {
-				DisplayName: Ancient Demonshade Greaves
+				DisplayName: Ancient Demonshade Greaves古代魔影裤
 				Tooltip: ""
 			}
 
 			DraedonLegs: {
-				DisplayName: Draedon Legs
+				DisplayName: Draedon Legs嘉登裤
 				Tooltip: ""
 			}
 
 			EarthenLeggings: {
-				DisplayName: Earthen Leggings
+				DisplayName: Earthen Leggings土质裤
 				Tooltip: ""
 			}
 
 			FallenPaladinsGreaves: {
-				DisplayName: "Fallen Paladin's Greaves "
+				DisplayName: "Fallen Paladin's Greaves "堕落圣骑士裤
 				Tooltip: ""
 			}
 
 			PolterStockings: {
-				DisplayName: Odd Polterghast Stockings
+				DisplayName: Odd Polterghast Stockings奇怪幽花长袜
 				Tooltip: ""
 			}
 
 			SignusNether: {
-				DisplayName: Nether Spirit
+				DisplayName: Nether Spirit下界之灵
 				Tooltip: Gaining literal nether regions
 			}
 
