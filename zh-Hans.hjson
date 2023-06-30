@@ -430,7 +430,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SigCape: {
-				DisplayName: Signus' Cape神之使徒,西格纳斯的披风
+				DisplayName: Signus' Cape西格纳斯的披风
 				Tooltip: Mask yourself in the shadows让你隐藏在阴影之中
 			}
 
@@ -450,7 +450,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				# Hats
 				Tooltip:
 					'''
-					Changes appearance depending on held item damage type依据物品伤害种类改变外貌
+					Changes appearance depending on held item damage type依据物品的伤害种类改变外观
 					CURRENTLY UNSTABLE目前不稳定
 					'''
 			}
@@ -461,7 +461,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AncientAuricTeslaHelm: {
-				DisplayName: Ancient Auric Tesla Helm古圣金源头甲
+				DisplayName: Ancient Auric Tesla Helm古代圣金源头盔
 				Tooltip: A polished piece of an ancient armor一个抛光的古代盔甲
 			}
 
@@ -566,7 +566,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			EarthenHelmet: {
-				DisplayName: Earthen Helmet土质头盔
+				DisplayName: Earthen Helmet土制头盔
 				Tooltip: ""
 			}
 
@@ -631,7 +631,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ProfanedCultistMask: {
-				DisplayName: Profaned Cultist Mask邪教教徒面具
+				DisplayName: Profaned Cultist Mask亵渎教徒面具
 				Tooltip: ""
 			}
 
@@ -646,7 +646,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SlimeGodMask: {
-				DisplayName: Slime God Core Mask史莱姆之神面具（核心）
+				DisplayName: Slime God Core Mask史莱姆之神（核心）面具
 				Tooltip: ""
 			}
 
@@ -712,7 +712,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			CultistLegs: {
-				DisplayName: Cultist Assassin Pants邪教教徒裤
+				DisplayName: Cultist Assassin Pants邪教刺客裤
 				Tooltip: ""
 			}
 
@@ -727,7 +727,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			EarthenLeggings: {
-				DisplayName: Earthen Leggings土质裤
+				DisplayName: Earthen Leggings土制裤
 				Tooltip: ""
 			}
 
@@ -742,92 +742,92 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SignusNether: {
-				DisplayName: Nether Spirit下界之灵
+				DisplayName: Nether Spirit下界灵体
 				Tooltip: Gaining literal nether regions
 			}
 
 			TerrorLegs: {
-				DisplayName: Terror Legs
-				Tooltip: "'They're twitching'"
+				DisplayName: Terror Legs恐怖之腿
+				Tooltip: "'They're twitching'"它们正在抽搐
 			}
 
 			AstBandana: {
 				# Scarves
-				DisplayName: Astral Bandana
+				DisplayName: Astral Bandana幻星围巾
 				# Scarves
-				Tooltip: "'Space Age Fashion!'"
+				Tooltip: "'Space Age Fashion!'"引领宇宙潮流
 			}
 
 			BloodwormScarf: {
-				DisplayName: Bloodworm Scarf
-				Tooltip: That bloody creature is trying to burrow into your neck!
+				DisplayName: Bloodworm Scarf血蠕虫围巾
+				Tooltip: That bloody creature is trying to burrow into your neck!这个血腥的生物正尝试钻进你的脖子
 			}
 
 			CosmicWormScarf: {
-				DisplayName: Cosmic Worm Scarf
-				Tooltip: "'Spacetime Fashion!'"
+				DisplayName: Cosmic Worm Scarf宇宙蠕虫围巾
+				Tooltip: "'Spacetime Fashion!'"扭曲时空的时尚
 			}
 
 			DesertMedallion: {
-				DisplayName: Budget Desert Medallion
-				Tooltip: Because the other one is too cursed to wear
+				DisplayName: Budget Desert Medallion廉价沙漠项链
+				Tooltip: Because the other one is too cursed to wear因为另一个被诅咒
 			}
 
 			PermaScarf: {
-				DisplayName: Permafrost's Scarf
-				Tooltip: Stay Frosty
+				DisplayName: Permafrost's Scarf永东围巾
+				Tooltip: Stay Frosty保持霜冻
 			}
 
 			ProviCrystal: {
-				DisplayName: Unholy Charm
-				Tooltip: A rare treasure gifted from the profaned goddess
+				DisplayName: Unholy Charm亵渎项链
+				Tooltip: A rare treasure gifted from the profaned goddess一个来自亵渎天神的稀有宝物
 			}
 
 			RapturedWormScarf: {
-				DisplayName: Raptured Worm Scarf
-				Tooltip: So stylish it bends the fabric of reality!
+				DisplayName: Raptured Worm Scarf扭曲蠕虫围巾
+				Tooltip: So stylish it bends the fabric of reality!时尚到被扭曲的织物
 			}
 
 			SignusEmblem: {
-				DisplayName: Signus Emblem
-				Tooltip: Contains some abyssal energy
+				DisplayName: Signus Emblem西格纳斯的徽章
+				Tooltip: Contains some abyssal energy包含一些深渊能量
 			}
 
 			StormBandana: {
-				DisplayName: Storm Bandanna
-				Tooltip: "'Electrifying Fashion!'"
+				DisplayName: Storm Bandanna风暴围巾
+				Tooltip: "'Electrifying Fashion!'"令人激动的时尚风格
 			}
 
 			UniversalWormScarf: {
-				DisplayName: Universal Worm Scarf
-				Tooltip: "'Eat it all, without bending reality' "
+				DisplayName: Universal Worm Scarf终极蠕虫围巾
+				Tooltip: "'Eat it all, without bending reality' "不用扭曲现实，直接吞噬一切
 			}
 
 			YharonShackle: {
-				DisplayName: Yharon's Shackle
-				Tooltip: It barely fits you...
+				DisplayName: Yharon's Shackle犽戎项圈
+				Tooltip: It barely fits you...勉强适合你...
 			}
 
 			AureusShield: {
 				# Shields
-				DisplayName: Aureus Bulwark
+				DisplayName: Aureus Bulwark星辉盾牌
 				# Shields
-				Tooltip: Smaller in execution
+				Tooltip: Smaller in execution使用时变小
 			}
 
 			EarthShield: {
-				DisplayName: Tower Shield of the Elemental
-				Tooltip: "'Looks sturdy, but it's actually soft, useless stone!'"
+				DisplayName: Tower Shield of the Elemental地灵塔盾
+				Tooltip: "'Looks sturdy, but it's actually soft, useless stone!'"看起来很坚固,实际上很柔软,不是石头
 			}
 
 			Invishield: {
 				DisplayName: Compensation
-				Tooltip: Can be sold
+				Tooltip: Can be sold可出售
 			}
 
 			TrilobiteShield: {
-				DisplayName: Trilobuckler
-				Tooltip: "'An ancient shield that's too old to block attacks'"
+				DisplayName: Trilobuckler三叶虫盾牌
+				Tooltip: "'An ancient shield that's too old to block attacks'"一个太旧了以致于防护不了任何攻击的盾牌
 			}
 
 			AresChestplate: {
@@ -842,11 +842,11 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			DraedonChestplate: {
-				DisplayName: Arsenal Soldier Chestplate
+				DisplayName: Arsenal Soldier Chestplate阿森纳士兵胸甲
 				Tooltip:
 					'''
-					Changes appearance depending on held item damage type
-					CURRENTLY UNSTABLE 
+					Changes appearance depending on held item damage type依据物品的伤害种类改变外观
+					CURRENTLY UNSTABLE 目前不稳定
 					'''
 			}
 
@@ -861,57 +861,57 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BloodyMaryDress: {
-				DisplayName: Bloody Mary Dress
+				DisplayName: Bloody Mary Dress血腥玛丽裙
 				Tooltip: ""
 			}
 
 			BrimmyBody: {
-				DisplayName: Brimstone Elemental Suit
+				DisplayName: Brimstone Elemental Suit硫磺火上衣
 				Tooltip: ""
 			}
 
 			Cryocoat: {
-				DisplayName: Cryocoat
+				DisplayName: Cryocoat寒冰外套
 				Tooltip: ""
 			}
 
 			CultistRobe: {
-				DisplayName: Cultist Assassin Robe
+				DisplayName: Cultist Assassin Robe邪教刺客长袍
 				Tooltip: ""
 			}
 
 			DemonshadeRobe: {
-				DisplayName: Ancient Demonshade Breastplate
+				DisplayName: Ancient Demonshade Breastplate古代魔影胸甲
 				Tooltip: ""
 			}
 
 			DraedonBody: {
-				DisplayName: Draedon Thorax
+				DisplayName: Draedon Thorax嘉登胸甲
 				Tooltip: ""
 			}
 
 			EarthenBreastplate: {
-				DisplayName: Earthen Breastplate
+				DisplayName: Earthen Breastplate土制胸甲
 				Tooltip: ""
 			}
 
 			FallenPaladinsPlateMail: {
-				DisplayName: Fallen Paladin's Plate Mail
+				DisplayName: Fallen Paladin's Plate Mail堕落圣骑士铠甲
 				Tooltip: ""
 			}
 
 			PerennialDress: {
-				DisplayName: Perennial Dress
-				Tooltip: Flowering out
+				DisplayName: Perennial Dress永恒长裙
+				Tooltip: Flowering out开花
 			}
 
 			Polterskirt: {
-				DisplayName: Odd Polterghast Dress
+				DisplayName: Odd Polterghast Dress奇怪幽花裙
 				Tooltip: ""
 			}
 
 			ProfanedCultistRobes: {
-				DisplayName: Profaned Cultist Robes
+				DisplayName: Profaned Cultist Robes亵渎教徒长袍
 				Tooltip: ""
 			}
 
@@ -922,9 +922,9 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			BurningEye: {
 				# Transformations
-				DisplayName: Burning Eye
+				DisplayName: Burning Eye炽热之眼
 				# Transformations
-				Tooltip: Engulfs the wearer in Brimstone Flames
+				Tooltip: Engulfs the wearer in Brimstone Flames穿戴者将被硫磺火吞噬
 			}
 
 			CloudWaistBelt: {
@@ -933,78 +933,78 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ProtoRing: {
-				DisplayName: Prototype Ring
-				Tooltip: Transforms the wearer into a small mech
+				DisplayName: Prototype Ring原型机戒指
+				Tooltip: Transforms the wearer into a small mech将穿戴者变成一个小机器人
 			}
 
 			SandyBangles: {
-				DisplayName: Sandy Bangles
-				Tooltip: Encompasses the wearer in sand
+				DisplayName: Sandy Bangles沙尘精手镯
+				Tooltip: Encompasses the wearer in sand你现在是美美的沙尘精了！
 			}
 
 			Signus: {
-				DisplayName: Twilight Charm
+				DisplayName: Twilight Charm暮色徽章
 				Tooltip:
 					'''
-					Transforms the wearer into a nether spirit 
-					'One with the void'
+					Transforms the wearer into a nether spirit 你现在是西格纳斯了
+					'One with the void'伴随虚空之人
 					'''
 			}
 
 			AeroWings: {
 				# Wings
-				DisplayName: Aero Wings
+				DisplayName: Aero Wings天蓝翅膀
 				# Wings
 				Tooltip:
 					'''
-					'It's a windy day'
-					Horizontal speed: 1
-					Acceleration multiplier: 1
-					Flight time: 32 
+					'It's a windy day'大风时间到
+					Horizontal speed: 1水平飞行速度：1
+					Acceleration multiplier: 1加速倍率：1
+					Flight time: 32 飞行时间：32
 					'''
 			}
 
 			FollyWings: {
-				DisplayName: Folly Wings
+				DisplayName: Folly Wings癫痫之翼
 				Tooltip:
 					'''
-					'Fly like an eagle'
-					Horizontal speed: 9
-					Acceleration multiplier: 2.5
-					Flight time: 210 
+					'Fly like an eagle'像鹰一样飞吧
+					Horizontal speed: 9水平飞行速度：9
+					Acceleration multiplier: 2.5加速倍率：2.5
+					Flight time: 210 飞行时间：210
 					'''
 			}
 
 			GodspeedBoosters: {
-				DisplayName: Godspeed Boosters
+				DisplayName: Godspeed Boosters神速推进器
 				Tooltip:
 					'''
 					'Devout propulsion!'
-					Horizontal speed: 9
-					Acceleration multiplier: 2.7
-					Flight time: 200 
+					Horizontal speed: 9水平飞行速度：9
+					Acceleration multiplier: 2.7加速倍率：2.7
+					Flight time: 200 飞行时间：200
 					'''
 			}
 
 			JunglePhoenixWings: {
-				DisplayName: Chicken Wings
+				DisplayName: Chicken Wings金拱门之翼
 				Tooltip:
 					'''
 					'Hot and ready'
-					Horizontal speed: 11.5
-					Acceleration multiplier: 2.9
-					Flight time: 140 
+					Horizontal speed: 11.5水平飞行速度：11.5
+					Acceleration multiplier: 2.9加速倍率：2.9
+					Flight time: 140 飞行时间：140
 					'''
 			}
 
 			LeviWings: {
-				DisplayName: Leviathan Fin Wings
+				DisplayName: Leviathan Fin Wings利维坦鳍翼
 				Tooltip:
 					'''
-					'Flip flop'
-					Horizontal speed: 6.75
-					Acceleration multiplier: 1.4
-					Flight time: 120 
+					'Flip flop'快速着陆
+					Horizontal speed: 6.75水平飞行速度：6.75
+					Acceleration multiplier: 1.4加速倍率：1.4
+					Flight time: 120 飞行时间：120
 					'''
 			}
 
@@ -1013,88 +1013,88 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					'Literally carried out of the darkness'
-					Horizontal speed: 9
-					Acceleration multiplier: 2.5
-					Flight time: 250 
+					Horizontal speed: 9水平飞行速度：9
+					Acceleration multiplier: 2.5加速倍率：2.5
+					Flight time: 250 飞行时间：250
 					'''
 			}
 
 			OldWings: {
-				DisplayName: Old Duke Wings
+				DisplayName: Old Duke Wings遗爵之翼
 				Tooltip:
 					'''
 					'Toxic propulsion!'
-					Horizontal speed: 9.5
-					Acceleration multiplier: 2.7
-					Flight time: 190 
+					Horizontal speed: 9.5水平飞行速度：9.5
+					Acceleration multiplier: 2.7加速倍率：2.7
+					Flight time: 190 飞行时间：190
 					'''
 			}
 
 			PlaguePack: {
-				DisplayName: Beelzebooster
+				DisplayName: Beelzebooster瘟疫推进器
 				Tooltip:
 					'''
 					'And they wonder how bees can get themselves off the ground...'
-					Horizontal speed: 7.8
-					Acceleration multiplier: 1.9
-					Flight time: 170 
+					Horizontal speed: 7.8水平飞行速度：7.8
+					Acceleration multiplier: 1.9加速倍率：1.9
+					Flight time: 170 飞行时间：170
 					'''
 			}
 
 			PlaugeWings: {
-				DisplayName: Plaguebringer Wings
+				DisplayName: Plaguebringer Wings瘟疫之翼
 				Tooltip:
 					'''
-					'Nanomachines not included'
-					Horizontal speed: 7.75
-					Acceleration multiplier: 1.5
-					Flight time: 150 
+					'Nanomachines not included'不包括纳米机器
+					Horizontal speed: 7.75水平飞行速度：7.75
+					Acceleration multiplier: 1.5加速倍率：1.5
+					Flight time: 150 飞行时间：150
 					'''
 			}
 
 			ScryllianWings: {
-				DisplayName: Scryllian Wings
+				DisplayName: Scryllian Wings恶魔仆从之翼
 				Tooltip:
 					'''
 					Inflicts intense burns when worn before the flesh wall falls
 					'RISE!'
-					Horizontal speed: 6.5
-					Acceleration multiplier: 1
-					Flight time: 60 
+					Horizontal speed: 6.5水平飞行速度：6.5
+					Acceleration multiplier: 1加速倍率：1
+					Flight time: 60 飞行时间：60
 					'''
 			}
 
 			TerminalWings: {
-				DisplayName: Wings of Termina
+				DisplayName: Wings of Termina终末之翼
 				Tooltip:
 					'''
 					Through death and destruction new heights are attained
 					on wings of a pandemonic butterfly 
-					Horizontal speed: 1
-					Acceleration multiplier: 1
-					Flight time: 60 
+					Horizontal speed: 1水平飞行速度：1
+					Acceleration multiplier: 1加速倍率：1
+					Flight time: 60 飞行时间：60
 					'''
 			}
 
 			VoidWings: {
-				DisplayName: Void Wings
+				DisplayName: Void Wings虚空之翼
 				Tooltip:
 					'''
-					'Let the darkness carry you'
-					Horizontal speed: 9
-					Acceleration multiplier: 2.5
-					Flight time: 230 
+					'Let the darkness carry you'让虚空带你前行
+					Horizontal speed: 9水平飞行速度：9
+					Acceleration multiplier: 2.5加速倍率：2.5
+					Flight time: 230 飞行时间：230
 					'''
 			}
 
 			WulfrumHelipack: {
-				DisplayName: Wulfrum Helipack
+				DisplayName: Wulfrum Helipack钨钢喷射包
 				Tooltip:
 					'''
-					Extremely faulty
-					Horizontal speed: 0.8
-					Acceleration multiplier: 0.8
-					Flight time: 0.6 
+					Extremely faulty极其垃圾
+					Horizontal speed: 0.8水平飞行速度：0.8
+					Acceleration multiplier: 0.8加速倍率：0.8
+					Flight time: 0.6 飞行时间：0.6
 					'''
 			}
 
@@ -1105,9 +1105,9 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					'Prehistoric pull power!'
-					Reach: 31
-					Launch Velocity: 18
-					Pull Velocity: 17 
+					Reach: 31长度：31
+					Launch Velocity: 18发射速度：18
+					Pull Velocity: 17 回收速度：17
 					'''
 			}
 
@@ -1118,62 +1118,62 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					'Let the eternally suffering souls pull you forward!'
-					Reach: 46
-					Launch Velocity: 16
-					Pull Velocity: 20 
+					Reach: 46长度：46
+					Launch Velocity: 16发射速度：16
+					Pull Velocity: 20 回收速度：20
 					'''
 			}
 
 			PhantomHook.DisplayName: Phantom Hook
 
 			ProfanedEnergyHook: {
-				DisplayName: Profaned Energy Hook
+				DisplayName: Profaned Energy Hook亵渎能量钩爪
 				Tooltip:
 					'''
 					'Jerk the holy chains'
-					Reach: 37
-					Launch Velocity: 16
-					Pull Velocity: 30 
+					Reach: 37长度：37
+					Launch Velocity: 16发射速度：16
+					Pull Velocity: 30 回收速度：30
 					'''
 			}
 
 			ProfanedHook.DisplayName: Profaned Hook
 
 			RavaHook: {
-				DisplayName: Ravager Claw
+				DisplayName: Ravager Claw复仇者钩爪
 				Tooltip:
 					'''
-					'Here to gouge out your eyes'
-					Reach: 43
-					Launch Velocity: 18
-					Pull Velocity: 20 
+					'Here to gouge out your eyes'抓住你的眼球
+					Reach: 43长度：43
+					Launch Velocity: 18发射速度：18
+					Pull Velocity: 20 回收速度：20
 					'''
 			}
 
 			RavaClaw.DisplayName: Ravager Claw
 
 			ScavaHook: {
-				DisplayName: Ancient Scavenger Claw
+				DisplayName: Ancient Scavenger Claw古代拾荒者钩爪
 				Tooltip:
 					'''
 					'Here to gouge out your eyes, runic style!'
-					Reach: 50
-					Launch Velocity: 19
-					Pull Velocity: 25 
+					Reach: 50长度：50
+					Launch Velocity: 19发射速度：19
+					Pull Velocity: 25 回收速度：25
 					'''
 			}
 
 			ScavaClaw.DisplayName: Scavenger Claw
 
 			XMLightningHook: {
-				DisplayName: XM-Lightning Hook
+				DisplayName: XM-Lightning HookXM-激光钩爪
 				Tooltip:
 					'''
 					'Snap at lightning speed!'
 					Cannot be used while Chaos State is active
-					Reach: 60
-					Launch Velocity: 62
-					Pull Velocity: 35 
+					Reach: 60长度：60
+					Launch Velocity: 62发射速度：62
+					Pull Velocity: 35 回收速度：35
 					'''
 			}
 
