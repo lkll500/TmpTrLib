@@ -1100,11 +1100,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			MawHook: {
 				# Hooks
-				DisplayName: Cragmaw Spinehook
+				DisplayName: Cragmaw Spinehook克拉格莫棘钩
 				# Hooks
 				Tooltip:
 					'''
-					'Prehistoric pull power!'
+					'Prehistoric pull power!'史前拉力
+
 					Reach: 31长度：31
 					Launch Velocity: 18发射速度：18
 					Pull Velocity: 17 回收速度：17
@@ -1114,10 +1115,10 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			MawTeeth.DisplayName: Maw Jaw
 
 			PolterHook: {
-				DisplayName: Ghastly Chains
+				DisplayName: Ghastly Chains鬼魂锁链
 				Tooltip:
 					'''
-					'Let the eternally suffering souls pull you forward!'
+					'Let the eternally suffering souls pull you forward!'让永恒受苦的灵魂拉着你前进
 					Reach: 46长度：46
 					Launch Velocity: 16发射速度：16
 					Pull Velocity: 20 回收速度：20
@@ -1130,7 +1131,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Profaned Energy Hook亵渎能量钩爪
 				Tooltip:
 					'''
-					'Jerk the holy chains'
+					'Jerk the holy chains'拉着神圣之链
 					Reach: 37长度：37
 					Launch Velocity: 16发射速度：16
 					Pull Velocity: 30 回收速度：30
@@ -1140,10 +1141,10 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			ProfanedHook.DisplayName: Profaned Hook
 
 			RavaHook: {
-				DisplayName: Ravager Claw复仇者钩爪
+				DisplayName: Ravager Claw复仇之魂钩爪
 				Tooltip:
 					'''
-					'Here to gouge out your eyes'抓住你的眼球
+					'Here to gouge out your eyes'挖出你的眼球
 					Reach: 43长度：43
 					Launch Velocity: 18发射速度：18
 					Pull Velocity: 20 回收速度：20
@@ -1169,8 +1170,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: XM-Lightning HookXM-激光钩爪
 				Tooltip:
 					'''
-					'Snap at lightning speed!'
-					Cannot be used while Chaos State is active
+					'Snap at lightning speed!'闪电一击
+					Cannot be used while Chaos State is active使用时获得三秒混乱减益并无法使用
 					Reach: 60长度：60
 					Launch Velocity: 62发射速度：62
 					Pull Velocity: 35 回收速度：35
@@ -1181,88 +1182,88 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			ExodiumMoon: {
 				# Misc
-				DisplayName: Exodium Orbiter
+				DisplayName: Exodium Orbiter起源之星
 				# Misc
-				Tooltip: A world revolving
+				Tooltip: A world revolving围绕着你旋转
 			}
 
 			AntarcticEssence: {
 				# Light Pets
-				DisplayName: Antarctic Essence
+				DisplayName: Antarctic Essence南极之星
 				# Light Pets
 				Tooltip:
 					'''
-					UNOBTAINABLE
-					Does nothing for now 
+					UNOBTAINABLE无法获得
+					Does nothing for now 现在无法使用
 					'''
 			}
 
 			AstralBinoculars: {
-				DisplayName: Astral Binoculars
+				DisplayName: Astral Binoculars星辉望远镜
 				# Provides a moderate amount of light in the abyss
 				Tooltip:
 					'''
-					Summons a Sightseeing Tour
-					'You can see something in the distance'
-					Provides a moderate amount of light in the abyss 
+					Summons a Sightseeing Tour召唤监星之眼
+					'You can see something in the distance'你看得更远了
+					Provides a moderate amount of light in the abyss 在深渊中提供适量的光照
 					'''
 			}
 
 			ConstructionRemote: {
-				DisplayName: Construction Remote
+				DisplayName: Construction Remote远程建造器
 				Tooltip:
 					'''
-					Summons a small digger to follow you and light your way
-					Caution: Pairing with a repair unit will result in supercharging! 
+					Summons a small digger to follow you and light your way召唤一个小装甲掘地虫跟随你并照亮你的路
+					Caution: Pairing with a repair unit will result in supercharging! 警告：使用维修装置将导致过载
 					'''
 			}
 
 			CoreofVanity: {
-				DisplayName: Core of Vanity
+				DisplayName: Core of Vanity虚荣核心
 				Tooltip:
 					'''
-					Summons pet Heat Sprits and a Sunskater to follow you
+					Summons pet Heat Sprits and a Sunskater to follow you召唤一个宠物热能之魂和一个寻阳鱼跟随你
 					'The frozen one is taking a break'
-					Provides a large amount of light in the abyss 
+					Provides a large amount of light in the abyss在深渊中提供大量的光照
 					'''
 			}
 
 			CosmicBubble: {
-				DisplayName: Cosmic Bubble
+				DisplayName: Cosmic Bubble宇宙圆环
 				Tooltip:
 					'''
-					Summons the cosmic assistant to help you in your endeavors
-					'Enreden's developer pet, without him this mod likely wouldn't be here' 
-					Provides a gigantic amount of light in the abyss
+					Summons the cosmic assistant to help you in your endeavors召唤宇宙助理帮助你努力
+					'Enreden's developer pet, without him this mod likely wouldn't be here' Enreden的开发者宠物,没有他这个就没有这个mod
+					Provides a gigantic amount of light in the abyss在深渊中提供巨量的光照
 					'''
 			}
 
 			DarksunSigil: {
-				DisplayName: Darksun Sigil
+				DisplayName: Darksun Sigil暗日纹章
 				Tooltip:
 					'''
-					Summons Darksun Spirits to follow you
-					Provides a gigantic amount of light in the abyss 
+					Summons Darksun Spirits to follow you召唤暗日之灵跟随你
+					Provides a gigantic amount of light in the abyss 在深渊中提供巨量的光照
 					'''
 			}
 
 			DivineFly: {
-				DisplayName: Divine Fly
+				DisplayName: Divine Fly神圣之蝇
 				Tooltip:
 					'''
-					Summons a Grand Entity
-					'Ascension'
-					Provides a large amount of light in the abyss 
+					Summons a Grand Entity召唤神圣青蛙
+					'Ascension'升天
+					Provides a large amount of light in the abyss 在深渊中提供大量的光照
 					'''
 			}
 
 			EssenceofDisorder: {
-				DisplayName: Essence of Disorder
+				DisplayName: Essence of Disorder无序精华
 				Tooltip:
 					'''
-					Summons a pair of Heat Spirits to light your way 
-					'Come burn with me' 
-					Provides a moderate amount of light in the abyss
+					Summons a pair of Heat Spirits to light your way 召唤一对热能之魂照亮你的道路
+					'Come burn with me' 和我一同燃烧
+					Provides a moderate amount of light in the abyss在深渊中提供适量的光照
 					'''
 			}
 
@@ -1270,212 +1271,212 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Essence of Yeet
 				Tooltip:
 					'''
-					Summons a small Sunskater
-					'Sunfish gang, sunfish gang.'
-					Provides a small amount of light in the abyss 
+					Summons a small Sunskater召唤一个小寻阳鱼
+					'Sunfish gang, sunfish gang.'太阳鱼来了,太阳鱼来了
+					Provides a small amount of light in the abyss 在深渊中提供少量的光照
 					'''
 			}
 
 			HolyTorch: {
-				DisplayName: The Holy Torch
+				DisplayName: The Holy Torch神圣火把
 				Tooltip:
 					'''
-					Attracts an annoying fairy
-					Provides a large amount of light in the abyss 
+					Attracts an annoying fairy吸引一个令人恼怒的小精灵
+					Provides a large amount of light in the abyss 在深渊中提供大量的光照
 					'''
 			}
 
 			PhantominaJar: {
-				DisplayName: Phantom in a Jar
+				DisplayName: Phantom in a Jar瓶装幻灵
 				Tooltip:
 					'''
-					Summons a Phantom Spirit to light your way
-					'Don't even think about it.'
-					Provides a large amount of light in the abyss 
+					Summons a Phantom Spirit to light your way召唤幻灵来提供照明
+					'Don't even think about it.'想都别想
+					Provides a large amount of light in the abyss 在深渊中提供大量的光照
 					'''
 			}
 
 			ProfanedHeart: {
-				DisplayName: Profaned Heart
+				DisplayName: Profaned Heart亵渎之心
 				Tooltip:
 					'''
-					Summons a miniature Providence, accompanied by her guardians
-					'Nothing but the purest of furies'
-					Provides a large amount of light in the abyss 
+					Summons a miniature Providence, accompanied by her guardians召唤迷你亵渎天神和她的守卫
+					'Nothing but the purest of furies'只有最纯粹的愤怒
+					Provides a large amount of light in the abyss 在深渊中提供大量的光照
 					'''
 			}
 
 			SunBun: {
-				DisplayName: Sun Bun
+				DisplayName: Sun Bun日耀甜点
 				Tooltip:
 					'''
-					Summons the Sun Bun
+					Summons the Sun Bun召唤太阳兔兔
 					Boosts Bunny spawnrates a tiny bit
-					'The bun above all'
-					Provides a large amount of light in the abyss
+					'The bun above all'甜点高于一切
+					Provides a large amount of light in the abyss在深渊中提供大量的光照
 					'''
 			}
 
 			SuperstitiousJewel: {
-				DisplayName: Superstitious Jewel
+				DisplayName: Superstitious Jewel迷惑指环
 				Tooltip:
 					'''
-					Summons an Elemental, two Endothermic Runes, and two Phantom Sharks to follow you, emitting a crazy amount of light
-					'It looks like glass, but the magic is real' 
-					Provides a colossal amount of light in the abyss
+					Summons an Elemental, two Endothermic Runes, and two Phantom Sharks to follow you, emitting a crazy amount of light召唤一个元素之灵,两个魔法符文,两个鬼灵鲨跟随你提供超多光照
+					'It looks like glass, but the magic is real' 看起来像玻璃,但魔法是真的
+					Provides a colossal amount of light in the abyss在深渊中提供疯狂的光照
 					'''
 			}
 
 			WulfrumTransmitter: {
-				DisplayName: Wulfrum Transmitter
+				DisplayName: Wulfrum Transmitter钨钢遥控器
 				Tooltip:
 					'''
-					Summons a Prototype Wulfrum Amplifier
-					'It's making a lot of dial up noises'
-					Provides a small amount of light in the abyss 
+					Summons a Prototype Wulfrum Amplifier召唤原型钨钢增幅器
+					'It's making a lot of dial up noises'这制造了大量发射信号声
+					Provides a small amount of light in the abyss在深渊中提供少量的光照
 					'''
 			}
 
 			AuricCarKey: {
 				# Mounts
-				DisplayName: Auric Car Key
+				DisplayName: Auric Car Key圣金源汽车钥匙
 				# Mounts
 				Tooltip:
 					'''
-					Summons a rideable Auric Tesla mount
-					Mortally reduces health and damage if a boss is nearby 
-					'Yharim Car'
+					Summons a rideable Auric Tesla mount召唤可骑乘的圣金源特斯拉汽车坐骑
+					Mortally reduces health and damage if a boss is nearby boss在附近时极大减少你的生命值和伤害
+					'Yharim Car'暴君的车
 					'''
 			}
 
 			BloodstoneCarriageItem: {
-				DisplayName: Bloodstone Invitation
+				DisplayName: Bloodstone Invitation血石邀请函
 				Tooltip:
 					'''
-					Summons a rideable Bloodflare Carriage mount
-					Reduces damage and health while a boss is nearby 
-					'An invitation to take a merry little stroll on a ride made of the deceased!'
+					Summons a rideable Bloodflare Carriage mount召唤可骑乘的血炎四轮马车坐骑
+					Reduces damage and health while a boss is nearby boss在附近时减少你的生命值和伤害
+					'An invitation to take a merry little stroll on a ride made of the deceased!'一份邀请去乘坐由死者组成的马车进行观光
 					'''
 			}
 
 			CrackedFossil: {
-				DisplayName: Crab Fossil
+				DisplayName: Crab Fossil螃蟹化石
 				Tooltip:
 					'''
-					Summons a rideable Anthozoan Crab mount
-					Reduces damage and health when a boss is nearby 
-					'It's moving...'
+					Summons a rideable Anthozoan Crab mount召唤可骑乘的珊瑚蟹坐骑
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
+					'It's moving...'它在移动...
 					'''
 			}
 
 			FloatyCarpetItem: {
-				DisplayName: Floaty Carpet
+				DisplayName: Floaty Carpet蜉蝣地毯
 				Tooltip:
 					'''
-					Summons a rideable floaty carpet mount
-					'A floating carpet made out of a real Floaty!'
+					Summons a rideable floaty carpet mount召唤可骑乘的蜉蝣地毯坐骑
+					'A floating carpet made out of a real Floaty!'一个由真正蜉蝣做成的飘浮飞毯
 					'''
 			}
 
 			GodRiderItem: {
-				DisplayName: God Rider Kit
+				DisplayName: God Rider Kit神明工具箱
 				Tooltip:
 					'''
-					Summons a rideable God Rider Hoverbike mount
-					Reduces damage and health when a boss is nearby 
-					'Devour miles in the blink of an eye'
+					Summons a rideable God Rider Hoverbike mount召唤可骑乘的神明悬浮自行车坐骑
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
+					'Devour miles in the blink of an eye'眨眼间就吞噬了数米的路程
 					'''
 			}
 
 			HadarianTail: {
-				DisplayName: Hadarian Egg
+				DisplayName: Hadarian Egg哈德安翼龙蛋
 				Tooltip:
 					'''
-					Summons a rideable Hadrian mount
-					Reduces damage and health when a boss is nearby 
+					Summons a rideable Hadrian mount召唤可骑乘的哈德安翼龙坐骑
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
 					'''
 			}
 
 			InfectedController: {
-				DisplayName: Diseased Joystick
+				DisplayName: Diseased Joystick瘟疫操控器
 				Tooltip:
 					'''
-					Summons a rideable Plaguebringer mount
-					Reduces damage and health when a boss is nearby 
-					'It's emitting 8 bit buzzing'
+					Summons a rideable Plaguebringer mount召唤可骑乘的瘟疫蜜蜂坐骑
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
+					'It's emitting 8 bit buzzing'它发出了8位的嗡嗡声
 					'''
 			}
 
 			LeviathanEgg: {
-				DisplayName: Leviathan Egg
+				DisplayName: Leviathan Egg利维坦蛋
 				Tooltip:
 					'''
-					Summons a rideable young Leviathan mount
-					Reduces damage and health when a boss is nearby 
+					Summons a rideable young Leviathan mount召唤可骑乘的年轻利维坦坐骑
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
 					'''
 			}
 
 			PopUpShop: {
-				DisplayName: Pop-up Shop
+				DisplayName: Pop-up Shop快闪店
 				Tooltip:
 					'''
-					Summons a rideable Morshu mount
-					  Consumes a Copper Coin from the coin slots every 5 seconds and becomes super-sonic
-					  If there are no Copper Coins in the coin slots then Morshu becomes crippled 
+					Summons a rideable Morshu mount召唤可骑乘的莫尔舒坐骑
+					  Consumes a Copper Coin from the coin slots every 5 seconds and becomes super-sonic每5秒从口袋中消耗一个铜币让速度变得超级快。
+					  If there are no Copper Coins in the coin slots then Morshu becomes crippled 如果口袋中没有铜币，那么莫尔舒就会变得很慢。
 					'''
 			}
 
 			ProfanedBattery: {
-				DisplayName: Holy Crystal Core
-				Tooltip: Charged core of a Profaned Guardian
+				DisplayName: Holy Crystal Core圣晶核心
+				Tooltip: Charged core of a Profaned Guardian亵渎守卫的能量核心
 			}
 
 			ProfanedCycleItem: {
-				DisplayName: Profaned Cycle
+				DisplayName: Profaned Cycle亵渎自行车
 				Tooltip:
 					'''
-					Summons a rideable Profaned Cycle mount
-					Dramatically reduces health and damage if a boss is nearby 
-					'When you need to get somewhere, in style'
+					Summons a rideable Profaned Cycle mount召唤可骑乘的亵渎自行车
+					Dramatically reduces health and damage if a boss is nearby boss在附近时大幅减少你的生命值和伤害
+					'When you need to get somewhere, in style'当你需要去某个地方时，要有风格
 					'''
 			}
 
 			ProfanedFrame: {
-				DisplayName: Profaned Frame
-				Tooltip: Some sort of ancient framework
+				DisplayName: Profaned Frame亵渎框架
+				Tooltip: Some sort of ancient framework某些古老的框架
 			}
 
 			ProfanedWheels: {
-				DisplayName: Hot Wheels
-				Tooltip: "'Wheels made of pure profaned energy'"
+				DisplayName: Hot Wheels炽热之轮
+				Tooltip: "'Wheels made of pure profaned energy'"由纯净的亵渎能量制成的轮子
 			}
 
 			RadJuice: {
-				DisplayName: Radioactive Carton
+				DisplayName: Radioactive Carton辐射牛奶
 				Tooltip:
 					'''
-					Summons a rideable Nuclear Terror mount
-					Reduces damage and health when a boss is nearby 
-					'You probably shouldn't drink this'
+					Summons a rideable Nuclear Terror mount召唤可骑乘的辐核骇兽坐骑
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
+					'You probably shouldn't drink this'也许你不应该喝这个
 					'''
 			}
 
 			ShadowShedding: {
-				DisplayName: Shadow Shedding
+				DisplayName: Shadow Shedding消逝之影
 				Tooltip:
 					'''
-					Summons a rideable Hive Mind mount thing
-					Reduces damage and health when a boss is nearby 
-					'Infestation!'
+					Summons a rideable Hive Mind mount thing召唤可骑乘腐巢之脑
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
+					'Infestation!'侵蚀
 					'''
 			}
 
 			SilvaJeepItem: {
-				DisplayName: Silvian Jeep Keys
+				DisplayName: Silvian Jeep Keys吉普车钥匙
 				Tooltip:
 					'''
 					Summons a rideable Silvan Jeep mount
-					Greatly reduces health and damage if a boss is nearby 
+					Greatly reduces health and damage if a boss is nearby boss在附近时较大减少你的生命值和伤害
 					'It's time for a safari'
 					'''
 			}
@@ -1485,7 +1486,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Summons a rideable Wulfrum Tank mount
-					Reduces damage and health when a boss is nearby 
+					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
 					'You already know how to operate it... somehow...'
 					'''
 			}
