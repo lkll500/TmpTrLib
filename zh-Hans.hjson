@@ -1475,56 +1475,56 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Silvian Jeep Keys吉普车钥匙
 				Tooltip:
 					'''
-					Summons a rideable Silvan Jeep mount
+					Summons a rideable Silvan Jeep mount召唤可骑乘的吉普车坐骑
 					Greatly reduces health and damage if a boss is nearby boss在附近时较大减少你的生命值和伤害
-					'It's time for a safari'
+					'It's time for a safari'狩猎时间到
 					'''
 			}
 
 			WulfrumKeys: {
-				DisplayName: Wulfrum Keys
+				DisplayName: Wulfrum Keys钨钢钥匙
 				Tooltip:
 					'''
-					Summons a rideable Wulfrum Tank mount
+					Summons a rideable Wulfrum Tank mount召唤可骑乘的钨钢坦克坐骑
 					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
-					'You already know how to operate it... somehow...'
+					'You already know how to operate it... somehow...'某种情况下，你已经知道怎样运行它
 					'''
 			}
 
 			YharonsAnklet: {
-				DisplayName: Infernal Message Book
+				DisplayName: Infernal Message Book地狱留言簿
 				Tooltip:
 					'''
-					Summons a rideable lesser Yharon mount
-					'This is my message...' 
+					Summons a rideable lesser Yharon mount召唤可骑乘的小不点犽戎坐骑
+					'This is my message...' 这是我的留言
 					'''
 			}
 
 			AlarmClock: {
 				# Pandemonium Box
-				DisplayName: Alarm Clock
+				DisplayName: Alarm Clock闹钟
 				# Pandemonium Box
-				Tooltip: Spare parts for your travels
+				Tooltip: Spare parts for your travels你旅行的备用物品
 			}
 
 			NurseryBell: {
-				DisplayName: Nursery Bell
-				Tooltip: Our best friends...
+				DisplayName: Nursery Bell宝贝铃铛
+				Tooltip: Our best friends...我们最好的朋友
 			}
 
 			DustChime: {
-				DisplayName: Dust Chime
+				DisplayName: Dust Chime沙之铃
 				Tooltip: The winds of progress!
 			}
 
 			BestInstrument: {
-				DisplayName: Best Instrument
-				Tooltip: Pieces of your journey
+				DisplayName: Best Instrument最佳乐器
+				Tooltip: Pieces of your journey你旅程中的一部分
 			}
 
 			HarbingerOfWork: {
 				DisplayName: Harbinger of Work
-				Tooltip: Feels like robot love!
+				Tooltip: Feels like robot love!感觉兔兔会喜欢
 			}
 
 			MaladyBells: {
@@ -1544,7 +1544,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			TubRune: {
 				DisplayName: T.U.B. Rune
-				Tooltip: Change the world...
+				Tooltip: Change the world...改变世界
 			}
 
 			VaselineBell: {
@@ -1582,201 +1582,201 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			NuggetLicense: {
 				# Town pets
-				DisplayName: Nugget License
+				DisplayName: Nugget License龙裔许可证
 				# Town pets
 				Tooltip: Use to adopt a nugget for your town
 			}
 
 			AnahitaPlushThrowable: {
 				# Plushies
-				DisplayName: Anahita Plushie (Throwable)
+				DisplayName: Anahita Plushie (Throwable)阿娜希塔公仔（可投掷）
 				# Plushies
-				Tooltip: Can be thrown
+				Tooltip: Can be thrown可投掷
 			}
 
 			ApolloPlushThrowable: {
-				DisplayName: Apollo Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Apollo Plushie (Throwable)阿波罗公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			AquaticScourgePlushThrowable: {
-				DisplayName: Aquatic Scourge Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Aquatic Scourge Plushie (Throwable)渊海灾虫公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			AresPlushThrowable: {
-				DisplayName: Ares Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Ares Plushie (Throwable)阿瑞斯公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			ArtemisPlushThrowable: {
-				DisplayName: Artemis Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Artemis Plushie (Throwable)阿尔忒弥斯公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			AstrageldonPlushThrowable: {
-				DisplayName: Astrageldon Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Astrageldon Plushie (Throwable)末世星史莱姆公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			AstrumAureusPlushThrowable: {
-				DisplayName: Astrum Aureus Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Astrum Aureus Plushie (Throwable)白金星舰公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			AstrumDeusPlushThrowable: {
-				DisplayName: Astrum Deus Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Astrum Deus Plushie (Throwable)星神游龙公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			BrimstoneElementalPlushThrowable: {
-				DisplayName: Brimstone Elemental Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Brimstone Elemental Plushie (Throwable)硫磺火元素公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			BumblefuckPlushThrowable: {
-				DisplayName: Dragonfolly Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Dragonfolly Plushie (Throwable)痴愚金龙公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			CalaFumoYeetable: {
-				DisplayName: Calamitas Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Calamitas Plushie (Throwable)灾厄公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			CeaselessVoidPlushThrowable: {
-				DisplayName: Ceaseless Void Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Ceaseless Void Plushie (Throwable)无尽虚空公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			ClonePlushThrowable: {
-				DisplayName: Calamitas Clone Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Calamitas Clone Plushie (Throwable)灾厄之影公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			CrabulonPlushThrowable: {
-				DisplayName: Crabulon Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Crabulon Plushie (Throwable)菌生蟹公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			CryogenPlushThrowable: {
-				DisplayName: Cryogen Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Cryogen Plushie (Throwable)极地之灵公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			DesertScourgePlushThrowable: {
-				DisplayName: Desert Scourge Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Desert Scourge Plushie (Throwable)荒漠灾虫公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			DevourerofGodsPlushThrowable: {
-				DisplayName: Devourer of Gods Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Devourer of Gods Plushie (Throwable)神明吞噬者公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			DraedonPlushThrowable: {
-				DisplayName: Draedon Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Draedon Plushie (Throwable)嘉登公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			GiantClamPlushThrowable: {
-				DisplayName: Giant Clam Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Giant Clam Plushie (Throwable)巨像蛤公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			HiveMindPlushThrowable: {
-				DisplayName: Hive Mind Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Hive Mind Plushie (Throwable)腐巢意志公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			JaredPlushThrowable: {
-				DisplayName: Eidolon Wyrm Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Eidolon Wyrm Plushie (Throwable)幻海妖龙公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			LeviathanPlushThrowable: {
-				DisplayName: Leviathan Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Leviathan Plushie (Throwable)利维坦公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			MaulerPlushThrowable: {
-				DisplayName: Mauler Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Mauler Plushie (Throwable)渊海狂鲨公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			MirePlushThrowable: {
-				DisplayName: Shielded Cragmaw Mire Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Shielded Cragmaw Mire Plushie (Throwable)封闭的峭咽潭公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			NuclearTerrorPlushThrowable: {
-				DisplayName: Nuclear Terror Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Nuclear Terror Plushie (Throwable)辐核骇兽公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			OldDukePlushThrowable: {
-				DisplayName: Old Duke Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Old Duke Plushie (Throwable)硫海遗爵公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			PerforatorPlushThrowable: {
-				DisplayName: Perforator Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Perforator Plushie (Throwable)血肉宿主公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			PlaguebringerGoliathPlushThrowable: {
-				DisplayName: Plaguebringer Goliath Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Plaguebringer Goliath Plushie (Throwable)瘟疫使者歌莉娅公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			PolterghastPlushThrowable: {
-				DisplayName: Polterghast Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Polterghast Plushie (Throwable)噬魂幽花公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			ProfanedGuardianPlushThrowable: {
-				DisplayName: Profaned Guardian Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Profaned Guardian Plushie (Throwable)亵渎守卫公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			ProvidencePlushThrowable: {
-				DisplayName: Providence Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Providence Plushie (Throwable)亵渎天神公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			RavagerPlushThrowable: {
-				DisplayName: Ravager Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Ravager Plushie (Throwable)毁灭魔像公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			SandSharkPlushThrowable: {
-				DisplayName: Great Sand Shark Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Great Sand Shark Plushie (Throwable)旱海狂鲨公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			SignusPlushThrowable: {
-				DisplayName: Signus Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Signus Plushie (Throwable)西格纳斯公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			SlimeGodPlushThrowable: {
-				DisplayName: Slime God Plushie (Throwable)
+				DisplayName: Slime God Plushie (Throwable)史莱姆之神公仔
 				Tooltip: Can be thrown
-			}
+			}可投掷
 
 			StormWeaverPlushThrowable: {
-				DisplayName: Storm Weaver Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Storm Weaver Plushie (Throwable)风暴编织者公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			ThanatosPlushThrowable: {
-				DisplayName: Thanatos Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Thanatos Plushie (Throwable)塔纳托斯公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			YharonPlushThrowable: {
-				DisplayName: Yharon Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Yharon Plushie (Throwable)犽戎公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			BubbleMachine: {
@@ -1789,22 +1789,22 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			MeldBlockItem.DisplayName: Meld Block
 
 			WulfrumPlating: {
-				DisplayName: Wulfrum Brick
+				DisplayName: Wulfrum Brick钨钢石砖
 				Tooltip: ""
 			}
 
 			ThanatosPlating: {
-				DisplayName: XM-05 Armor Plating
+				DisplayName: XM-05 Armor PlatingXM-05装甲镀层
 				Tooltip: ""
 			}
 
 			ThanatosPlatingVent: {
-				DisplayName: XM-05 Armor Plating (Vent)
+				DisplayName: XM-05 Armor Plating (Vent)XM-05装甲镀层（开启状态）
 				Tooltip: ""
 			}
 
 			MeldosaurusRelic: {
-				DisplayName: Meldosaurus Relic
+				DisplayName: Meldosaurus Relic冥思恐龙圣物
 				Tooltip: ""
 			}
 
@@ -1814,37 +1814,37 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ChaoticPuffball: {
-				DisplayName: Chaotic Puffball
-				Tooltip: "'It probably won't detonate...'"
+				DisplayName: Chaotic Puffball混沌泡芙球
+				Tooltip: "'It probably won't detonate...'"它可能不会引爆...
 			}
 
 			BlightedAstralPinkDye: {
-				DisplayName: Blighted Astral Pink Dye
+				DisplayName: Blighted Astral Pink Dye枯萎粉色星空染料
 				Tooltip: ""
 			}
 
 			BlightedAstralYellowDye: {
-				DisplayName: Blighted Astral Yellow Dye
+				DisplayName: Blighted Astral Yellow Dye枯萎黄色星空染料
 				Tooltip: ""
 			}
 
 			ApolloBalloonSmall: {
-				DisplayName: Apollo Balloon Small
+				DisplayName: Apollo Balloon Small小型阿波罗气球
 				Tooltip: ""
 			}
 
 			Eidcape: {
-				DisplayName: Eidcape
+				DisplayName: Eidcape幻妖披风
 				Tooltip: ""
 			}
 
 			Birbhat: {
-				DisplayName: Birbhat
+				DisplayName: Birbhat癫痫鸟帽
 				Tooltip: ""
 			}
 
 			Calacirclet: {
-				DisplayName: Calacirclet
+				DisplayName: Calacirclet灾厄头环
 				Tooltip: ""
 			}
 
@@ -1854,12 +1854,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Permascarf: {
-				DisplayName: Permascarf
+				DisplayName: Permascarf永冻围巾
 				Tooltip: ""
 			}
 
 			CloudWaistbelt: {
-				DisplayName: Cloud Waistbelt
+				DisplayName: Cloud Waistbelt雨云腰带
 				Tooltip: ""
 			}
 
@@ -1869,48 +1869,48 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			MysteryPainting: {
-				DisplayName: Mystery Painting
-				Tooltip: <right> for a random painting
+				DisplayName: Mystery Painting未知画作
+				Tooltip: <right> for a random painting<右键>给予一副随机画作
 			}
 
 			NuclearFumes: {
-				DisplayName: Nuclear Fumes
-				Tooltip: "'Don't inhale them'"
+				DisplayName: Nuclear Fumes辐射之气
+				Tooltip: "'Don't inhale them'"不要吸入它们
 			}
 
 			OldCassette: {
-				DisplayName: Old Cassette
+				DisplayName: Old Cassette旧磁带
 				Tooltip:
 					'''
-					Favorite this item to activate player afterimages
-					'It contains some edgy anime episodes from the 90's'
+					Favorite this item to activate player afterimages收藏此物品，以激活玩家的残影
+					'It contains some edgy anime episodes from the 90's'它包含了90年代的一些前卫的动漫片
 					'''
 			}
 
 			AcidLamp: {
-				DisplayName: Acid Lamp
+				DisplayName: Acid Lamp酸性油灯
 				Tooltip:
 					'''
-					Summons a Sulphurous Skater Nymph
-					'There seems to be an egg inside'
+					Summons a Sulphurous Skater Nymph召唤一个硫海爬虫
+					'There seems to be an egg inside'这看起来像里面有个蛋
 					'''
 			}
 
 			AerialiteBubble: {
-				DisplayName: Aerialite Bubble
+				DisplayName: Aerialite Bubble天蓝气泡
 				Tooltip:
 					'''
-					Summons a duo of Aero Slimes
-					'An odd sphere covered in light gel'
+					Summons a duo of Aero Slimes召唤一对天蓝史莱姆
+					'An odd sphere covered in light gel'一个覆盖着光胶的奇怪球体
 					'''
 			}
 
 			ArmoredScrap: {
-				DisplayName: Armored Scrap
+				DisplayName: Armored Scrap装甲废料
 				Tooltip:
 					'''
-					Summons a small Stasis Probe
-					'Can't be salvaged, but attracts a probe friend!'
+					Summons a small Stasis Probe召唤一个小侦测探头
+					'Can't be salvaged, but attracts a probe friend!'无法挽回，但吸引了一个探测器朋友
 					'''
 			}
 
@@ -1933,150 +1933,151 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AuricBottle: {
-				DisplayName: Auric Bottle
-				Tooltip: Summons a Godly Squid to follow you
+				DisplayName: Auric Bottle圣金源之瓶
+				Tooltip: Summons a Godly Squid to follow you召唤一个天体鱿鱼跟随你
+                                         说真的,你真的愿意用这么多神器合这么一个玩意（）
 			}
 
 			BambooStick: {
-				DisplayName: Strange Bamboo Stick
+				DisplayName: Strange Bamboo Stick神秘竹子
 				Tooltip:
 					'''
-					Summons a Red Panda pet
-					'Its scent attracts a unique animal'
+					Summons a Red Panda pet召唤一个红色小熊猫宠物
+					'Its scent attracts a unique animal'它的气味吸引着一种独特的动物
 					'''
 			}
 
 			BleuBlob: {
-				DisplayName: Bleu Blob
-				Tooltip: Summons some cool blue dudes
+				DisplayName: Bleu Blob青蓝之球
+				Tooltip: Summons some cool blue dudes召唤一些很酷的蓝色小家伙
 			}
 
 			BrimberryItem: {
-				DisplayName: Brimstone Berry
+				DisplayName: Brimstone Berry硫磺火草莓
 				Tooltip:
 					'''
-					Summons an ancient fruit
-					'Often used as offering to the Brimstone Goddess'
+					Summons an ancient fruit召唤一个远古水果
+					'Often used as offering to the Brimstone Goddess'经常被献给硫磺火女神
 					'''
 			}
 
 			BubbledFin: {
-				DisplayName: Bubbled Fin
+				DisplayName: Bubbled Fin泡沫鳍
 				Tooltip:
 					'''
-					Summons a Smauler
-					'How did it even get in there?'
+					Summons a Smauler召唤小渊海鲨
+					'How did it even get in there?'它到底是怎么来到这的
 					'''
 			}
 
 			BubbleGum: {
-				DisplayName: Bubble Gum
-				Tooltip: Summons a divine entity
+				DisplayName: Bubble Gum泡泡糖
+				Tooltip: Summons a divine entity召唤一个神圣动物（）
 			}
 
 			CalamitousSoulArtifact: {
-				DisplayName: Calamitous Soul Artifact
+				DisplayName: Calamitous Soul Artifact灾厄灵烛
 				Tooltip:
 					'''
 					Entropy
-					Summons a benevolent necropede
+					Summons a benevolent necropede召唤一个灾坟魔物
 					[c/C61B40:After crawling for decades in everlasting agony]
 					[c/C61B40:the mobile graveyard finally finds a true friend.]
 					'''
 			}
 
 			CanofWyrms: {
-				DisplayName: Can of Wyrms
+				DisplayName: Can of Wyrms妖龙罐子
 				Tooltip:
 					'''
-					Summons an Eidolon Inchwyrm
-					'It's surprising how the deep adapted to the scraps above'
+					Summons an Eidolon Inchwyrm召唤迷你小龙
+					'It's surprising how the deep adapted to the scraps above'令人惊讶的是，深渊生物是如何适应上面的环境
 					'''
 			}
 
 			CharredChopper: {
-				DisplayName: Charred Chopper
+				DisplayName: Charred Chopper烧焦菜刀
 				Tooltip:
 					'''
-					Summons a decapitated Sulphurous Fishron that inhaled Scoria fumes
-					'A burning knife measuring a thousand degrees!'
+					Summons a decapitated Sulphurous Fishron that inhaled Scoria fumes召唤被斩首的硫海遗爵，它吸入了浓烟
+					'A burning knife measuring a thousand degrees!'一把经历1000度火的燃烧之刀
 					'''
 			}
 
 			ClamHermitMedallion: {
-				DisplayName: Clam Hermit Medallion
+				DisplayName: Clam Hermit Medallion蛤隐者勋章
 				Tooltip:
 					'''
-					Summons a Clam Hermit
-					'Holding this makes your hands feel clammy'
+					Summons a Clam Hermit召唤一个蛤隐者
+					'Holding this makes your hands feel clammy'拿着这个会让你的手感到湿漉漉的
 					'''
 			}
 
 			ClawShroom: {
-				DisplayName: Clawshroom
+				DisplayName: Clawshroom钳子菇
 				Tooltip:
 					'''
-					Summons a small Crabulon
-					'Snip snap!'
+					Summons a small Crabulon召唤迷你菌生蟹
+					'Snip snap!'鹬蚌相争，渔翁得利
 					'''
 			}
 
 			CoolShades: {
-				DisplayName: Cool Shades
+				DisplayName: Cool Shades永冻遮阳镜
 				Tooltip:
 					'''
-					Summons a miniature Cryogen
+					Summons a miniature Cryogen召唤迷你极地之灵
 					'Rad'
 					'''
 			}
 
 			CooperShortsword: {
-				DisplayName: Cooper Shortsword
+				DisplayName: Cooper Shortsword寒冰短剑
 				Tooltip:
 					'''
-					Summons an oddly shapped small Cryogen
-					'Unleash the power of cool'
+					Summons an oddly shapped small Cryogen召唤一个特别的小极地之灵
+					'Unleash the power of cool'释放寒冰之力
 					'''
 			}
 
 			CorrodedCleaver: {
-				DisplayName: Corroded Cleaver
+				DisplayName: Corroded Cleaver酸蚀菜刀
 				Tooltip:
 					'''
-					Summons a decapitated Sulphurous Fishron
-					'Slice n' Dice'
+					Summons a decapitated Sulphurous Fishron召唤被斩首的小遗爵
+					'Slice n' Dice'切片和切块
 					'''
 			}
 
 			CosmicRapture: {
-				DisplayName: Cosmic Rapture
-				Tooltip: Summons the Devourer of the cosmos to follow you
+				DisplayName: Cosmic Rapture宇宙之眼
+				Tooltip: Summons the Devourer of the cosmos to follow you召唤神明吞噬者跟随你
 			}
 
 			Cube: {
-				DisplayName: A Cube
+				DisplayName: A Cube小小立方体
 				Tooltip:
 					'''
-					Summons a cube
+					Summons a cube召唤一个立方体
 					Causes sickened star deities to blight
-					'Heil the Cube Lord'
+					'Heil the Cube Lord'向立方体之王致敬
 					'''
 			}
 
 			CursedLockpick: {
-				DisplayName: Cursed Lockpick
+				DisplayName: Cursed Lockpick诅咒钥匙
 				Tooltip:
 					'''
-					Summons a Rusty Mimic
-					'Rusty and crusty'
+					Summons a Rusty Mimic召唤酸蚀宝箱怪
+					'Rusty and crusty'锈迹斑斑,破烂不堪
 					'''
 			}
 
 			DecayingFishtail: {
-				DisplayName: Decaying Fishtail
+				DisplayName: Decaying Fishtail腐烂鱼尾
 				Tooltip:
 					'''
-					Summons a pet catfish...?
+					Summons a pet catfish...?召唤辐射猫猫
 					'Only an unholy nightmarish abomination would want something this putrid'
 					'''
 			}
