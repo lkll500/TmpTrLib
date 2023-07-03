@@ -2549,14 +2549,14 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Topaz Geode黄玉晶石
 				Tooltip:
 					'''
-					Summons an Amber Scuttlet
-					'Potentially contains a scuttler'
+					Summons an Amber Scuttlet召唤一个小黄玉爬虫
+					'Potentially contains a scuttler'概率包含一个小潜遁者
 					'''
 			}
 
 			ShadowCloth: {
-				DisplayName: Shadow Cloth
-				Tooltip: Summons an assassin to lurk behind you
+				DisplayName: Shadow Cloth阴影布料
+				Tooltip: Summons an assassin to lurk behind you召唤一个刺客潜伏在你身边
 			}
 
 			Sirember: {
@@ -2564,34 +2564,34 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Summons the wrath of the water elemental
-					'Alway Rember...'
+					'Alway Rember...'永远铭记
 					'''
 			}
 
 			SkullCluster: {
-				DisplayName: Skull Cluster
+				DisplayName: Skull Cluster颅骨团
 				Tooltip:
 					'''
-					Summons a miniature necrotic flesh golem
-					'Two skulls pop out of the pile with glowing eyes'
+					Summons a miniature necrotic flesh golem召唤一个迷你毁灭魔像
+					'Two skulls pop out of the pile with glowing eyes'两个骷髅头从堆里跳出来，眼睛发亮
 					'''
 			}
 
 			SlightlyMoistbutalsoSlightlyDryLocket: {
-				DisplayName: Slightly Moist, but also Slightly Dry Locket
+				DisplayName: Slightly Moist, but also Slightly Dry Locket略微湿润，但也略微干燥的吊坠
 				Tooltip:
 					'''
-					Summons a Slightly Moisturized Pest
-					'There's a worm wriggling in it'
+					Summons a Slightly Moisturized Pest召唤一个略微湿润的灾虫
+					'There's a worm wriggling in it'这有一只蠕虫在里面蠕动
 					'''
 			}
 
 			SlimeDeitysSoul: {
-				DisplayName: Slime Deity's Soul
+				DisplayName: Slime Deity's Soul史莱姆之神的灵魂
 				Tooltip:
 					'''
-					Summons a miniature Slime God core, orbitted by its guards
-					'Power hungry for rot'
+					Summons a miniature Slime God core, orbitted by its guards召唤一个迷你史莱姆之神的核心和它的守卫们
+					'Power hungry for rot'腐化之力的渴望
 					'''
 			}
 
@@ -2605,57 +2605,57 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SoulShard: {
-				DisplayName: Soul Shard
+				DisplayName: Soul Shard灵魂碎片
 				Tooltip:
 					'''
-					Summons an Eidolon Wyrm to follow you
-					'The madness of the abyss echoes through your flesh'
+					Summons an Eidolon Wyrm to follow you召唤一个幻海妖龙跟随你
+					'The madness of the abyss echoes through your flesh'深渊的疯狂在你的身体回响
 					'''
 			}
 
 			SpaceJunk: {
-				DisplayName: Space Junk
-				Tooltip: Summons the forgotten blob of the astral meteor
+				DisplayName: Space Junk太空废物
+				Tooltip: Summons the forgotten blob of the astral meteor召唤一个小末世星史莱姆
 			}
 
 			StormMedal: {
-				DisplayName: Storm Medal
+				DisplayName: Storm Medal风暴勋章
 				Tooltip:
 					'''
-					Summons a young Storm Weaver
-					'Heads or worms?'
+					Summons a young Storm Weaver召唤一个年轻的风暴编织者
+					'Heads or worms?'探头还是蠕虫
 					'''
 			}
 
 			SunDriedShrimp: {
-				DisplayName: Sun Dried Shrimp
+				DisplayName: Sun Dried Shrimp晒干的虾
 				Tooltip:
 					'''
-					Summons a little sick sneeze dragon
-					'A crispy snack favored by Cnidrions'
+					Summons a little sick sneeze dragon召唤一个生病的小卧龙海马
+					'A crispy snack favored by Cnidrions'卧龙海马喜欢的一种酥脆的零食
 					'''
 			}
 
 			SuspiciousLookingChineseCrown: {
-				DisplayName: Suspicious Looking Chinese Crown
+				DisplayName: Suspicious Looking Chinese Crown看起来很可疑的冕冠
 				Tooltip:
 					'''
-					Summons the pure child of cosmic wraith 
-					'She's coming'
+					Summons the pure child of cosmic wraith 召唤神之使徒的纯洁之子
+					'She's coming'她来了
 					'''
 			}
 
 			SuspiciousLookingGBC: {
-				DisplayName: Suspicious Looking GBC
+				DisplayName: Suspicious Looking GBC看起来很可疑的GBC
 				Tooltip:
 					'''
-					Summons an abandonded roomba rescued from a trash heap
-					'What could this mean?'
+					Summons an abandonded roomba rescued from a trash heap召唤一个从垃圾堆中的被遗弃的室内机器人
+					'What could this mean?'这意味着什么
 					'''
 			}
 
 			TheDragonball: {
-				DisplayName: The Dragonball
+				DisplayName: The Dragonball龙之球
 				Tooltip:
 					'''
 					Summons a spherical Dragonfolly
