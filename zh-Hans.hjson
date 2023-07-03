@@ -2083,146 +2083,146 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			DeepseaLantern: {
-				DisplayName: Deep Sea Lantern
+				DisplayName: Deep Sea Lantern深渊之灯
 				Tooltip:
 					'''
-					Summons a Fathomable Eel
-					"'Might call upon a creature looking for food'"
+					Summons a Fathomable Eel召唤一个深渊鳗鱼
+					"'Might call upon a creature looking for food'"可能会召唤一个寻找食物的生物
 					'''
 			}
 
 			DespairMask: {
-				DisplayName: Despair Mask
+				DisplayName: Despair Mask绝望面具
 				Tooltip:
 					'''
-					Summons a sad stone
-					'It reeks of depression'
+					Summons a sad stone召唤一个小绝望之石
+					'It reeks of depression'它散发着绝望的气息
 					'''
 			}
 
 			DocilePheromones: {
-				DisplayName: Docile Pheromones
+				DisplayName: Docile Pheromones温顺信息素
 				Tooltip:
 					'''
-					Summons a small Draconic Swarmer
-					'Lemon extract, with a hint of pepper'
+					Summons a small Draconic Swarmer召唤一个小癫痫鸟
+					'Lemon extract, with a hint of pepper'柠檬提取物，有一丝胡椒的味道
 					'''
 			}
 
 			DoggoCollar: {
-				DisplayName: Doggo Collar
-				Tooltip: Summons a pet Chihuahua
+				DisplayName: Doggo Collar狗狗领带
+				Tooltip: Summons a pet Chihuahua召唤宠物吉娃娃
 			}
 
 			DriedLocket: {
-				DisplayName: Dried Locket
+				DisplayName: Dried Locket荒漠吊坠
 				Tooltip:
 					'''
-					Summons a Desert Pest
-					'There's a worm wriggling in it'
+					Summons a Desert Pest召唤宠物荒漠灾虫
+					'There's a worm wriggling in it'有一条蠕虫在里面蠕动
 					'''
 			}
 
 			DustyBadge: {
-				DisplayName: Dusty Badge
+				DisplayName: Dusty Badge尘封徽章
 				Tooltip:
 					'''
-					Summons the Great Sand Shark's Great Grandson
-					'Bereft to the core'
+					Summons the Great Sand Shark's Great Grandson召唤旱海狂鲨的孙子
+					'Bereft to the core'失落到极点
 					'''
 			}
 
 			Eggstone: {
-				DisplayName: Eggstone
+				DisplayName: Eggstone石之蛋
 				Tooltip:
 					'''
-					Hatches into a baby Bohldohr
-					'Wait, it's alive?!'
+					Hatches into a baby Bohldohr孵化一个宝宝滚石
+					'Wait, it's alive?!'等一下,它是活的！？
 					'''
 			}
 
 			CloudCandy: {
-				DisplayName: Cloud Candy
+				DisplayName: Cloud Candy白云棒棒糖
 				Tooltip:
 					'''
-					Summons a Miniature Cloud Elemental
-					'An elemental's favorite sweet!'
+					Summons a Miniature Cloud Elemental召唤迷你雨云之灵
+					'An elemental's favorite sweet!'是元素之灵最爱的味道
 					'''
 			}
 
 			MiniatureElementalHeart: {
-				DisplayName: Miniature Elemental Heart
+				DisplayName: Miniature Elemental Heart迷你元灵之心
 				Tooltip:
 					'''
-					Summons all of the Miniature Elementals
-					'It's like you're running a daycare or something...'
+					Summons all of the Miniature Elementals召唤所有迷你元素之灵
+					'It's like you're running a daycare or something...'这就像你在经营一个幼儿园或什么的......。
 					'''
 			}
 
 			RareBrimtulip: {
-				DisplayName: Rare Brimtulip
+				DisplayName: Rare Brimtulip稀有硫磺火玫瑰
 				Tooltip:
 					'''
-					Summons a Rare Brimling
-					'An elemental's favorite flower!'
+					Summons a Rare Brimling召唤一个稀有硫磺火之灵
+					'An elemental's favorite flower!'是元素之灵最爱的花
 					'''
 			}
 
 			SmallSandPail: {
-				DisplayName: Small Sand Lamp
+				DisplayName: Small Sand Lamp小沙灵灯
 				Tooltip:
 					'''
-					Summons a Miniature Sand Elemental
-					'An elemental's favorite toy!'
+					Summons a Miniature Sand Elemental召唤迷你沙之灵
+					'An elemental's favorite toy!'是元素之灵最爱的玩具
 					'''
 			}
 
 			SmallSandPlushie: {
-				DisplayName: Small Sand Plushie
+				DisplayName: Small Sand Plushie小沙灵公仔
 				Tooltip:
 					'''
-					Summons a Rare Miniature Sand Elemental
-					'An elemental's favorite toy!'
+					Summons a Rare Miniature Sand Elemental召唤迷你稀有沙之灵
+					'An elemental's favorite toy!'是元素之灵最爱的玩具
 					'''
 			}
 
 			StrangeMusicNote: {
-				DisplayName: Strange Music Note
+				DisplayName: Strange Music Note神秘音符
 				Tooltip:
 					'''
-					Summons a Vibrant Siren Child
-					'An elemental's favorite sound!'
+					Summons a Vibrant Siren Child召唤一个活力满满的海妖之子
+					'An elemental's favorite sound!'是元素之灵最爱的声音
 					'''
 			}
 
 			ExoGemstone: {
-				DisplayName: Exo Gemstone
-				Tooltip: Summons the full miniaturized exo ensemble
+				DisplayName: Exo Gemstone星流宝石
+				Tooltip: Summons the full miniaturized exo ensemble召唤所有迷你星流巨械
 			}
 
 			GeminiMarkImplants: {
-				DisplayName: Gemini Mark Implants
+				DisplayName: Gemini Mark Implants双子星植入物
 				Tooltip:
 					'''
-					Summons smaller replicas of the advanced surveillance ships
-					'22 Vision'
+					Summons smaller replicas of the advanced surveillance ships召唤一对小星流双子
+                                        '22 Vision'22位版本
 					'''
 			}
 
 			GunmetalRemote: {
-				DisplayName: Dark Gunmetal Remote
+				DisplayName: Dark Gunmetal Remote漆黑遥控器
 				Tooltip:
 					'''
-					Summons a shorter and friendlier version of the high-tech digger
+					Summons a shorter and friendlier version of the high-tech digger召唤一个短小但友好版本的星流蠕虫
 					'T Hanos'
 					'''
 			}
 
 			OminousCore: {
-				DisplayName: Ominous Core
+				DisplayName: Ominous Core不详核心
 				Tooltip:
 					'''
-					Summons a toy variant of the diabolical monstrosity
+					Summons a toy variant of the diabolical monstrosity召唤一个玩具变种的星流机甲
 					'The rotting mechanism emits surprisingly friendly fumes'
 					'''
 			}
@@ -2237,29 +2237,29 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ExtraFluffyFeatherClump: {
-				DisplayName: Extra Fluffy Feather Clump
+				DisplayName: Extra Fluffy Feather Clump蓬松羽毛团
 				Tooltip:
 					'''
-					Summons beasts, so horrific, that you will die
+					Summons beasts, so horrific, that you will die召唤一个可怕到吓死人的野兽（）
 					'ISEJFDOIJNJSNFDGUISDBJNGSDJG'
 					'''
 			}
 
 			Finality: {
-				DisplayName: Finality
+				DisplayName: Finality终末
 				Tooltip:
 					'''
-					Summons a pet Rock
-					The stone before was merely a shell for the true creation, 
+					Summons a pet Rock召唤一个宠物终末之石
+					The stone before was merely a shell for the true creation, 之前的石头只不过是为真正
 					the Creator's first and favorite source of entertainment
 					'''
 			}
 
 			FlareRune: {
-				DisplayName: Flare Rune
+				DisplayName: Flare Rune辉光符文
 				Tooltip:
 					'''
-					Summons Avalon, an ascended Profaned Guardian infused with profaned and cosmic energy
+					Summons Avalon, an ascended Profaned Guardian infused with profaned and cosmic energy召唤阿瓦隆，一个被注入了亵渎和宇宙能量的升华亵渎守卫。
 					'WuH'
 					'''
 			}
@@ -2274,61 +2274,61 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Geminga: {
-				DisplayName: Geminga
+				DisplayName: Geminga幻星
 				Tooltip:
 					'''
-					Summons a swarm of 11 lesser star deities
-					'A highly condensed star'
+					Summons a swarm of 11 lesser star deities召唤11个小星辉蠕虫
+					'A highly condensed star'一个高度浓缩的星星
 					'''
 			}
 
 			GodSlayerDoll: {
-				DisplayName: God Slayer Doll
+				DisplayName: God Slayer Doll弑神者玩偶
 				Tooltip:
 					'''
-					Summons a small Cosmic Assassin, Stasis Probe, and Dark Energy
+					Summons a small Cosmic Assassin, Stasis Probe, and Dark Energy召唤一个小神之使徒,风暴蠕虫和暗物质
 					'The sentinels will recognize a new leader'
 					'''
 			}
 
 			HauntedPebble: {
-				DisplayName: Haunted Pebble
+				DisplayName: Haunted Pebble闹鬼卵石
 				Tooltip:
 					'''
-					Summons a Phantom Debris larvae
+					Summons a Phantom Debris larvae召唤一个过载装甲幼虫
 					'Spookay~'
 					'''
 			}
 
 			HeartoftheSharks: {
-				DisplayName: Heart of the Sharks
+				DisplayName: Heart of the Sharks鲨鱼之心
 				Tooltip:
 					'''
-					Summons a trio of sharks
+					Summons a trio of sharks召唤全部三种鲨鱼
 					'It's time for shark week!'
 					'''
 			}
 
 			InkyArtifact: {
-				DisplayName: Inky Artifact
+				DisplayName: Inky Artifact墨水工艺品
 				Tooltip:
 					'''
-					Summons an Omega Blue Squid
-					'For Omega version 50% off!!'
+					Summons an Omega Blue Squid召唤一个欧米茄蓝色鱿鱼
+					'For Omega version 50% off!!'欧米茄版本5折优惠
 					'''
 			}
 
 			InkyPollution: {
-				DisplayName: Inky Pollution
+				DisplayName: Inky Pollution污染之墨
 				Tooltip:
 					'''
-					Summons a baby squid
-					'It's a shame what we do to the environment'
+					Summons a baby squid召唤一个鱿鱼宝宝
+					'It's a shame what we do to the environment'我们对环境所做的一切真是令人羞耻
 					'''
 			}
 
 			IonizedJellyCrystal: {
-				DisplayName: Ionized Jelly Crystal
+				DisplayName: Ionized Jelly Crystal电解果冻体
 				Tooltip:
 					'''
 					Summons the pinnacle of slime evolution
@@ -2355,20 +2355,20 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			MirrorMatter: {
-				DisplayName: Mirror Matter
+				DisplayName: Mirror Matter镜面物质
 				Tooltip:
 					'''
-					Summons a small piece of Dark Energy
-					'They always say breaking mirrors is bad luck'
+					Summons a small piece of Dark Energy召唤一个暗物质
+					'They always say breaking mirrors is bad luck'他们说打破镜子总会带来厄运
 					'''
 			}
 
 			MoistLocket: {
-				DisplayName: Moist Locket
+				DisplayName: Moist Locket湿润吊坠
 				Tooltip:
 					'''
-					Summons a small Aquatic Pest
-					'There's a worm wriggling in it'
+					Summons a small Aquatic Pest召唤小渊海灾虫
+					'There's a worm wriggling in it'有一条蠕虫在里面蠕动
 					'''
 			}
 
@@ -2382,90 +2382,90 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			PlaguebringerPowerCell: {
-				DisplayName: Plaguebringer Power Cell
+				DisplayName: Plaguebringer Power Cell瘟疫使者电池
 				Tooltip:
 					'''
-					Summons a miniature Plaguebringer
-					'Full of vitamin Bee!'
+					Summons a miniature Plaguebringer召唤一个小瘟疫使者
+					'Full of vitamin Bee!'充满了瘟疫蜜蜂
 					'''
 			}
 
 			PristineExcalibur: {
-				DisplayName: Compensation
-				Tooltip: Could be sold for a decent price
+				DisplayName: Compensation补偿物
+				Tooltip: Could be sold for a decent price可以以一个不错的价格出售
 			}
 
 			ProfanedChewToy: {
-				DisplayName: Profaned Chew Toy
+				DisplayName: Profaned Chew Toy亵渎咀嚼玩具
 				Tooltip:
 					'''
 					Summons an ungodly radical dude
-					'Seems dusty'
+					'Seems dusty'看起来满是尘土
 					'''
 			}
 
 			PurifiedFog: {
-				DisplayName: Purified Fog
+				DisplayName: Purified Fog净化之雾
 				Tooltip:
 					'''
-					Summons a creature of stygian depths
-					'Keep him bound'
+					Summons a creature of stygian depths召唤一个幽冥之物
+					'Keep him bound'把他绑起来
 					'''
 			}
 
 			ReaperoidPills: {
-				DisplayName: Reaperoid Pills
+				DisplayName: Reaperoid Pills猎魂药物
 				Tooltip:
 					'''
-					Summons a walking Reaper
-					'So that's how they got so buff...'
+					Summons a walking Reaper召唤步行猎魂鲨
+					'So that's how they got so buff...'所以这就是为什么他们走的如此有节奏
 					'''
 			}
 
 			RepurposedMonitor: {
-				DisplayName: Repurposed Monitor
-				Tooltip: Summons a faulty repair bot to follow you
+				DisplayName: Repurposed Monitor修复显示屏
+				Tooltip: Summons a faulty repair bot to follow you召唤一个故障维修机器人跟随你
 			}
 
 			RottenHotdog: {
-				DisplayName: Rotten Hotdog
+				DisplayName: Rotten Hotdog腐烂热狗
 				Tooltip:
 					'''
-					Summons a Pitbull puppy
-					Barks when any rare enemies are nearby
-					'Delicious...'
+					Summons a Pitbull puppy召唤一个比特犬幼犬
+					Barks when any rare enemies are nearby当稀有生物在附近时吠叫
+					'Delicious...'如此美味...
 					'''
 			}
 
 			RottenKey: {
-				DisplayName: Rotten Key
+				DisplayName: Rotten Key腐烂之匙
 				Tooltip:
 					'''
-					Summons a chunk of The Hive Mind
-					'The key to pacifying a microbial cluster'
+					Summons a chunk of The Hive Mind召唤小腐巢意志
+					'The key to pacifying a microbial cluster'安抚腐化之地的关键
 					'''
 			}
 
 			RottingCalamitousArtifact: {
-				DisplayName: Rotting Calamitous Artifact
+				DisplayName: Rotting Calamitous Artifact腐化灾厄烛
 				Tooltip:
 					'''
-					Summons a pet Sepulchling
-					'The grave rises'
+					Summons a pet Sepulchling召唤宠物猩红圆月
+					'The grave rises'死亡升起
 					'''
 			}
 
 			RoverSpindle: {
-				DisplayName: Rover Spindle
+				DisplayName: Rover Spindle漫步者之轴
 				Tooltip:
 					'''
-					Summons a suspiciously familiar Wulfrum Robot
-					'Crusty'
+					Summons a suspiciously familiar Wulfrum Robot召唤一个似曾相识钨钢机器人
+					'Crusty'脾气暴躁
 					'''
 			}
 
 			RuinedBandage: {
-				DisplayName: Ruined Bandage
+				DisplayName: Ruined Bandage破损绷带
 				Tooltip:
 					'''
 					Summons Euros
@@ -2474,79 +2474,79 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AmberGeode: {
-				DisplayName: Amber Geode
+				DisplayName: Amber Geode琥珀晶石
 				Tooltip:
 					'''
-					Summons an Amber Scuttlet
-					'Could contain a scuttler'
+					Summons an Amber Scuttlet召唤一个小琥珀爬虫
+					'Could contain a scuttler'大致包含一个小潜遁者
 					'''
 			}
 
 			AmethystGeode: {
-				DisplayName: Amethyst Geode
+				DisplayName: Amethyst Geode紫水晶晶石
 				Tooltip:
 					'''
-					Summons an Amythest Scuttlet
-					'May contain a scuttler'
+					Summons an Amythest Scuttlet召唤一个小紫水晶爬虫
+					'May contain a scuttler'也许包含一个小潜遁者
 					'''
 			}
 
 			BejeweledSpike: {
-				DisplayName: Bejeweled Spike
+				DisplayName: Bejeweled Spike珠光宝气
 				Tooltip:
 					'''
-					Summons a rainbow Bejeweled Scuttler
+					Summons a rainbow Bejeweled Scuttler召唤彩色爬虫
 					'A blend of every flavor in one package'
 					'''
 			}
 
 			CrystalGeode: {
-				DisplayName: Crystal Geode
+				DisplayName: Crystal Geode水晶晶石
 				Tooltip:
 					'''
-					Summons a Crystal Scuttlet
-					'Might contain a scuttler'
+					Summons a Crystal Scuttlet召唤一个小水晶爬虫
+					'Might contain a scuttler'或许包含一个小潜遁者
 					'''
 			}
 
 			DiamondGeode: {
-				DisplayName: Diamond Geode
+				DisplayName: Diamond Geode钻石晶石
 				Tooltip:
 					'''
-					Summons a Diamond Scuttlet
-					'Can contain a scuttler'
+					Summons a Diamond Scuttlet召唤一个小钻石爬虫
+					'Can contain a scuttler'可以包含一个小潜遁者
 					'''
 			}
 
 			EmeraldGeode: {
-				DisplayName: Emerald Geode
+				DisplayName: Emerald Geode绿宝石晶石
 				Tooltip:
 					'''
-					Summons an Emerald Scuttlet
-					'Should contain a scuttler'
+					Summons an Emerald Scuttlet召唤一个小绿宝石爬虫
+					'Should contain a scuttler'应该包含一个小潜遁者
 					'''
 			}
 
 			RubyGeode: {
-				DisplayName: Ruby Geode
+				DisplayName: Ruby Geode红宝石晶石
 				Tooltip:
 					'''
-					Summons a Ruby Scuttlet
-					'Possibly contains a scuttler'
+					Summons a Ruby Scuttlet召唤一个小红宝石爬虫
+					'Possibly contains a scuttler'可能包含一个小潜遁者
 					'''
 			}
 
 			SapphireGeode: {
-				DisplayName: Sapphire Geode
+				DisplayName: Sapphire Geode蓝宝石晶石
 				Tooltip:
 					'''
-					Summons an Amber Scuttlet
-					'Capable of containing a scuttler'
+					Summons an Amber Scuttlet召唤一个小蓝宝石爬虫
+					'Capable of containing a scuttler'大概包含一个小潜遁者
 					'''
 			}
 
 			TopazGeode: {
-				DisplayName: Topaz Geode
+				DisplayName: Topaz Geode黄玉晶石
 				Tooltip:
 					'''
 					Summons an Amber Scuttlet
