@@ -2655,74 +2655,74 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			TheDragonball: {
-				DisplayName: The Dragonball龙之球
+				DisplayName: The Dragonball龙珠
 				Tooltip:
 					'''
-					Summons a spherical Dragonfolly
-					Causes failed dragon clones to have identity crises
+					Summons a spherical Dragonfolly召唤气球癫痫鸟
+					Causes failed dragon clones to have identity crises让失败的克隆龙出现身份危机
 					'Uh oh'
 					'''
 			}
 
 			TheSeaKingsCoin: {
-				DisplayName: The Sea King's Coin
+				DisplayName: The Sea King's Coin海王硬币
 				Tooltip:
 					'''
-					Summons both the Aquatic and Desert Pests
-					'Blessed with pest power'
+					Summons both the Aquatic and Desert Pests召唤渊海和荒漠灾虫各一个
+					'Blessed with pest power'被灾虫之力祝福着
 					'''
 			}
 
 			ToyScythe: {
-				DisplayName: Toy Scythe
+				DisplayName: Toy Scythe玩具镰刀
 				Tooltip:
 					'''
 					Summons a small Polter-Chan
-					'Belongs to a mischievous spirit'
+					'Belongs to a mischievous spirit'属于一个捣蛋鬼之灵
 					'''
 			}
 
 			TundraBall: {
-				DisplayName: Tundra Ball
+				DisplayName: Tundra Ball冻原之球
 				Tooltip:
 					'''
-					Summons a very angry puppy
-					'A chew toy said to have the power to tame the angriest of dogs'
+					Summons a very angry puppy召唤一个非常愤怒的小狗
+					'A chew toy said to have the power to tame the angriest of dogs'一个据说可以驯服最暴脾气狗的咀嚼玩具
 					'''
 			}
 
 			UglyTentacle: {
-				DisplayName: Ugly Tentacle
+				DisplayName: Ugly Tentacle丑陋触手
 				Tooltip:
 					'''
-					Summons T.U.B
-					'fat'
+					Summons T.U.B召唤TUB
+					'fat'太胖了
 					'''
 			}
 
 			WulfrumController: {
-				DisplayName: Wulfrum Control Panel
-				Tooltip: Allows the user to control an army of mechs
+				DisplayName: Wulfrum Control Panel钨钢控制板
+				Tooltip: Allows the user to control an army of mechs允许玩家控制所有钨钢器械
 			}
 
 			ZygoteinaBucket: {
-				DisplayName: Zygote in a Bucket
+				DisplayName: Zygote in a Bucket美西螈桶
 				Tooltip: Summons an ancient ghastly fetus
 			}
 
 			HypnosPlushThrowable: {
-				DisplayName: Hypnos Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Hypnos Plushie (Throwable)希普诺斯公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			MirePlushThrowableP1: {
-				DisplayName: Cragmaw Mire Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Cragmaw Mire Plushie (Throwable)峭咽潭公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			MirePlushThrowableP2: {
-				DisplayName: Slimy Cragmaw Mire Plushie (Throwable)
-				Tooltip: Can be thrown
+				DisplayName: Slimy Cragmaw Mire Plushie (Throwable)小型峭咽潭公仔
+				Tooltip: Can be thrown可投掷
 			}
 
 			PutridShroom: {
@@ -2731,7 +2731,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					'''
 					Causes the great fungus crab's Crab Shrooms to become passive, but also enrage upon defeat
 					Keeps the small fungal crab on your head, even when moving
-					'Smells like cheese...?'
+					'Smells like cheese...?'闻起来像起司
 					'''
 			}
 
@@ -2745,18 +2745,18 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Used to craft Terminus-themed vanities
-					'Do NOT eat.'
+					'Do NOT eat.'禁止食用
 					'''
 			}
 
 			AstralMusicBox: {
-				DisplayName: Music Box (Astral Blight)
+				DisplayName: Music Box (Astral Blight)音乐盒（星辉瘟疫）
 				Tooltip: ""
 			}
 
 			AuricTrashCan: {
 				DisplayName: Auric Trash Can
-				Tooltip: "'I've lost control of my life'"
+				Tooltip: "'I've lost control of my life'"我的生活失控了
 			}
 
 			TiedBoB2: {
