@@ -2726,7 +2726,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			PutridShroom: {
-				DisplayName: Aromatic Shroom
+				DisplayName: Aromatic Shroom芳香蘑菇
 				Tooltip:
 					'''
 					Causes the great fungus crab's Crab Shrooms to become passive, but also enrage upon defeat
@@ -2736,26 +2736,26 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SparrowMeat: {
-				DisplayName: Sparrow Meat
-				Tooltip: There's a bit of pink cloth in it
+				DisplayName: Sparrow Meat金拱门炸鸡
+				Tooltip: There's a bit of pink cloth in it有一点粉红色的布在里面
 			}
 
 			Termipebbles: {
-				DisplayName: Termipebbles
+				DisplayName: Termipebbles终末卵石
 				Tooltip:
 					'''
-					Used to craft Terminus-themed vanities
+					Used to craft Terminus-themed vanities用于制造终末主题的饰品
 					'Do NOT eat.'禁止食用
 					'''
 			}
 
 			AstralMusicBox: {
-				DisplayName: Music Box (Astral Blight)音乐盒（星辉瘟疫）
+				DisplayName: Music Box (Astral Blight)音乐盒（枯萎星辉瘟疫）
 				Tooltip: ""
 			}
 
 			AuricTrashCan: {
-				DisplayName: Auric Trash Can
+				DisplayName: Auric Trash Can圣金源垃圾桶
 				Tooltip: "'I've lost control of my life'"我的生活失控了
 			}
 
@@ -2780,122 +2780,122 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AstragellySlimeBanner: {
-				DisplayName: Astragelly Slime Banner
+				DisplayName: Astragelly Slime Banner星胶史莱姆旗帜
 				Tooltip: ""
 			}
 
 			BleamurBanner: {
-				DisplayName: Bleamur Banner
+				DisplayName: Bleamur Banner枯萎狐猴旗帜
 				Tooltip: ""
 			}
 
 			CalamitasBanner: {
-				DisplayName: Acursed Banner
+				DisplayName: Acursed Banner诅咒之眼旗帜
 				Tooltip: ""
 			}
 
 			EyedolBanner: {
-				DisplayName: Eyedol Banner
+				DisplayName: Eyedol Banner大眼娃旗帜
 				Tooltip: ""
 			}
 
 			GodSlayerSlugBanner: {
-				DisplayName: God Slayer Slug Banner
+				DisplayName: God Slayer Slug Banner弑神者蛞蝓旗帜
 				Tooltip: ""
 			}
 
 			IsopodBanner: {
-				DisplayName: Isopod Banner
+				DisplayName: Isopod Banner深渊大王具足虫旗帜
 				Tooltip: ""
 			}
 
 			SandTurtleBanner: {
-				DisplayName: Sand Turtle Banner
+				DisplayName: Sand Turtle Banner沙漠龟旗帜
 				Tooltip: ""
 			}
 
 			VeilBanner: {
-				DisplayName: Veil Banner
-				Tooltip: Great for blocking out the sun!
+				DisplayName: Veil Banner遮影旗帜
+				Tooltip: Great for blocking out the sun!很适合挡住日光
 			}
 
 			ViolemurBanner: {
-				DisplayName: Violemur Banner
+				DisplayName: Violemur Banner星幻狐猴旗帜
 				Tooltip: ""
 			}
 
 			XerocodileBanner: {
-				DisplayName: Xerocodile Banner
+				DisplayName: Xerocodile Banner克洛希克鳄旗帜
 				Tooltip: ""
 			}
 
 			AstralClay: {
-				DisplayName: Blighted Astral Clay
+				DisplayName: Blighted Astral Clay枯萎星幻黏土
 				Tooltip: ""
 			}
 
 			AstralDirt: {
-				DisplayName: Blighted Astral Dirt
+				DisplayName: Blighted Astral Dirt枯萎星幻土块
 				Tooltip: ""
 			}
 
 			AstralHardenedSand: {
-				DisplayName: Hardened Blighted Astral Sand
+				DisplayName: Hardened Blighted Astral Sand枯萎星幻硬化沙块
 				Tooltip: ""
 			}
 
 			AstralIce: {
-				DisplayName: Blighted Astral Ice
+				DisplayName: Blighted Astral Ice枯萎星幻冰雪块
 				Tooltip: ""
 			}
 
 			AstralSand: {
-				DisplayName: Blighted Astral Sand
+				DisplayName: Blighted Astral Sand枯萎星幻沙块
 				Tooltip: ""
 			}
 
 			AstralSandstone: {
-				DisplayName: Blighted Astral Sandstone
+				DisplayName: Blighted Astral Sandstone枯萎星幻沙石
 				Tooltip: ""
 			}
 
 			AstralSnow: {
-				DisplayName: Blighted Astral Snow
+				DisplayName: Blighted Astral Snow枯萎星幻雪块
 				Tooltip: ""
 			}
 
 			AstralTreeWood: {
-				DisplayName: Xenomonolith
+				DisplayName: Xenomonolith枯萎星幻木材
 				Tooltip: ""
 			}
 
 			Xenostone: {
-				DisplayName: Xenostone
+				DisplayName: Xenostone枯萎星幻石块
 				Tooltip: ""
 			}
 
 			AstralBrick: {
-				DisplayName: Blighted Astral Brick
+				DisplayName: Blighted Astral Brick枯萎星幻砖块
 				Tooltip: ""
 			}
 
 			AstralGrass: {
-				DisplayName: Blighted Astral Grass Seeds
-				Tooltip: Places grass on blighted astral dirt
+				DisplayName: Blighted Astral Grass Seeds枯萎星辉草种子
+				Tooltip: Places grass on blighted astral dirt在枯萎星幻土块上种植
 			}
 
 			AstralPearlBlock: {
-				DisplayName: Astral Pearl Block
+				DisplayName: Astral Pearl Block星幻珍珠块
 				Tooltip: ""
 			}
 
 			AstralPlating: {
-				DisplayName: Astral Plating
+				DisplayName: Astral Plating星幻镀层
 				Tooltip: ""
 			}
 
 			AuricBrick: {
-				DisplayName: Auric Brick
+				DisplayName: Auric Brick圣金源块
 				Tooltip: ""
 			}
 
@@ -2905,138 +2905,138 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BlightedEggBlock: {
-				DisplayName: Blighted Egg Block
+				DisplayName: Blighted Egg Block枯萎星幻珍珠块
 				Tooltip: ""
 			}
 
 			Bloodstone: {
-				DisplayName: Compensation
-				Tooltip: Can be sold
+				DisplayName: Compensation补偿品
+				Tooltip: Can be sold可出售
 			}
 
 			BloodstoneBrick: {
-				DisplayName: Bloodstone Brick
+				DisplayName: Bloodstone Brick血石块
 				Tooltip: ""
 			}
 
 			ChiseledBloodstone: {
-				DisplayName: Chiseled Bloodstone
-				Tooltip: Used to make Bloodstone furniture
+				DisplayName: Chiseled Bloodstone凿刻血石
+				Tooltip: Used to make Bloodstone furniture用于打造血石主题的家具
 			}
 
 			EidolicSlab: {
-				DisplayName: Eidolic Slab
+				DisplayName: Eidolic Slab幻妖块
 				Tooltip: ""
 			}
 
 			FrostflakeBrick: {
-				DisplayName: Frostflake Brick
+				DisplayName: Frostflake Brick霜花块
 				Tooltip: ""
 			}
 
 			HallowedBrick: {
-				DisplayName: Hallowed Brick
+				DisplayName: Hallowed Brick神圣块
 				Tooltip: ""
 			}
 
 			MeldBlock: {
-				DisplayName: Meld Block
+				DisplayName: Meld Block冥思块
 				Tooltip: ""
 			}
 
 			Necrostone: {
-				DisplayName: Necrostone
+				DisplayName: Necrostone死灵块
 				Tooltip: ""
 			}
 
 			PhantowaxBlock: {
-				DisplayName: Phantowax Block
+				DisplayName: Phantowax Block幻灵块
 				Tooltip: ""
 			}
 
 			PlagueHiveWand: {
-				DisplayName: Plague Hive Wand
-				Tooltip: Places Plague Hives
+				DisplayName: Plague Hive Wand瘟疫蜂巢魔棒
+				Tooltip: Places Plague Hives放置瘟疫蜜蜂块
 			}
 
 			PolishedAstralMonolith: {
-				DisplayName: Polished Astral Monolith
+				DisplayName: Polished Astral Monolith磨光星幻木材
 				Tooltip: ""
 			}
 
 			PolishedXenomonolith: {
-				DisplayName: Polished Xenomonolith
+				DisplayName: Polished Xenomonolith磨光枯萎星幻木材
 				Tooltip: ""
 			}
 
 			ShadowBrick: {
-				DisplayName: Shade Brick
+				DisplayName: Shade Brick阴影块
 				Tooltip: ""
 			}
 
 			AgedBlueprint: {
-				DisplayName: Aged Blueprint
-				Tooltip: Do Not Distribute?
+				DisplayName: Aged Blueprint悠久蓝图
+				Tooltip: Do Not Distribute?请勿传播
 			}
 
 			AstrumAureusLog: {
 				DisplayName: Astrum Aureus Blueprint
-				Tooltip: Do Not Distribute
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			BumblebirbLog: {
-				DisplayName: "[SCRAPPED] Yharon Cloning Project Blueprint"
-				Tooltip: Do Not Distribute
+				DisplayName: "[SCRAPPED] Yharon Cloning Project Blueprint"犽戎克隆项目蓝图
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			CalamitasLog: {
-				DisplayName: Calamitas Cloning Project Blueprint
-				Tooltip: Do Not Distribute
+				DisplayName: Calamitas Cloning Project Blueprint灾厄克隆项目蓝图
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			DestroyerLog: {
-				DisplayName: Destroyer Blueprint
-				Tooltip: Do Not Distribute
+				DisplayName: Destroyer Blueprint毁灭者蓝图
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			DogLog: {
 				DisplayName: Cosmilite Plating Blueprint
-				Tooltip: Do Not Distribute
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			MurasamaLog: {
 				DisplayName: Murasama Blueprint
-				Tooltip: Do Not Distribute
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			OrthoceraLog: {
 				DisplayName: Orthocera Exile Plan
-				Tooltip: Please Distribute
+				Tooltip: Please Distribute请勿传播
 			}
 
 			PlagueLog: {
-				DisplayName: Plague Blueprint
-				Tooltip: Do Not Distribute
+				DisplayName: Plague Blueprint瘟疫蓝图
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			PrimeLog: {
-				DisplayName: Skeletron Prime Blueprint
-				Tooltip: Do Not Distribute
+				DisplayName: Skeletron Prime Blueprint骷髅王蓝图
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			SamLog: {
 				DisplayName: Murasama Blueprint EX
-				Tooltip: Do Not Distribute
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			TwinsLog: {
-				DisplayName: Twins Blueprint
-				Tooltip: Do Not Distribute
+				DisplayName: Twins Blueprint双子魔眼蓝图
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			YharmorLog: {
 				DisplayName: Auric Armor Blueprint
-				Tooltip: Do Not Distribute
+				Tooltip: Do Not Distribute请勿传播
 			}
 
 			BoiMachine: {
