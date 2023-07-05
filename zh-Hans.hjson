@@ -832,7 +832,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			AresChestplate: {
 				# Shirts
-				DisplayName: XF Model Chestplate
+				DisplayName: XF Model ChestplateXF模型胸甲
 				# Shirts
 				Tooltip:
 					'''
@@ -3040,121 +3040,121 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BoiMachine: {
-				DisplayName: Binding of Anahita Machine
+				DisplayName: Binding of Anahita Machine以撒游戏机
 				Tooltip:
 					'''
-					INCOMPLETE ITEM, EXTREMELY UNSTABLE
-					Roguelike game
+					INCOMPLETE ITEM, EXTREMELY UNSTABLE未完成的物品,极其不稳定
+					Roguelike game角色扮演游戏
 					'''
 			}
 
 			BrimstoneHeart: {
-				DisplayName: Hanging Brimstone Heart
+				DisplayName: Hanging Brimstone Heart悬挂硫磺石之心
 				Tooltip: Plus Up
 			}
 
 			AstJar: {
-				DisplayName: Astral Jelly Jar
+				DisplayName: Astral Jelly Jar星辉果冻瓶
 				Tooltip: ""
 			}
 
 			BleamurPerch: {
-				DisplayName: Bleamur Perch
+				DisplayName: Bleamur Perch枯萎狐猴盆景
 				Tooltip: ""
 			}
 
 			BlinkerInABottle: {
-				DisplayName: Blinker in a Bottle
+				DisplayName: Blinker in a Bottle闪耀萤火虫瓶
 				Tooltip: ""
 			}
 
 			CrystalFlyJar: {
-				DisplayName: Crystal Butterfly Jar
+				DisplayName: Crystal Butterfly Jar亵渎晶蝶罐
 				Tooltip: ""
 			}
 
 			EyedolTerrarium: {
-				DisplayName: Eyedol Cage
+				DisplayName: Eyedol Cage大眼娃笼
 				Tooltip: ""
 			}
 
 			GAstJar: {
-				DisplayName: Gold Astral Jelly Jar
+				DisplayName: Gold Astral Jelly Jar金亵渎晶蝶罐
 				Tooltip: ""
 			}
 
 			GoldenIsopodTerrarium: {
-				DisplayName: Gold Isopod Cage
+				DisplayName: Gold Isopod Cage金深渊大王具足虫笼
 				Tooltip: ""
 			}
 
 			GoldEyedolTerrarium: {
-				DisplayName: Gold Eyedol Cage
+				DisplayName: Gold Eyedol Cage金大眼娃笼
 				Tooltip: ""
 			}
 
 			GoldViolemurMonolith: {
-				DisplayName: Gold Violemur Perch
+				DisplayName: Gold Violemur Perch金星幻狐猴笼
 				Tooltip: ""
 			}
 
 			IsopodTerrarium: {
-				DisplayName: Isopod Cage
+				DisplayName: Isopod Cage深渊大王具足虫笼
 				Tooltip: ""
 			}
 
 			NukeJar: {
-				DisplayName: Vaporofly in a Jar
+				DisplayName: Vaporofly in a Jar硫海飞蝇罐
 				Tooltip: ""
 			}
 
 			OrthoJar: {
-				DisplayName: Orthocera in a Jar
+				DisplayName: Orthocera in a Jar直角石幼体罐
 				Tooltip: ""
 			}
 
 			PlagueFrogTerrarium: {
-				DisplayName: Plagued Frog Cage
+				DisplayName: Plagued Frog Cage瘟疫箭毒蛙笼
 				Tooltip: ""
 			}
 
 			ProvFlyJar: {
-				DisplayName: Blazing Butterfly Jar
+				DisplayName: Blazing Butterfly Jar亵渎火蝶罐
 				Tooltip: ""
 			}
 
 			SandTurtleCage: {
-				DisplayName: Sand Turtle Cage
+				DisplayName: Sand Turtle Cage沙漠龟笼
 				Tooltip: ""
 			}
 
 			SlugTerrarium: {
-				DisplayName: God Slayer Slug Cage
+				DisplayName: God Slayer Slug Cage弑神者蛞蝓笼
 				Tooltip: ""
 			}
 
 			SwearshroomCage: {
-				DisplayName: Swearshroom Cage
+				DisplayName: Swearshroom Cage寄生菌笼
 				Tooltip: ""
 			}
 
 			ViolemurMonolith: {
-				DisplayName: Violemur Perch
+				DisplayName: Violemur Perch星幻狐猴笼
 				Tooltip: ""
 			}
 
 			XerocodileCage: {
-				DisplayName: Xerocodile Cage
+				DisplayName: Xerocodile Cage苏醒的克洛希克鳄笼
 				Tooltip: ""
 			}
 
 			CalamityLamp: {
-				DisplayName: Brimstone Flambeau
-				Tooltip: Something malicious is brewing
+				DisplayName: Brimstone Flambeau硫磺火炬
+				Tooltip: Something malicious is brewing恶意之物正在酝酿
 			}
 
 			CosmiliteChairEX: {
-				DisplayName: Cosmilite Monobloc Chair
+				DisplayName: Cosmilite Monobloc Chair宇宙单人椅
 				Tooltip: ""
 			}
 
@@ -3164,441 +3164,441 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			DemonShield: {
-				DisplayName: Demon Ram Shield
-				Tooltip: "'It's too big to wear'"
+				DisplayName: Demon Ram Shield恶魔面具
+				Tooltip: "'It's too big to wear'"太大了,戴不了
 			}
 
 			DisrepairUnit: {
-				DisplayName: Disrepair Unit
+				DisplayName: Disrepair Unit损坏机器人
 				Tooltip: "'You're sick in the head'"
 			}
 
 			Evolution: {
-				DisplayName: Toy Evolution
+				DisplayName: Toy Evolution玩具进化者
 				Tooltip: "'Pondering the orb...'"
 			}
 
 			AgedRustGamingTable: {
-				DisplayName: Aged Lab Gaming Table
-				Tooltip: G@m3 0n1
+				DisplayName: Aged Lab Gaming Table古老实验室游戏桌
+				Tooltip: G@m3 0n1油习凯石
 			}
 
 			RustGamingTable: {
-				DisplayName: Lab Gaming Table
-				Tooltip: Game On!
+				DisplayName: Lab Gaming Table实验室游戏桌
+				Tooltip: Game On!游戏开始
 			}
 
 			RustGamingTable2: {
-				DisplayName: Lab Gaming Table 2
-				Tooltip: "'Technically a spinoff'"
+				DisplayName: Lab Gaming Table 2实验室游戏桌2代
+				Tooltip: "'Technically a spinoff'"从技术上讲，是一个衍生品
 			}
 
 			OldAstralBathtubItem: {
-				DisplayName: Xenomonolith Bathtub
+				DisplayName: Xenomonolith Bathtub枯萎星幻浴缸
 				Tooltip: ""
 			}
 
 			OldAstralBedItem: {
-				DisplayName: Xenomonolith Bed
+				DisplayName: Xenomonolith Bed枯萎星幻床
 				Tooltip: ""
 			}
 
 			OldAstralBookshelfItem: {
-				DisplayName: Xenomonolith Bookcase
+				DisplayName: Xenomonolith Bookcase枯萎星幻书架
 				Tooltip: ""
 			}
 
 			OldAstralCandelabraItem: {
-				DisplayName: Xenomonolith Candelabra
+				DisplayName: Xenomonolith Candelabra枯萎星幻烛台
 				Tooltip: ""
 			}
 
 			OldAstralCandleItem: {
-				DisplayName: Xenomonolith Candle
+				DisplayName: Xenomonolith Candle枯萎星幻蜡烛
 				Tooltip: ""
 			}
 
 			OldAstralChairItem: {
-				DisplayName: Xenomonolith Chair
+				DisplayName: Xenomonolith Chair枯萎星幻椅
 				Tooltip: ""
 			}
 
 			OldAstralChandelierItem: {
-				DisplayName: Xenomonolith Chandelier
+				DisplayName: Xenomonolith Chandelier枯萎星幻吊灯
 				Tooltip: ""
 			}
 
 			OldAstralChestItem: {
-				DisplayName: Xenomonolith Chest
+				DisplayName: Xenomonolith Chest枯萎星幻箱
 				Tooltip: ""
 			}
 
 			OldAstralClockItem: {
-				DisplayName: Xenomonolith Grandfather Clock
+				DisplayName: Xenomonolith Grandfather Clock枯萎星幻时钟
 				Tooltip: ""
 			}
 
 			OldAstralDoorItem: {
-				DisplayName: Xenomonolith Door
+				DisplayName: Xenomonolith Door枯萎星幻门
 				Tooltip: ""
 			}
 
 			OldAstralDresserItem: {
-				DisplayName: Xenomonolith Dresser
+				DisplayName: Xenomonolith Dresser枯萎星幻梳妆台
 				Tooltip: ""
 			}
 
 			OldAstralLampItem: {
-				DisplayName: Xenomonolith Lamp
+				DisplayName: Xenomonolith Lamp枯萎星幻灯
 				Tooltip: ""
 			}
 
 			OldAstralLanternItem: {
-				DisplayName: Xenomonolith Lantern
+				DisplayName: Xenomonolith Lantern枯萎星幻灯笼
 				Tooltip: ""
 			}
 
 			OldAstralPianoItem: {
-				DisplayName: Xenomonolith Pipe Organ
+				DisplayName: Xenomonolith Pipe Organ枯萎星幻钢琴
 				Tooltip: ""
 			}
 
 			OldAstralSinkItem: {
-				DisplayName: Xenomonolith Sink
+				DisplayName: Xenomonolith Sink枯萎星幻水槽
 				Tooltip: ""
 			}
 
 			OldAstralSofaItem: {
-				DisplayName: Xenomonolith Bench
+				DisplayName: Xenomonolith Bench枯萎星幻沙发
 				Tooltip: ""
 			}
 
 			OldAstralTableItem: {
-				DisplayName: Xenomonolith Table
+				DisplayName: Xenomonolith Table枯萎星幻桌
 				Tooltip: ""
 			}
 
 			OldAstralWorkbenchItem: {
-				DisplayName: Xenomonolith Work Bench
+				DisplayName: Xenomonolith Work Bench枯萎星幻工作台
 				Tooltip: ""
 			}
 
 			AuricBathtubItem: {
-				DisplayName: Auric Bathtub
+				DisplayName: Auric Bathtub圣金源浴缸
 				Tooltip: ""
 			}
 
 			AuricBedItem: {
-				DisplayName: Auric Bed
+				DisplayName: Auric Bed圣金源床
 				Tooltip: ""
 			}
 
 			AuricBookshelfItem: {
-				DisplayName: Auric Bookcase
+				DisplayName: Auric Bookcase圣金源书架
 				Tooltip: ""
 			}
 
 			AuricCandelabraItem: {
-				DisplayName: Auric Candelabra
+				DisplayName: Auric Candelabra圣金源烛台
 				Tooltip: ""
 			}
 
 			AuricCandleItem: {
-				DisplayName: Auric Candle
+				DisplayName: Auric Candle圣金源蜡烛
 				Tooltip: ""
 			}
 
 			AuricChairItem: {
-				DisplayName: Auric Chair
+				DisplayName: Auric Chair圣金源椅
 				Tooltip: ""
 			}
 
 			AuricChandelierItem: {
-				DisplayName: Auric Chandelier
+				DisplayName: Auric Chandelier圣金源吊灯
 				Tooltip: ""
 			}
 
 			AuricChestItem: {
-				DisplayName: Auric Chest
+				DisplayName: Auric Chest圣金源箱子
 				Tooltip: ""
 			}
 
 			AuricClockItem: {
-				DisplayName: Auric Grandfather Clock
+				DisplayName: Auric Grandfather Clock圣金源时钟
 				Tooltip: ""
 			}
 
 			AuricDoorItem: {
-				DisplayName: Auric Door
+				DisplayName: Auric Door圣金源门
 				Tooltip: ""
 			}
 
 			AuricDresserItem: {
-				DisplayName: Auric Dresser
+				DisplayName: Auric Dresser圣金源梳妆台
 				Tooltip: ""
 			}
 
 			AuricLampItem: {
-				DisplayName: Auric Lamp
+				DisplayName: Auric Lamp圣金源灯
 				Tooltip: ""
 			}
 
 			AuricLanternItem: {
-				DisplayName: Auric Lantern
+				DisplayName: Auric Lantern圣金源灯笼
 				Tooltip: ""
 			}
 
 			AuricManufacturer: {
-				DisplayName: Auric Manufacturer
-				Tooltip: Used for special crafting
+				DisplayName: Auric Manufacturer圣金源制造机
+				Tooltip: Used for special crafting用于特殊制造
 			}
 
 			AuricPianoItem: {
-				DisplayName: Auric Piano
+				DisplayName: Auric Piano圣金源钢琴
 				Tooltip: ""
 			}
 
 			AuricPlatformItem: {
-				DisplayName: Chiseled Auric Platform
+				DisplayName: Chiseled Auric Platform圣金源平台
 				Tooltip: ""
 			}
 
 			AuricSinkItem: {
-				DisplayName: Auric Sink
+				DisplayName: Auric Sink圣金源水槽
 				Tooltip: ""
 			}
 
 			AuricSofaItem: {
-				DisplayName: Auric Sofa
+				DisplayName: Auric Sofa圣金源沙发
 				Tooltip: ""
 			}
 
 			AuricTableItem: {
-				DisplayName: Auric Table
+				DisplayName: Auric Table圣金源桌
 				Tooltip: ""
 			}
 
 			AuricWorkbenchItem: {
-				DisplayName: Auric Work Bench
+				DisplayName: Auric Work Bench圣金源沙发
 				Tooltip: ""
 			}
 
 			BloodstoneBathtubItem: {
-				DisplayName: Bloodstone Bathtub
+				DisplayName: Bloodstone Bathtub血石浴缸
 				Tooltip: ""
 			}
 
 			BloodstoneBedItem: {
-				DisplayName: Bloodstone Bed
+				DisplayName: Bloodstone Bed血石床
 				Tooltip: ""
 			}
 
 			BloodstoneBookshelfItem: {
-				DisplayName: Bloodstone Bookcase
+				DisplayName: Bloodstone Bookcase血石书架
 				Tooltip: ""
 			}
 
 			BloodstoneCandelabraItem: {
-				DisplayName: Bloodstone Candelabra
+				DisplayName: Bloodstone Candelabra血石烛台
 				Tooltip: ""
 			}
 
 			BloodstoneCandleItem: {
-				DisplayName: Bloodstone Candle
+				DisplayName: Bloodstone Candle血石蜡烛
 				Tooltip: ""
 			}
 
 			BloodstoneChairItem: {
-				DisplayName: Bloodstone Chair
+				DisplayName: Bloodstone Chair血石椅
 				Tooltip: ""
 			}
 
 			BloodstoneChandelierItem: {
-				DisplayName: Bloodstone Chandelier
+				DisplayName: Bloodstone Chandelier血石吊灯
 				Tooltip: ""
 			}
 
 			BloodstoneChestItem: {
-				DisplayName: Bloodstone Chest
+				DisplayName: Bloodstone Chest血石箱
 				Tooltip: ""
 			}
 
 			BloodstoneClockItem: {
-				DisplayName: Bloodstone Grandfather Clock
+				DisplayName: Bloodstone Grandfather Clock血石时钟
 				Tooltip: ""
 			}
 
 			BloodstoneDoorItem: {
-				DisplayName: Bloodstone Door
+				DisplayName: Bloodstone Door血石门
 				Tooltip: ""
 			}
 
 			BloodstoneDresserItem: {
-				DisplayName: Bloodstone Dresser
+				DisplayName: Bloodstone Dresser血石梳妆台
 				Tooltip: ""
 			}
 
 			BloodstoneLampItem: {
-				DisplayName: Bloodstone Lamp
+				DisplayName: Bloodstone Lamp血石灯
 				Tooltip: ""
 			}
 
 			BloodstoneLanternItem: {
-				DisplayName: Bloodstone Lantern
+				DisplayName: Bloodstone Lantern血石灯笼
 				Tooltip: ""
 			}
 
 			BloodstonePianoItem: {
-				DisplayName: Bloodstone Piano
+				DisplayName: Bloodstone Piano血石钢琴
 				Tooltip: ""
 			}
 
 			BloodstonePlatformItem: {
-				DisplayName: Chiseled Bloodstone Platform
+				DisplayName: Chiseled Bloodstone Platform血石平台
 				Tooltip: ""
 			}
 
 			BloodstoneSinkItem: {
-				DisplayName: Bloodstone Sink
+				DisplayName: Bloodstone Sink血石水槽
 				Tooltip: ""
 			}
 
 			BloodstoneSofaItem: {
-				DisplayName: Bloodstone Sofa
+				DisplayName: Bloodstone Sofa血石沙发
 				Tooltip: ""
 			}
 
 			BloodstoneTableItem: {
-				DisplayName: Bloodstone Table
+				DisplayName: Bloodstone Table血石桌
 				Tooltip: ""
 			}
 
 			BloodstoneWorkbenchItem: {
-				DisplayName: Bloodstone Work Bench
+				DisplayName: Bloodstone Work Bench血石工作台
 				Tooltip: ""
 			}
 
 			NecroticTorch: {
-				DisplayName: Necrotic Torch
+				DisplayName: Necrotic Torch死灵火把
 				Tooltip: ""
 			}
 
 			Ravamper: {
-				DisplayName: Necrotic Bonfire
-				Tooltip: Praise the sun!
+				DisplayName: Necrotic Bonfire死灵篝火
+				Tooltip: Praise the sun!赞美太阳
 			}
 
 			PhantowaxBathtubItem: {
-				DisplayName: Phantowax Bathtub
+				DisplayName: Phantowax Bathtub幻灵浴缸
 				Tooltip: ""
 			}
 
 			PhantowaxBedItem: {
-				DisplayName: Phantowax Bed
+				DisplayName: Phantowax Bed幻灵床
 				Tooltip: ""
 			}
 
 			PhantowaxBookshelfItem: {
-				DisplayName: Phantowax Bookcase
+				DisplayName: Phantowax Bookcase幻灵书架
 				Tooltip: ""
 			}
 
 			PhantowaxCandelabraItem: {
-				DisplayName: Phantowax Candelabra
+				DisplayName: Phantowax Candelabra幻灵烛台
 				Tooltip: ""
 			}
 
 			PhantowaxCandleItem: {
-				DisplayName: Phantowax Candle
+				DisplayName: Phantowax Candle幻灵蜡烛
 				Tooltip: ""
 			}
 
 			PhantowaxChairItem: {
-				DisplayName: Phantowax Chair
+				DisplayName: Phantowax Chair幻灵椅
 				Tooltip: ""
 			}
 
 			PhantowaxChandelierItem: {
-				DisplayName: Phantowax Chandelier
+				DisplayName: Phantowax Chandelier幻灵吊灯
 				Tooltip: ""
 			}
 
 			PhantowaxChestItem: {
-				DisplayName: Phantowax Chest
+				DisplayName: Phantowax Chest幻灵箱
 				Tooltip: ""
 			}
 
 			PhantowaxClockItem: {
-				DisplayName: Phantowax Grandfather Clock
+				DisplayName: Phantowax Grandfather Clock幻灵时钟
 				Tooltip: ""
 			}
 
 			PhantowaxDoorItem: {
-				DisplayName: Phantowax Door
+				DisplayName: Phantowax Door幻灵门
 				Tooltip: ""
 			}
 
 			PhantowaxDresserItem: {
-				DisplayName: Phantowax Dresser
+				DisplayName: Phantowax Dresser幻灵梳妆台
 				Tooltip: ""
 			}
 
 			PhantowaxLampItem: {
-				DisplayName: Phantowax Lamp
+				DisplayName: Phantowax Lamp幻灵灯
 				Tooltip: ""
 			}
 
 			PhantowaxLanternItem: {
-				DisplayName: Phantowax Lantern
+				DisplayName: Phantowax Lantern幻灵灯笼
 				Tooltip: ""
 			}
 
 			PhantowaxPianoItem: {
-				DisplayName: Phantowax Piano
+				DisplayName: Phantowax Piano幻灵钢琴
 				Tooltip: ""
 			}
 
 			PhantowaxPlatformItem: {
-				DisplayName: Phantowax Platform
+				DisplayName: Phantowax Platform幻灵平台
 				Tooltip: ""
 			}
 
 			PhantowaxSinkItem: {
-				DisplayName: Phantowax Sink
+				DisplayName: Phantowax Sink幻灵水槽
 				Tooltip: ""
 			}
 
 			PhantowaxSofaItem: {
-				DisplayName: Phantowax Sofa
+				DisplayName: Phantowax Sofa幻灵沙发
 				Tooltip: ""
 			}
 
 			PhantowaxTableItem: {
-				DisplayName: Phantowax Table
+				DisplayName: Phantowax Table幻灵桌
 				Tooltip: ""
 			}
 
 			PhantowaxWorkbenchItem: {
-				DisplayName: Phantowax Work Bench
+				DisplayName: Phantowax Work Bench幻灵工作台
 				Tooltip: ""
 			}
 
 			WulfrumGlobe: {
-				DisplayName: Wulfrum Globe
-				Tooltip: Spin spin spin
+				DisplayName: Wulfrum Globe钨钢地球仪
+				Tooltip: Spin spin spin转啊转啊转
 			}
 
 			HeartoftheCommunity: {
-				DisplayName: Heart of the Community
-				Tooltip: My greatest creation, handle it with care
+				DisplayName: Heart of the Community社区之心
+				Tooltip: My greatest creation, handle it with care我最伟大的造物,悉心照顾它
 			}
 
 			Help: {
-				DisplayName: Stuck Orthocera
+				DisplayName: Stuck Orthocera卡住的直角石
 				Tooltip:
 					'''
 					Can be fed Green Mushrooms
-					'Help me'
+					'Help me'帮帮我
 					'''
 			}
 
