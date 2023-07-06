@@ -3597,83 +3597,83 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Stuck Orthocera卡住的直角石
 				Tooltip:
 					'''
-					Can be fed Green Mushrooms
+					Can be fed Green Mushrooms可以喂食绿蘑菇
 					'Help me'帮帮我
 					'''
 			}
 
 			Hesfine: {
-				DisplayName: Orthocera Jacuzzi
+				DisplayName: Orthocera Jacuzzi直角石按摩浴缸
 				Tooltip: "':Grab:'"
 			}
 
 			InactivePowerFactory: {
-				DisplayName: Compensation
-				Tooltip: "Can be sold"
+				DisplayName: Compensation补偿品
+				Tooltip: "Can be sold"可出售
 			}
 
 			JunkArt: {
-				DisplayName: Reconstructed Particle Accelerator
-				Tooltip: "'Reassembled from old blueprints. The flower inside has grown vibrantly after five years.'"
+				DisplayName: Reconstructed Particle Accelerator重建的粒子加速器
+				Tooltip: "'Reassembled from old blueprints. The flower inside has grown vibrantly after five years.'"根据旧的蓝图重新组装.在五年之后里面的花已经长得很有活力。
 			}
 
 			MireAquarium: {
-				DisplayName: Mire Aquarium
-				Tooltip: "'Hopefully it doesn't try to break out...'"
+				DisplayName: Mire Aquarium峭咽潭水族馆
+				Tooltip: "'Hopefully it doesn't try to break out...'"希望它不会试图突破......
 			}
 
 			AquaticMonolith: {
-				DisplayName: Tiny Decapitated Leviathan Head
+				DisplayName: Tiny Decapitated Leviathan Head小型利维坦的头
 				Tooltip: Why would you even want this
 			}
 
 			AuroraMonolith: {
-				DisplayName: Bittercold Construct
+				DisplayName: Bittercold Construct寒冰造物
 				Tooltip: "'][[]][][][][[]'"
 			}
 
 			CalamitousMonolith: {
-				DisplayName: Calamitous Ritual Basin
-				Tooltip: The fire dances above it with entertaining intent
+				DisplayName: Calamitous Ritual Basin灾厄仪式之盆
+				Tooltip: The fire dances above it with entertaining intent火焰在它上面欢愉的跳舞
 			}
 
 			DimensionalMonolith: {
-				DisplayName: Dimensional Obelisk
-				Tooltip: It appears to be trying to signal something, with no success
+				DisplayName: Dimensional Obelisk维度方尖碑
+				Tooltip: It appears to be trying to signal something, with no success它似乎在试图发出什么信号，但没有成功。
 			}
 
 			ExoMonolith: {
-				DisplayName: Gunmetal Mechanism
+				DisplayName: Gunmetal Mechanism炮制机构
 				Tooltip: ""
 			}
 
 			InfernalMonolith: {
-				DisplayName: Infernal Altar
+				DisplayName: Infernal Altar地狱祭坛
 				Tooltip: The flame roars with uselessness
 			}
 
 			PlagueMonolith: {
-				DisplayName: Plague Dialysis Machine
+				DisplayName: Plague Dialysis Machine瘟疫透析仪
 				Tooltip: ""
 			}
 
 			UnholyMonolith: {
-				DisplayName: Profaned Fountain
-				Tooltip: "'No, it doesn't change any liquid colors'"
+				DisplayName: Profaned Fountain亵渎喷泉
+				Tooltip: "'No, it doesn't change any liquid colors'"不,它不会改变任何液体的颜色
 			}
 
 			MoulderingAltarItem: {
-				DisplayName: Mouldering Altar
-				Tooltip: Counts as a demon altar
+				DisplayName: Mouldering Altar腐烂祭坛
+				Tooltip: Counts as a demon altar视作恶魔祭坛
 			}
 
 			AccidentalAbominationn: {
-				DisplayName: Accidental Abomination
+				DisplayName: Accidental Abomination意外的憎恶
 				Tooltip: "'Mathew Maple'"
 			}
 
 			BlazingConflict: {
-				DisplayName: Blazing Conflict
+				DisplayName: Blazing Conflict炽热的冲突
 				Tooltip:
 					'''
 					'Fire vs fire'
@@ -3682,34 +3682,34 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			CalamiteaTime: {
-				DisplayName: Calamitea Time
+				DisplayName: Calamitea Time灾厄的下午茶
 				Tooltip: Original by 'caligulas,' repainted by 'Mathew Maple'
 			}
 
 			CalamityFriends: {
-				DisplayName: Little Buddies
+				DisplayName: Little Buddies小家伙们
 				Tooltip:
 					'''
-					'Friends!'
+					'Friends!'朋友
 					'Mochi'
 					'''
 			}
 
 			CalamityPaint: {
-				DisplayName: An Ancient Calamity
+				DisplayName: An Ancient Calamity原始之灾
 				Tooltip: "'Blockaroz'"
 			}
 
 			CalamityPaintRetold: {
-				DisplayName: A Calamity
+				DisplayName: A Calamity灾厄
 				Tooltip: "'IbanPlay'"
 			}
 
 			CirrusBooze: {
-				DisplayName: A Fine Chalice
+				DisplayName: A Fine Chalice精美的圣杯
 				Tooltip:
 					'''
-					'A fine chalice indeed'
+					'A fine chalice indeed'的确是精美的圣杯
 					'TimerFun'
 					'''
 			}
@@ -3725,23 +3725,23 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			DarkMagic: {
-				DisplayName: Dark Magic
+				DisplayName: Dark Magic黑暗魔法
 				Tooltip: "'Mathew Maple'"
 			}
 
 			DraedonPopcorn: {
-				DisplayName: The Mechanical Gamer
+				DisplayName: The Mechanical Gamer机械玩家
 				Tooltip: "'Mathew Maple'"
 			}
 
 			Duality: {
-				DisplayName: Duality
+				DisplayName: Duality双面
 				Tooltip: "'Mathew Maple'"
 			}
 
 			Espelho: {
-				DisplayName: Espelho
-				Tooltip: "'Triangle'"
+				DisplayName: Espelho镜子
+				Tooltip: "'Triangle'"三角形
 			}
 
 			EyeofXeroc: {
@@ -3750,7 +3750,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Frozen: {
-				DisplayName: Frozen
+				DisplayName: Frozen冻结
 				Tooltip: "'Mathew Maple'"
 			}
 
@@ -3764,16 +3764,16 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			LostSouls: {
-				DisplayName: Lost Souls
+				DisplayName: Lost Souls迷失之魂
 				Tooltip:
 					'''
-					'Lost and Afraid'
+					'Lost and Afraid'失落和恐惧
 					'Mathew Maple'
 					'''
 			}
 
 			ModIconPainting: {
-				DisplayName: Calamity's Vanities
+				DisplayName: Calamity's Vanities灾厄虚荣
 				Tooltip: "'IbanPlay and Starr'"
 			}
 
@@ -3787,7 +3787,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			OldModIconPainting: {
-				DisplayName: Calamity's Vanities (old)
+				DisplayName: Calamity's Vanities (old)灾厄虚荣（旧）
 				Tooltip:
 					'''
 					'Old!!!'
@@ -3796,7 +3796,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			OldUCMMPainting: {
-				DisplayName: Unofficial Calamity Mod Music (old)
+				DisplayName: Unofficial Calamity Mod Music (old)非官方灾厄音乐（旧）
 				Tooltip:
 					'''
 					'Vintage tunes'
@@ -3939,324 +3939,324 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BloodstoneRoses: {
-				DisplayName: Bloodstone Roses
+				DisplayName: Bloodstone Roses血石玫瑰
 				Tooltip: ""
 			}
 
 			BotanicPot: {
-				DisplayName: Botanic Bonsai
+				DisplayName: Botanic Bonsai植物盆栽
 				Tooltip: ""
 			}
 
 			BrainCoral: {
-				DisplayName: Potted Brain Coral
+				DisplayName: Potted Brain Coral脑珊瑚盆栽
 				Tooltip: ""
 			}
 
 			EidolonTree: {
-				DisplayName: Eidolic Tree
+				DisplayName: Eidolic Tree虚空之树
 				Tooltip: ""
 			}
 
 			FanCoral: {
-				DisplayName: Potted Fan Coral
+				DisplayName: Potted Fan Coral扇形珊瑚盆栽
 				Tooltip: ""
 			}
 
 			FleshThing: {
-				DisplayName: Living Grass
-				Tooltip: A strange fleshy substance birthed by the crimson and cared for by Draedon
+				DisplayName: Living Grass活草
+				Tooltip: A strange fleshy substance birthed by the crimson and cared for by Draedon猩红之地孕育出的一种奇怪的肉质物质，由犽戎照看
 			}
 
 			HolyStudedBonsai: {
-				DisplayName: Holy Studded Bonsai
+				DisplayName: Holy Studded Bonsai圣痕盆景
 				Tooltip: ""
 			}
 
 			MonolithPot: {
-				DisplayName: Potted Astral Monolith
+				DisplayName: Potted Astral Monolith星幻纪念碑盆景
 				Tooltip: ""
 			}
 
 			NetherTree: {
-				DisplayName: Twisting Nether Sapling
-				Tooltip: Vicious
+				DisplayName: Twisting Nether Sapling扭曲下界树苗
+				Tooltip: Vicious恶毒
 			}
 
 			NetherTreeBig: {
-				DisplayName: Twisting Nether Tree
+				DisplayName: Twisting Nether Tree扭曲下界树
 				Tooltip: Vehement
 			}
 
 			OddMushroomPot: {
-				DisplayName: Odd Mushroom Pot
-				Tooltip: Now you can grow your own shrooms!... Not really
+				DisplayName: Odd Mushroom Pot奇异蘑菇罐
+				Tooltip: Now you can grow your own shrooms!... Not really现在你可以种植你自己的蘑菇了！...也许吧
 			}
 
 			PottedDecapoditaSprout: {
-				DisplayName: Potted Decapodita Sprout
-				Tooltip: Have a fungus
+				DisplayName: Potted Decapodita Sprout发光蘑菇盆栽
+				Tooltip: Have a fungus有真菌
 			}
 
 			SSCoral: {
-				DisplayName: Potted Sunken Coral
+				DisplayName: Potted Sunken Coral沉没珊瑚盆栽
 				Tooltip: ""
 			}
 
 			SulphurousCactus: {
-				DisplayName: Potted Sulphurous Cactus
+				DisplayName: Potted Sulphurous Cactus硫磺仙人掌盆栽
 				Tooltip: ""
 			}
 
 			SulphurousPlanter: {
-				DisplayName: Acid Vine Planter
-				Tooltip: You are baffled by how they are standing up
+				DisplayName: Acid Vine Planter酸蚀藤蔓花盆
+				Tooltip: You are baffled by how they are standing up你对他们是如何生长的感到不解
 			}
 
 			TableCoral: {
-				DisplayName: Potted Table Coral
+				DisplayName: Potted Table Coral表皮珊瑚盆栽
 				Tooltip: ""
 			}
 
 			AnahitaPlush: {
-				DisplayName: Anahita Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Anahita Plushie (Placeable)阿娜希塔公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			ApolloPlush: {
-				DisplayName: Apollo Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Apollo Plushie (Placeable)阿波罗公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			AquaticScourgePlush: {
-				DisplayName: Aquatic Scourge Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Aquatic Scourge Plushie (Placeable)渊海灾虫公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			AresPlush: {
-				DisplayName: Ares Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Ares Plushie (Placeable)阿瑞斯公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			ArtemisPlush: {
-				DisplayName: Artemis Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Artemis Plushie (Placeable)阿尔忒弥斯公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			AstrageldonPlush: {
-				DisplayName: Astrageldon Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Astrageldon Plushie (Placeable)末世星史莱姆公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			AstrumAureusPlush: {
-				DisplayName: Astrum Aureus Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Astrum Aureus Plushie (Placeable)白金星舰公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			AstrumDeusPlush: {
-				DisplayName: Astrum Deus Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Astrum Deus Plushie (Placeable)星神游龙公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			BrimstoneElementalPlush: {
-				DisplayName: Brimstone Elemental Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Brimstone Elemental Plushie (Placeable)硫磺火元素公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			BumblefuckPlush: {
-				DisplayName: Dragonfolly Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Dragonfolly Plushie (Placeable)痴愚金龙公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			CalamitasFumo: {
-				DisplayName: Calamitas Plushie (Placeable)
+				DisplayName: Calamitas Plushie (Placeable)灾厄公仔
 				Tooltip:
 					'''
-					'A dark artifact that must be handled with care'
-					Master drop
+					'A dark artifact that must be handled with care'必须谨慎处理的黑暗艺术品
+					Master drop大师掉落
 					'''
 			}
 
 			CeaselessVoidPlush: {
-				DisplayName: Ceaseless Void Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Ceaseless Void Plushie (Placeable)无尽虚空公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			ClonePlush: {
-				DisplayName: Calamitas Clone Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Calamitas Clone Plushie (Placeable)灾厄之影公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			CrabulonPlush: {
-				DisplayName: Crabulon Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Crabulon Plushie (Placeable)菌生蟹公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			CryogenPlush: {
-				DisplayName: Cryogen Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Cryogen Plushie (Placeable)极地之灵公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			DesertScourgePlush: {
-				DisplayName: Desert Scourge Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Desert Scourge Plushie (Placeable)荒漠灾虫公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			DevourerofGodsPlush: {
-				DisplayName: Devourer of Gods Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Devourer of Gods Plushie (Placeable)神明吞噬者公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			DraedonPlush: {
-				DisplayName: Draedon Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Draedon Plushie (Placeable)嘉登公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			GiantClamPlush: {
-				DisplayName: Giant Clam Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Giant Clam Plushie (Placeable)巨像蛤公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			HiveMindPlush: {
-				DisplayName: Hive Mind Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Hive Mind Plushie (Placeable)腐巢意志公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			HypnosPlush: {
-				DisplayName: Hypnos Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Hypnos Plushie (Placeable)许普诺斯公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			JaredPlush: {
-				DisplayName: Eidolon Wyrm Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Eidolon Wyrm Plushie (Placeable)幻海妖龙公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			LeviathanPlush: {
-				DisplayName: Leviathan Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Leviathan Plushie (Placeable)利维坦公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			MaulerPlush: {
-				DisplayName: Mauler Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Mauler Plushie (Placeable)渊海狂鲨公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			MirePlushP1: {
-				DisplayName: Shielded Cragmaw Mire Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Shielded Cragmaw Mire Plushie (Placeable)闭合峭咽潭公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			MirePlushP2: {
-				DisplayName: Slimy Cragmaw Mire Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Slimy Cragmaw Mire Plushie (Placeable)胶状峭咽潭公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			NuclearTerrorPlush: {
-				DisplayName: Nuclear Terror Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Nuclear Terror Plushie (Placeable)辐核骇兽公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			OldDukePlush: {
-				DisplayName: Old Duke Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Old Duke Plushie (Placeable)硫海遗爵公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			PerforatorPlush: {
-				DisplayName: Perforator Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Perforator Plushie (Placeable)血肉宿主公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			PlaguebringerGoliathPlush: {
-				DisplayName: Plaguebringer Goliath Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Plaguebringer Goliath Plushie (Placeable)噬魂幽花公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			PolterghastPlush: {
-				DisplayName: Polterghast Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Polterghast Plushie (Placeable)公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			ProfanedGuardianPlush: {
-				DisplayName: Profaned Guardian Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Profaned Guardian Plushie (Placeable)亵渎守卫公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			ProvidencePlush: {
-				DisplayName: Providence Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Providence Plushie (Placeable)普罗维登斯公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			RavagerPlush: {
-				DisplayName: Ravager Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Ravager Plushie (Placeable)毁灭魔像公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			SandSharkPlush: {
-				DisplayName: Great Sand Shark Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Great Sand Shark Plushie (Placeable)旱海狂鲨公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			SignusPlush: {
-				DisplayName: Signus Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Signus Plushie (Placeable)西格纳斯公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			SlimeGodPlush: {
-				DisplayName: Slime God Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Slime God Plushie (Placeable)史莱姆之神公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			StormWeaverPlush: {
-				DisplayName: Storm Weaver Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Storm Weaver Plushie (Placeable)风暴编织者公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			ThanatosPlush: {
-				DisplayName: Thanatos Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Thanatos Plushie (Placeable)塔纳托斯公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			YharonPlush: {
-				DisplayName: Yharon Plushie (Placeable)
-				Tooltip: Master drop
+				DisplayName: Yharon Plushie (Placeable)犽戎公仔
+				Tooltip: Master drop大师掉落
 			}
 
 			PongMachine: {
-				DisplayName: Pong Machine
+				DisplayName: Pong Machine对撞球游戏机
 				Tooltip:
 					'''
-					INCOMPLETE ITEM, EXTREMELY UNSTABLE
-					Pong game
+					INCOMPLETE ITEM, EXTREMELY UNSTABLE未完成物品,极其不稳定
+					Pong game对撞球游戏
 					'''
 			}
 
 			RespirationShrine: {
-				DisplayName: Respiration Shrine
+				DisplayName: Respiration Shrine呼吸神社
 				Tooltip:
 					'''
-					Provides infinite breath in the Abyss within a certain radius, for your Abyss base needs.
-					Deactivating will near instantly cause you to start drowning
-					'Basically cheating.'
+					Provides infinite breath in the Abyss within a certain radius, for your Abyss base needs.在深渊中提供一定范围内的无限呼吸，满足你探索深渊的基本需求。
+					Deactivating will near instantly cause you to start drowning停用将几乎立即导致你开始淹死。
+					'Basically cheating.'基本上是作弊
 					'''
 			}
 
 			Ribrod: {
-				DisplayName: Compensation
-				Tooltip: "Can be sold"
+				DisplayName: Compensation补偿品
+				Tooltip: "Can be sold"可出售
 			}
 
 			RoxFake: {
-				DisplayName: Compensation
-				Tooltip: "Can be sold"
+				DisplayName: Compensation补偿品
+				Tooltip: "Can be sold"可出售
 			}
 
 			SailfishTrophy: {
-				DisplayName: Sailfish Trophy
+				DisplayName: Sailfish Trophy旗鱼纪念章
 				Tooltip:
 					'''
-					'What if it were you 
-					hanging up on this wall?'
+					'What if it were you 如果它是你
+					hanging up on this wall?'挂在这面墙上
 					'''
 			}
 
@@ -4264,8 +4264,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Schematic Display
 				Tooltip:
 					'''
-					Displays a letter
-					<right> to display another letter
+					Displays a letter显示一封信
+					<right> to display another letter<right>以显示另一封信
 					'''
 			}
 
@@ -4273,82 +4273,82 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Tubeman of Entropy
 				Tooltip:
 					'''
-					Inflates into a flailing Sepulcher balloon
+					Inflates into a flailing Sepulcher balloon膨胀成一个甩动的灾坟魔物气球
 					'Embrace chaos'
 					'''
 			}
 
 			StarstruckSynthesizer: {
-				DisplayName: Starstruck Synthesizer
-				Tooltip: Used for special crafting
+				DisplayName: Starstruck Synthesizer追星合成器
+				Tooltip: Used for special crafting用于特殊制作
 			}
 
 			C: {
-				DisplayName: Statue of Calamity
-				Tooltip: A tale begins
+				DisplayName: Statue of Calamity灾厄雕像
+				Tooltip: A tale begins传说的开始
 			}
 
 			EyedolStatue: {
-				DisplayName: Eyedol Statue
+				DisplayName: Eyedol Statue大眼蛙雕像
 				Tooltip: ""
 			}
 
 			IsopodStatue: {
-				DisplayName: Abyssal Isopod Statue
+				DisplayName: Abyssal Isopod Statue深渊大王具足虫雕像
 				Tooltip: ""
 			}
 
 			Knight: {
-				DisplayName: Earthen Knight Statue
-				Tooltip: "'Not tournament legal'"
+				DisplayName: Earthen Knight Statue土制骑士雕像
+				Tooltip: "'Not tournament legal'"不符合比赛规则
 			}
 
 			NukeFlyStatue: {
-				DisplayName: Vaporofly Statue
+				DisplayName: Vaporofly Statue硫海飞蝇雕像
 				Tooltip: ""
 			}
 
 			PlagueFrogStatue: {
-				DisplayName: Plague Frog Statue
+				DisplayName: Plague Frog Statue瘟疫箭毒蛙雕像
 				Tooltip: ""
 			}
 
 			Provibust: {
-				DisplayName: Profaned Idol
-				Tooltip: "'I shall die for you m'lord'"
+				DisplayName: Profaned Idol亵渎神灵
+				Tooltip: "'I shall die for you m'lord'"我将为你而死，大人
 			}
 
 			ShrineoftheTides: {
-				DisplayName: Shrine of the Tides
-				Tooltip: My gift to the Water Elemental
+				DisplayName: Shrine of the Tides潮汐神殿
+				Tooltip: My gift to the Water Elemental我献给水元素的礼物
 			}
 
 			ViolemurStatue: {
-				DisplayName: Violemur Statue
+				DisplayName: Violemur Statue星幻狐猴雕像
 				Tooltip: ""
 			}
 
 			SulphurColumn: {
-				DisplayName: Compensation
-				Tooltip: "Can be sold"
+				DisplayName: Compensation补偿品
+				Tooltip: "Can be sold"可出售
 			}
 
 			SulphurGeyser: {
-				DisplayName: Steam Geyser
+				DisplayName: Steam Geyser蒸汽歇泉
 				Tooltip:
 					'''
 					Right click to cycle between variants
-					'Hazardous! Be careful!'
+					'Hazardous! Be careful!'有危险! 请注意
 					'''
 			}
 
 			SulphuricTank: {
-				DisplayName: Sulphuric Tank
+				DisplayName: Sulphuric Tank硫磺罐
 				Tooltip: ZZZX93
 			}
 
 			SunkenLamp: {
-				DisplayName: Sunken Lamp
+				DisplayName: Sunken Lamp沉水灯
 				Tooltip: Trippy
 			}
 
@@ -4527,12 +4527,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			YellowSolution: {
-				DisplayName: Compensation
-				Tooltip: Can be sold
+				DisplayName: Compensation补偿品
+				Tooltip: Can be sold可出售
 			}
 
 			KnowledgeFogbound: {
-				DisplayName: Knowledge Fogbound
+				DisplayName: Knowledge Fogbound知识之雾
 				Tooltip: ""
 			}
 		}
