@@ -4353,176 +4353,176 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			TerminusShrine: {
-				DisplayName: Terminus Shrine
-				Tooltip: An altar made to hold the apocalyptic artifact
+				DisplayName: Terminus Shrine终末祭坛
+				Tooltip: An altar made to hold the apocalyptic artifact为容纳世界末日的神器而制作的祭坛
 			}
 
 			TerminusShrine2: {
-				DisplayName: Terminus Shrine Level 2
-				Tooltip: An altar witholding an apocalyptic artifact
+				DisplayName: Terminus Shrine Level 2终末祭坛等级2
+				Tooltip: An altar witholding an apocalyptic artifact隐藏着世界末日神器的祭坛
 			}
 
 			TerminusShrine3: {
-				DisplayName: Terminus Shrine Level 3
-				Tooltip: The End.
+				DisplayName: Terminus Shrine Level 3终末祭坛等级3
+				Tooltip: The End.结束了
 			}
 
 			Tesla: {
-				DisplayName: Storm Coil
-				Tooltip: Zap
+				DisplayName: Storm Coil风暴线圈
+				Tooltip: Zap滋滋滋
 			}
 
 			VisceralAltarItem: {
-				DisplayName: Visceral Altar
-				Tooltip: Counts as a crimson altar
+				DisplayName: Visceral Altar血肉祭坛
+				Tooltip: Counts as a crimson altar视作恶魔祭坛
 			}
 
 			VoidPortal: {
-				DisplayName: Void Portal
-				Tooltip: The void calls out
+				DisplayName: Void Portal虚空之门
+				Tooltip: The void calls out虚空呼唤着
 			}
 
 			YellowSeaFountain: {
-				DisplayName: Yellow Sea Fountain
+				DisplayName: Yellow Sea Fountain黄海喷泉
 				Tooltip: ""
 			}
 
 			AstralDirtWall: {
-				DisplayName: Blighted Astral Dirt Wall
+				DisplayName: Blighted Astral Dirt Wall枯萎星幻土墙
 				Tooltip: ""
 			}
 
 			AstralGrassWall: {
-				DisplayName: Blighted Astral Grass Wall
+				DisplayName: Blighted Astral Grass Wall枯萎星幻草墙
 				Tooltip: ""
 			}
 
 			AstralHardenedSandWall: {
-				DisplayName: Hardened Blighted Astral Sand Wall
+				DisplayName: Hardened Blighted Astral Sand Wall硬化枯萎星幻沙墙
 				Tooltip: ""
 			}
 
 			AstralIceWall: {
-				DisplayName: Blighted Astral Ice Wall
+				DisplayName: Blighted Astral Ice Wall枯萎星幻冰墙
 				Tooltip: ""
 			}
 
 			AstralSandstoneWall: {
-				DisplayName: Blighted Astral Sandstone Wall
+				DisplayName: Blighted Astral Sandstone Wall硬化枯萎星幻沙岩墙
 				Tooltip: ""
 			}
 
 			XenomonolithWall: {
-				DisplayName: Xenomonolith Wall
+				DisplayName: Xenomonolith Wall枯萎星幻木墙
 				Tooltip: ""
 			}
 
 			XenostoneWall: {
-				DisplayName: Xenostone Wall
+				DisplayName: Xenostone Wall枯萎星幻石墙
 				Tooltip: ""
 			}
 
 			AstralBrickWall: {
-				DisplayName: Blighted Astral Brick Wall
+				DisplayName: Blighted Astral Brick Wall枯萎星幻砖墙
 				Tooltip: ""
 			}
 
 			AstralPearlWall: {
-				DisplayName: Astral Pearl Wall
+				DisplayName: Astral Pearl Wall星幻珍珠墙
 				Tooltip: ""
 			}
 
 			AstralPlatingWall: {
-				DisplayName: Astral Plating Wall
+				DisplayName: Astral Plating Wall星幻镀层墙
 				Tooltip: ""
 			}
 
 			AuricBrickWall: {
-				DisplayName: Auric Brick Wall
+				DisplayName: Auric Brick Wall圣金源墙
 				Tooltip: ""
 			}
 
 			BlightedEggWall: {
-				DisplayName: Blighted Egg Wall
+				DisplayName: Blighted Egg Wall枯萎星幻珍珠墙
 				Tooltip: ""
 			}
 
 			BloodstoneBrickWall: {
-				DisplayName: Bloodstone Brick Wall
+				DisplayName: Bloodstone Brick Wall血石砖墙
 				Tooltip: ""
 			}
 
 			BloodstoneWall: {
-				DisplayName: Bloodstone Wall
+				DisplayName: Bloodstone Wall血石墙
 				Tooltip: ""
 			}
 
 			ChiseledBloodstoneBrickWall: {
-				DisplayName: Chiseled Bloodstone Brick Wall
+				DisplayName: Chiseled Bloodstone Brick Wall凿刻血石砖墙
 				Tooltip: ""
 			}
 
 			EidolicSlabWall: {
-				DisplayName: Eidolic Slab Wall
+				DisplayName: Eidolic Slab Wall幻妖墙
 				Tooltip: ""
 			}
 
 			FrostflakeWall: {
-				DisplayName: Frostflake Brick Wall
+				DisplayName: Frostflake Brick Wall霜冻砖墙
 				Tooltip: ""
 			}
 
 			HallowedBrickWall: {
-				DisplayName: Hallowed Brick Wall
+				DisplayName: Hallowed Brick Wall神圣砖墙
 				Tooltip: ""
 			}
 
 			MossyGravelWall: {
-				DisplayName: Compensation
-				Tooltip: Can be sold
+				DisplayName: Compensation补偿品
+				Tooltip: Can be sold可出售
 			}
 
 			NecrostoneWall: {
-				DisplayName: Necrostone Wall
+				DisplayName: Necrostone Wall死灵墙
 				Tooltip: ""
 			}
 
 			PhantowaxWall: {
-				DisplayName: Phantowax Wall
+				DisplayName: Phantowax Wall幻灵墙
 				Tooltip: ""
 			}
 
 			PlagueHiveWall: {
-				DisplayName: Plague Hive Wall
+				DisplayName: Plague Hive Wall瘟疫蜜蜂墙
 				Tooltip: ""
 			}
 
 			PolishedAstralMonolithWall: {
-				DisplayName: Polished Astral Monolith Wall
+				DisplayName: Polished Astral Monolith Wall磨光星幻木墙
 				Tooltip: ""
 			}
 
 			PolishedXenomonolithWall: {
-				DisplayName: Polished Xenomonolith Wall
+				DisplayName: Polished Xenomonolith Wall磨光枯萎星幻木墙
 				Tooltip: ""
 			}
 
 			ShadowBrickWall: {
-				DisplayName: Shade Brick Wall
+				DisplayName: Shade Brick Wall阴影砖墙
 				Tooltip: ""
 			}
 
 			WulfrumPanelWall: {
-				DisplayName: Wulfrum Panel Wall
+				DisplayName: Wulfrum Panel Wall钨钢砖墙
 				Tooltip: ""
 			}
 
 			XenoSolution: {
-				DisplayName: Blighted Astral Solution
+				DisplayName: Blighted Astral Solution枯萎星幻溶液
 				Tooltip:
 					'''
-					Used by the Clentaminator
-					Spreads the Astral Blight
+					Used by the Clentaminator由环境改造枪使用
+					Spreads the Astral Blight蔓延枯萎星幻瘟疫
 					'''
 			}
 
