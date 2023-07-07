@@ -4539,33 +4539,33 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 		Projectiles: {
 			# Meldosaurus stuff
-			EntropicVomet.DisplayName: Entropic Vomet
-			TomeoFates.DisplayName: Tome of Fates
-			GodsFire.DisplayName: God's Fire
-			ShardofAntumbra.DisplayName: Shard of Antumbra
-			MeldosaurusClone.DisplayName: Meldosaurus Shade
-			Amogus.DisplayName: Amogus
-			FogboundFist.DisplayName: Fogbound Fist
-			EntropicVomit.DisplayName: Entropic Vomit
-			NyanthropProjectile.DisplayName: Nyanthrop Projectile
-			GaussArm.DisplayName: Nuke arm
-			LaserArm.DisplayName: Laser arm
-			PlasmaArm.DisplayName: Plasma arm
-			TeslaArm.DisplayName: Tesla arm
-			MawTeeth.DisplayName: Maw Teeth
-			Phantomhook.DisplayName: Phantomhook
-			ProfanedHook.DisplayName: Profaned Hook
-			RavaClaw.DisplayName: Rava Claw
-			ScavaClaw.DisplayName: Scava Claw
+			EntropicVomet.DisplayName: Entropic Vomet熵喷
+			TomeoFates.DisplayName: Tome of Fates命运巨著
+			GodsFire.DisplayName: God's Fire神明烈焰
+			ShardofAntumbra.DisplayName: Shard of Antumbra半影裂片
+			MeldosaurusClone.DisplayName: Meldosaurus Shade梅杜萨拉斯之影
+			Amogus.DisplayName: Amogus阿莫古斯
+			FogboundFist.DisplayName: Fogbound Fist雾行拳
+			EntropicVomit.DisplayName: Entropic Vomit熵喷
+			NyanthropProjectile.DisplayName: Nyanthrop Projectile尼安特罗普投射器
+			GaussArm.DisplayName: Nuke arm核动力臂
+			LaserArm.DisplayName: Laser arm激光臂
+			PlasmaArm.DisplayName: Plasma arm等离子臂
+			TeslaArm.DisplayName: Tesla arm特斯拉臂
+			MawTeeth.DisplayName: Maw Teeth颚齿
+			Phantomhook.DisplayName: Phantomhook幻灵钩
+			ProfanedHook.DisplayName: Profaned Hook亵渎钩
+			RavaClaw.DisplayName: Rava Claw拉瓦之爪
+			ScavaClaw.DisplayName: Scava Claw斯卡瓦之爪
 			THanosHook.DisplayName: T Hanos Hook
 			OracleNPCPet_Pet.DisplayName: Oracle N P C Pet_ Pet
-			AstralSandBall.DisplayName: Blighted Atral Sand Ball
-			AstralSolutionProj.DisplayName: Xeno Spray
-			BleachBallThrown.DisplayName: Bleach Ball Thrown
-			AcidRound.DisplayName: Terror Bullet
-			Anahita.DisplayName: Anahita
-			AnahitaTear.DisplayName: Anahita
-			Atlantis.DisplayName: Atlantis
+			AstralSandBall.DisplayName: Blighted Atral Sand Ball枯萎星幻沙滩球
+			AstralSolutionProj.DisplayName: Xeno Spray枯萎星幻喷雾
+			BleachBallThrown.DisplayName: Bleach Ball Thrown抛出的漂流球
+			AcidRound.DisplayName: Terror Bullet恐惧子弹
+			Anahita.DisplayName: Anahita阿娜希塔
+			AnahitaTear.DisplayName: Anahita阿娜希塔
+			Atlantis.DisplayName: Atlantis亚特兰蒂斯
 			BoiRock.DisplayName: Rock
 			BoiUI.DisplayName: Boi UI
 			Brimhita.DisplayName: Brimnahita
@@ -4781,7 +4781,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 		Tiles: {
 			# Meldosaurus stuff
-			MeldosaurusMusicBoxPlaced.MapEntry: Music Box
+			MeldosaurusMusicBoxPlaced.MapEntry: Music Box音乐盒
 			MeldosaurusTrophyPlaced.MapEntry: Meldosaurus Trophy
 			AstralPalmSapling.MapEntry: Blighted Astral Palm Sapling
 			AstralSapling.MapEntry: Blighted Astral Sapling
@@ -4836,150 +4836,150 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			OldAstralChandelier.MapEntry: Xenomonolith Chandelier
 
 			OldAstralChest: {
-				MapEntry: Xenomonolith Chest
-				ContainerName: Xenomonolith Chest
+				MapEntry: Xenomonolith Chest枯萎星幻箱
+				ContainerName: Xenomonolith Chest枯萎星幻箱
 			}
 
-			OldAstralClock.MapEntry: Mods.CalValEX.MapObject.OldAstralClock
-			OldAstralDoorClosed.MapEntry: Xenomonolith Door
-			OldAstralDoorOpen.MapEntry: Xenomonolith Door
+			OldAstralClock.MapEntry: Mods.CalValEX.MapObject.OldAstralClock枯萎星幻
+			OldAstralDoorClosed.MapEntry: Xenomonolith Door枯萎星幻
+			OldAstralDoorOpen.MapEntry: Xenomonolith Door枯萎星幻
 
 			OldAstralDresser: {
-				MapEntry: Xenomonolith Dresser
-				ContainerName: Xenomonolith Dresser
+				MapEntry: Xenomonolith Dresser枯萎星幻
+				ContainerName: Xenomonolith Dresser枯萎星幻
 			}
 
-			OldAstralLamp.MapEntry: Xenomonolith Lamp
-			OldAstralLantern.MapEntry: Xenomonolith Lantern
-			OldAstralPiano.MapEntry: Xenomonolith Pipe Organ
-			OldAstralSink.MapEntry: Xenomonolith Sink
-			OldAstralSofa.MapEntry: Xenomonolith Bench
-			OldAstralTable.MapEntry: Xenomonolith Table
-			OldAstralWorkbench.MapEntry: Xenomonolith Work Bench
-			AuricBathtub.MapEntry: Auric Bathtub
-			AuricBed.MapEntry: Auric Bed
-			AuricBookshelf.MapEntry: Auric Bookcase
-			AuricCandelabra.MapEntry: Auric Candelabra
-			AuricCandle.MapEntry: Auric Candle
-			AuricChair.MapEntry: Auric Chair
-			AuricChandelier.MapEntry: Auric Chandelier
+			OldAstralLamp.MapEntry: Xenomonolith Lamp枯萎星幻灯
+			OldAstralLantern.MapEntry: Xenomonolith Lantern枯萎星幻灯笼
+			OldAstralPiano.MapEntry: Xenomonolith Pipe Organ枯萎星幻钢琴
+			OldAstralSink.MapEntry: Xenomonolith Sink枯萎星幻水槽
+			OldAstralSofa.MapEntry: Xenomonolith Bench枯萎星幻沙发
+			OldAstralTable.MapEntry: Xenomonolith Table枯萎星幻桌
+			OldAstralWorkbench.MapEntry: Xenomonolith Work Bench枯萎星幻工作台
+			AuricBathtub.MapEntry: Auric Bathtub圣金源浴缸
+			AuricBed.MapEntry: Auric Bed圣金源床
+			AuricBookshelf.MapEntry: Auric Bookcase圣金源书架
+			AuricCandelabra.MapEntry: Auric Candelabra圣金源
+			AuricCandle.MapEntry: Auric Candle圣金源
+			AuricChair.MapEntry: Auric Chair圣金源椅
+			AuricChandelier.MapEntry: Auric Chandelier圣金源吊灯
 
 			AuricChest: {
-				MapEntry: Auric Chest
-				ContainerName: Auric Chest
+				MapEntry: Auric Chest圣金源箱
+				ContainerName: Auric Chest圣金源箱
 			}
 
-			AuricClock.MapEntry: Mods.CalValEX.MapObject.AuricClock
-			AuricDoorClosed.MapEntry: Auric Door
-			AuricDoorOpen.MapEntry: Auric Door
+			AuricClock.MapEntry: Mods.CalValEX.MapObject.AuricClock圣金源时钟
+			AuricDoorClosed.MapEntry: Auric Door圣金源门
+			AuricDoorOpen.MapEntry: Auric Door圣金源门
 
 			AuricDresser: {
-				MapEntry: Auric Dresser
-				ContainerName: Auric Dresser
+				MapEntry: Auric Dresser圣金源梳妆台
+				ContainerName: Auric Dresser圣金源梳妆台
 			}
 
-			AuricLamp.MapEntry: Auric Lamp
-			AuricLantern.MapEntry: Auric Lantern
-			AuricManufacturerPlaced.MapEntry: Auric Manufacturer
-			AuricPiano.MapEntry: Auric Piano
-			AuricSink.MapEntry: Auric Sink
-			AuricSofa.MapEntry: Auric Sofa
-			AuricTable.MapEntry: Auric Table
-			AuricWorkbench.MapEntry: Auric Work Bench
-			BloodstoneBathtub.MapEntry: Bloodstone Bathtub
-			BloodstoneBed.MapEntry: Bloodstone Bed
-			BloodstoneBookshelf.MapEntry: Bloodstone Bookcase
-			BloodstoneCandelabra.MapEntry: Bloodstone Candelabra
-			BloodstoneCandle.MapEntry: Bloodstone Candle
-			BloodstoneChair.MapEntry: Bloodstone Chair
-			BloodstoneChandelier.MapEntry: Bloodstone Chandelier
+			AuricLamp.MapEntry: Auric Lamp圣金源灯
+			AuricLantern.MapEntry: Auric Lantern圣金源灯笼
+			AuricManufacturerPlaced.MapEntry: Auric Manufacturer圣金源制造机
+			AuricPiano.MapEntry: Auric Piano圣金源钢琴
+			AuricSink.MapEntry: Auric Sink圣金源水槽
+			AuricSofa.MapEntry: Auric Sofa圣金源沙发
+			AuricTable.MapEntry: Auric Table圣金源桌
+			AuricWorkbench.MapEntry: Auric Work Bench圣金源工作台
+			BloodstoneBathtub.MapEntry: Bloodstone Bathtub血石浴缸
+			BloodstoneBed.MapEntry: Bloodstone Bed血石床
+			BloodstoneBookshelf.MapEntry: Bloodstone Bookcase血石书架书架
+			BloodstoneCandelabra.MapEntry: Bloodstone Candelabra血石烛台
+			BloodstoneCandle.MapEntry: Bloodstone Candle血石蜡烛蜡烛
+			BloodstoneChair.MapEntry: Bloodstone Chair血石椅
+			BloodstoneChandelier.MapEntry: Bloodstone Chandelier血石吊灯
 
 			BloodstoneChest: {
-				MapEntry: Bloodstone Chest
-				ContainerName: Bloodstone Chest
+				MapEntry: Bloodstone Chest血石箱
+				ContainerName: Bloodstone Chest血石箱
 			}
 
-			BloodstoneClock.MapEntry: Mods.CalValEX.MapObject.BloodstoneClock
-			BloodstoneDoorClosed.MapEntry: Bloodstone Door
-			BloodstoneDoorOpen.MapEntry: Bloodstone Door
+			BloodstoneClock.MapEntry: Mods.CalValEX.MapObject.BloodstoneClock血石时钟
+			BloodstoneDoorClosed.MapEntry: Bloodstone Door血石门
+			BloodstoneDoorOpen.MapEntry: Bloodstone Door血石门
 
 			BloodstoneDresser: {
-				MapEntry: Bloodstone Dresser
-				ContainerName: Bloodstone Dresser
+				MapEntry: Bloodstone Dresser血石梳妆台
+				ContainerName: Bloodstone Dresser血石梳妆台
 			}
 
-			BloodstoneLamp.MapEntry: Bloodstone Lamp
-			BloodstoneLantern.MapEntry: Bloodstone Lantern
-			BloodstonePiano.MapEntry: Bloodstone Piano
-			BloodstoneSink.MapEntry: Bloodstone Sink
-			BloodstoneSofa.MapEntry: Bloodstone Sofa
-			BloodstoneTable.MapEntry: Bloodstone Table
-			BloodstoneWorkbench.MapEntry: Bloodstone Work Bench
-			NecroticTorchPlaced.MapEntry: Torch
+			BloodstoneLamp.MapEntry: Bloodstone Lamp血石灯
+			BloodstoneLantern.MapEntry: Bloodstone Lantern血石灯笼
+			BloodstonePiano.MapEntry: Bloodstone Piano血石钢琴
+			BloodstoneSink.MapEntry: Bloodstone Sink血石水槽
+			BloodstoneSofa.MapEntry: Bloodstone Sofa血石沙发
+			BloodstoneTable.MapEntry: Bloodstone Table血石桌
+			BloodstoneWorkbench.MapEntry: Bloodstone Work Bench血石工作台
+			NecroticTorchPlaced.MapEntry: Torch火把
 			RavamperPlaced.MapEntry: Necrotic Bonfire
-			PhantowaxBathtub.MapEntry: Phantowax Bathtub
-			PhantowaxBed.MapEntry: Phantowax Bed
-			PhantowaxBookshelf.MapEntry: Phantowax Bookcase
-			PhantowaxCandelabra.MapEntry: Phantowax Candelabra
-			PhantowaxCandle.MapEntry: Phantowax Candle
-			PhantowaxChair.MapEntry: Phantowax Chair
-			PhantowaxChandelier.MapEntry: Phantowax Chandelier
+			PhantowaxBathtub.MapEntry: Phantowax Bathtub幻灵浴缸
+			PhantowaxBed.MapEntry: Phantowax Bed幻灵床
+			PhantowaxBookshelf.MapEntry: Phantowax Bookcase幻灵书架
+			PhantowaxCandelabra.MapEntry: Phantowax Candelabra幻灵烛台
+			PhantowaxCandle.MapEntry: Phantowax Candle幻灵蜡烛
+			PhantowaxChair.MapEntry: Phantowax Chair幻灵椅
+			PhantowaxChandelier.MapEntry: Phantowax Chandelier幻灵吊灯
 
 			PhantowaxChest: {
-				MapEntry: Phantowax Chest
-				ContainerName: Phantowax Chest
+				MapEntry: Phantowax Chest幻灵箱
+				ContainerName: Phantowax Chest幻灵箱
 			}
 
-			PhantowaxClock.MapEntry: Mods.CalValEX.MapObject.PhantowaxClock
-			PhantowaxDoorClosed.MapEntry: Phantowax Door
-			PhantowaxDoorOpen.MapEntry: Phantowax Door
+			PhantowaxClock.MapEntry: Mods.CalValEX.MapObject.PhantowaxClock幻灵时钟
+			PhantowaxDoorClosed.MapEntry: Phantowax Door幻灵门
+			PhantowaxDoorOpen.MapEntry: Phantowax Door幻灵门
 
 			PhantowaxDresser: {
-				MapEntry: Phantowax Dresser
-				ContainerName: Phantowax Dresser
+				MapEntry: Phantowax Dresser幻灵梳妆台
+				ContainerName: Phantowax Dresser幻灵梳妆台
 			}
 
-			PhantowaxLamp.MapEntry: Phantowax Lamp
-			PhantowaxLantern.MapEntry: Phantowax Lantern
-			PhantowaxPiano.MapEntry: Phantowax Piano
-			PhantowaxSink.MapEntry: Phantowax Sink
-			PhantowaxSofa.MapEntry: Phantowax Sofa
-			PhantowaxTable.MapEntry: Phantowax Table
-			PhantowaxWorkbench.MapEntry: Phantowax Work Bench
-			WulfrumBathtub.MapEntry: Wulfrum Bathtub
-			WulfrumBed.MapEntry: Wulfrum Bed
-			WulfrumBookshelf.MapEntry: Wulfrum Bookcase
-			WulfrumCandelabra.MapEntry: Wulfrum Candelabra
-			WulfrumCandle.MapEntry: Wulfrum Candle
-			WulfrumChair.MapEntry: Wulfrum Chair
-			WulfrumChandelier.MapEntry: Wulfrum Chandelier
+			PhantowaxLamp.MapEntry: Phantowax Lamp幻灵灯
+			PhantowaxLantern.MapEntry: Phantowax Lantern幻灵灯笼
+			PhantowaxPiano.MapEntry: Phantowax Piano幻灵钢琴
+			PhantowaxSink.MapEntry: Phantowax Sink幻灵水槽
+			PhantowaxSofa.MapEntry: Phantowax Sofa幻灵沙发
+			PhantowaxTable.MapEntry: Phantowax Table幻灵桌
+			PhantowaxWorkbench.MapEntry: Phantowax Work Bench幻灵工作台
+			WulfrumBathtub.MapEntry: Wulfrum Bathtub钨钢浴缸
+			WulfrumBed.MapEntry: Wulfrum Bed钨钢床
+			WulfrumBookshelf.MapEntry: Wulfrum Bookcase钨钢书架
+			WulfrumCandelabra.MapEntry: Wulfrum Candelabra钨钢烛台
+			WulfrumCandle.MapEntry: Wulfrum Candle钨钢蜡烛
+			WulfrumChair.MapEntry: Wulfrum Chair钨钢椅
+			WulfrumChandelier.MapEntry: Wulfrum Chandelier钨钢吊灯
 
 			WulfrumChest: {
-				MapEntry: Wulfrum Chest
-				ContainerName: Wulfrum Chest
+				MapEntry: Wulfrum Chest钨钢箱
+				ContainerName: Wulfrum Chest钨钢箱
 			}
 
-			WulfrumClock.MapEntry: Mods.CalValEX.MapObject.WulfrumClock
+			WulfrumClock.MapEntry: Mods.CalValEX.MapObject.WulfrumClock钨钢时钟
 
 			WulfrumDresser: {
-				MapEntry: Wulfrum Dresser
-				ContainerName: Wulfrum Dresser
+				MapEntry: Wulfrum Dresser钨钢梳妆台
+				ContainerName: Wulfrum Dresser钨钢梳妆台
 			}
 
-			WulfrumLabstation.MapEntry: Wulfrum Work Bench
-			WulfrumLamp.MapEntry: Wulfrum Lamp
-			WulfrumLantern.MapEntry: Wulfrum Lantern
-			WulfrumPiano.MapEntry: Wulfrum Piano
-			WulfrumSink.MapEntry: Wulfrum Sink
-			WulfrumSofa.MapEntry: Wulfrum Sofa
-			WulfrumTable.MapEntry: Wulfrum Table
-			WulfrumToilet.MapEntry: Wulfrum Toilet
-			WulfrumWorkbench.MapEntry: Wulfrum Work Bench
-			AstralMusicBoxPlaced.MapEntry: Music Box
+			WulfrumLabstation.MapEntry: Wulfrum Work Bench钨钢工作台
+			WulfrumLamp.MapEntry: Wulfrum Lamp钨钢灯
+			WulfrumLantern.MapEntry: Wulfrum Lantern钨钢灯笼
+			WulfrumPiano.MapEntry: Wulfrum Piano钨钢钢琴
+			WulfrumSink.MapEntry: Wulfrum Sink钨钢水槽
+			WulfrumSofa.MapEntry: Wulfrum Sofa钨钢沙发
+			WulfrumTable.MapEntry: Wulfrum Table钨钢桌
+			WulfrumToilet.MapEntry: Wulfrum Toilet钨钢马桶
+			WulfrumWorkbench.MapEntry: Wulfrum Work Bench钨钢工作台
+			AstralMusicBoxPlaced.MapEntry: Music Box音乐盒
 
 			AuricTrashCanPlaced: {
-				MapEntry: Auric Trash Can
-				ContainerName: Auric Trash Can
+				MapEntry: Auric Trash Can圣金源垃圾桶
+				ContainerName: Auric Trash Can圣金源垃圾桶
 			}
 
 			BoiMachinePlaced.MapEntry: Boi Machine
@@ -5124,7 +5124,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 		Buffs: {
 			AmogusBuff: {
 				# When the april is fooled
-				DisplayName: Stratus Astronaut
+				DisplayName: Stratus Astronaut幻云宇航员
 				# April fools
 				Description: amogus
 			}
