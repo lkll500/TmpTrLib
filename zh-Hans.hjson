@@ -4983,18 +4983,18 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BoiMachinePlaced.MapEntry: Boi Machine
-			BrimstoneHeartPlaced.MapEntry: Hanging Heart
+			BrimstoneHeartPlaced.MapEntry: Hanging Heart悬挂之心
 			BubbleMachinePlaced.MapEntry: Glub glub
-			CalamityLampPlaced.MapEntry: Calamity Torch
+			CalamityLampPlaced.MapEntry: Calamity Torch灾厄火把
 			CosmiliteChairEXPlaced.MapEntry: Cosmlite Chair EX
 			DecommissionedDaedalusGolemPlaced.MapEntry: Decommissioned Daedalus Golem
 			DemonShieldPlaced.MapEntry: Wall accessory.,,
 			DisrepairUnitPlaced.MapEntry: Charletron's dead...
-			EvolutionPlaced.MapEntry: Evolution
-			HeartoftheCommunityPlaced.MapEntry: Heart of the Community
-			Helplaced.MapEntry: Help me
-			HesfinePlaced.MapEntry: I'm still not fine
-			JunkArtPlaced.MapEntry: Reconstructed Particle Accelerator
+			EvolutionPlaced.MapEntry: Evolution进化者
+			HeartoftheCommunityPlaced.MapEntry: Heart of the Community社区之心
+			Helplaced.MapEntry: Help me帮帮我
+			HesfinePlaced.MapEntry: I'm still not fine我还是感觉不舒服
+			JunkArtPlaced.MapEntry: Reconstructed Particle Accelerator修复的粒子加速器
 			MireAquariumPlaced.MapEntry: Mire Aquarium
 			MoulderingAltarPlaced.MapEntry: Mouldering Altar
 			PlagueDialysisPlaced.MapEntry: Bumbletube
@@ -5029,8 +5029,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			EyeofXerocPlaced.MapEntry: The Eye of Xeroc
 			FrozenPlaced.MapEntry: Frozen
 			GallusYharusPlaced.MapEntry: Gallus Yharus
-			LostSoulsPlaced.MapEntry: Lost Souls
-			ModIconPaintingPlaced.MapEntry: Calamity's Vanities
+			LostSoulsPlaced.MapEntry: Lost Souls迷失之魂
+			ModIconPaintingPlaced.MapEntry: Calamity's Vanities灾厄虚荣
 			NotLikeHomePlaced.MapEntry: Not like home...
 			OldModIconPaintingPlaced.MapEntry: Calamity's Vanities... but OLD!
 			OldUCMMPlaced.MapEntry: Unofficial Calamity Mod Music... but OLD!
@@ -5044,17 +5044,17 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			SwearingShroomPlaced.MapEntry: Swearshroom
 			TheGreatSandwormPlaced.MapEntry: The Great Sandworm
 			TheYharPlaced.MapEntry: ":THE_YHAR:"
-			UCMMPlaced.MapEntry: Unofficial Calamity Mod Music
-			UnholyTripPlaced.MapEntry: Unholy Trip
+			UCMMPlaced.MapEntry: Unofficial Calamity Mod Music非官方灾厄音乐
+			UnholyTripPlaced.MapEntry: Unholy Trip不洁之旅
 			VVanitiesPlaced.MapEntry: V for Vanities!
-			WilliamPaintingPlaced.MapEntry: Calamity's Vanities
+			WilliamPaintingPlaced.MapEntry: Calamity's Vanities灾厄虚荣
 			WormHeavenPlaced.MapEntry: Worm Heaven
-			YharlamitasPlaced.MapEntry: Fear
+			YharlamitasPlaced.MapEntry: Fear恐惧
 			AnemonePlaced.MapEntry: Potted Anemone
 			AstralOldPurplePlaced.MapEntry: Purple Xenomonolith
 			AstralOldYellowPlaced.MapEntry: Yellow Xenomonolith
 			BelchingCoralPlaced.MapEntry: Sulphuric Coral
-			BloodstoneRosesPlaced.MapEntry: Bloodstone Roses
+			BloodstoneRosesPlaced.MapEntry: Bloodstone Roses血石玫瑰
 			BotanicPotPlaced.MapEntry: Botanic Bonsai
 			BrainCoralPlaced.MapEntry: Potted Brain Coral
 			BrimPlantPlaced.MapEntry: Brimberry Plant
@@ -5103,16 +5103,16 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			PolterghastPlushPlaced.MapEntry: Polterghast Plush
 			ProfanedGuardianPlushPlaced.MapEntry: Profaned Guardian Plush
 			ProvidencePlushPlaced.MapEntry: Providence Plush
-			RavagerPlushPlaced.MapEntry: Ravager Plush
+			RavagerPlushPlaced.MapEntry: Ravager Plush毁灭魔像公仔
 			SandSharkPlushPlaced.MapEntry: Great Sand Shark Plush
 			SignusPlushPlaced.MapEntry: Signus Plush
-			SlimeGodPlushPlaced.MapEntry: Slime God Plush
-			StormWeaverPlushPlaced.MapEntry: Storm Weaver Plush
+			SlimeGodPlushPlaced.MapEntry: Slime God Plush史莱姆之神
+			StormWeaverPlushPlaced.MapEntry: Storm Weaver Plush风暴编织者公仔
 			ThanatosPlushPlaced.MapEntry: Thanatos Plush
-			YharonPlushPlaced.MapEntry: Yharon Plush
-			CPlaced.MapEntry: Calamity
-			EyedolStatuePlaced.MapEntry: Eyedol Statue
-			IsopodStatuePlaced.MapEntry: Isopod Statue
+			YharonPlushPlaced.MapEntry: Yharon Plush犽戎公仔
+			CPlaced.MapEntry: Calamity灾厄
+			EyedolStatuePlaced.MapEntry: Eyedol Statue大眼蛙雕像
+			IsopodStatuePlaced.MapEntry: Isopod Statue深渊大王具足虫雕像
 			KnightPlaced.MapEntry: Earthen Knight Statue
 			NukeFlyStatuePlaced.MapEntry: Vaporofly Statue
 			PlagueFrogStatuePlaced.MapEntry: Plagued Frog Statue
