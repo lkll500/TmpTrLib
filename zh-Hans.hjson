@@ -5137,7 +5137,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			EnredBuff: {
-				DisplayName: Cosmic Assistant
+				DisplayName: Cosmic Assistant宇宙助手
 				Description: He's here to help!他来帮忙了！
 			}
 
@@ -5147,69 +5147,69 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			GodrgeBuff: {
-				DisplayName: Godrge
+				DisplayName: Godrge蛙蛙乔治
 				Description: Pathetic.
 			}
 
 			HeatBuff: {
-				DisplayName: Chaos Skulls
+				DisplayName: Chaos Skulls小热能之魂
 				Description: Here to judge you for your sins... not really就由我来审判你的罪行……好吧，开个玩笑而已
 			}
 
 			ImpBuff: {
-				DisplayName: Minimpious
+				DisplayName: Minimpious迷你献祭者
 				Description: Hey!嘿！
 			}
 
 			PhantomBuff: {
-				DisplayName: Freed Phantom Spirit
+				DisplayName: Freed Phantom Spirit解脱了的幻魂
 				Description: Finally free, but still follows you!终于自由了,但它依然选择跟着你！
 			}
 
 			ProBuff: {
-				DisplayName: The Profaned Armada
+				DisplayName: The Profaned Armada亵渎战队
 				Description: Providence and her army shines holy light through the dark小亵渎天神和她的部下们在黑暗中迸发出神圣的光芒。
 			}
 
 			PylonBuff: {
-				DisplayName: Proto-Amplifier
+				DisplayName: Proto-Amplifier钨钢原型充能塔
 				Description: Supercharges other proto-bots使其他钨钢原型机器人超载
 			}
 
 			SeerBuff: {
-				DisplayName: Sightseeing Tour
+				DisplayName: Sightseeing Tour监星集群
 				Description: Seeing the world together一同监视这个世界
 			}
 
 			SolarBunBuff: {
-				DisplayName: Sun Bun
+				DisplayName: Sun Bun太阳小面包
 				Description: Bask under thy divine light沐浴在那神圣的日光下
 			}
 
 			SupJewelBuff: {
-				DisplayName: Superstitious Jewel
+				DisplayName: Superstitious Jewel惘信之玉
 				Description: Pure is impure净即是污；污即是净
 			}
 
 			VanityCoreBuff: {
-				DisplayName: Core of Vanity
+				DisplayName: Core of Vanity虚荣核心
 				Description: Everyone gets along!和睦相处！
 			}
 
 			YeetBuff: {
-				DisplayName: Litfish
+				DisplayName: Litfish小光鱼
 				Description: A baby sunskater will follow you now.一条寻阳鱼宝宝正跟着你。
 			}
 
 			AnthozoanBuff: {
 				# Mounts
-				DisplayName: Cambrian Crustacean
+				DisplayName: Cambrian Crustacean寒武纪甲壳生物
 				# Mounts
 				Description: This one won't throw rocks at you这只不会朝你扔石头
 			}
 
 			AuricTeslaBuff: {
-				DisplayName: Auric Tesla
+				DisplayName: Auric Tesla圣金源特斯拉
 				Description:
 					'''
 					Yharim Car'''亚利姆车车
@@ -5218,17 +5218,17 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BikeBuff: {
-				DisplayName: Profaned Cycle
+				DisplayName: Profaned Cycle亵渎守卫牌摩托车
 				Description: For when you really need to get somewhere, in style.
 			}
 
 			BloodstoneCarriageBuff: {
-				DisplayName: Bloodstone Carriage
+				DisplayName: Bloodstone Carriage血石马车
 				Description: You could even call it a mi-'''你甚至可以叫他——'''
 			}
 
 			FloatyBuff: {
-				DisplayName: Floaty Rug
+				DisplayName: Floaty Rug海蜉蝣魔毯
 				Description: Warning: flight not included.'''警告:无法飞行。'''
 			}
 
@@ -5238,32 +5238,32 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			HadarianBuff: {
-				DisplayName: Hadarian Fledgling
+				DisplayName: Hadarian Fledgling哈德安翼龙幼崽
 				Description: SCREEEE
 			}
 
 			HiveVuff: {
-				DisplayName: Conglomeration Mind
+				DisplayName: Conglomeration Mind思维聚合体
 				Description: I swear it's not what you think我发誓不是你想的那样
 			}
 
 			LeviathanMountBuff: {
-				DisplayName: Leviathan Guppy
+				DisplayName: Leviathan Guppy利维鱼
 				Description: Better catch a fish很擅长捉鱼
 			}
 
 			NuclearHorrorBuff: {
-				DisplayName: Nuclear Horror
+				DisplayName: Nuclear Horror辐核恐惧
 				Description: Why its helping you is beyond you你无法理解为什么它愿意帮助你
 			}
 
 			PBGMountBuff: {
-				DisplayName: Plague Rider
+				DisplayName: Plague Rider瘟疫骑手
 				Description: Ya gotta beelieve in yourself你要相信你的蜂啊
 			}
 
 			SilvaJeepBuff: {
-				DisplayName: Silvian Jeep
+				DisplayName: Silvian Jeep始源林海吉普车
 				Description: Beep beep I'm a jeep哔，哔，艾慕吉普~
 			}
 
@@ -5273,261 +5273,261 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			YharonMountBuff: {
-				DisplayName: Yharite
+				DisplayName: Yharite犽吾埃特
 				Description: He's finally here!他终于来了！
 			}
 
 			cloudbuff: {
 				# Elementals
-				DisplayName: Smol Cloud
+				DisplayName: Smol Cloud小雨云元素
 				# Elementals
 				Description: She can't protect you, but she's doing her best虽然她无法保护你，但她仍然会拼尽全力。
 			}
 
 			minihotebuff: {
-				DisplayName: Childish Heart
+				DisplayName: Childish Heart童灵之心
 				Description: Its like you're running a day-care or something刑啊，你看起来像在管理一家幼儿园啥的。
 			}
 
 			MoistBuff: {
-				DisplayName: Vibrant Siren Child
+				DisplayName: Vibrant Siren Child元气满满的塞壬之子
 				Description: She can't defend you, but she's doing her best虽然她无法为你防御，但她仍然会拼尽全力。
 			}
 
 			rarebrimlingbuff: {
-				DisplayName: Rare Brimling
+				DisplayName: Rare Brimling稀有硫磺火灵
 				Description: She can't protect you, but she's doing her best虽然她无法为你防御，但她仍然会拼尽全力。
 			}
 
 			RareSsandBuff: {
-				DisplayName: Small Sand Elemental
+				DisplayName: Small Sand Elemental小稀有沙元素
 				Description: She can't heal you, but she's doing her best虽然她无法为你防御，但她仍然会拼尽全力。
 			}
 
 			SsandBuff: {
-				DisplayName: Tiny Sand Elemental
+				DisplayName: Tiny Sand Elemental小沙元素
 				Description: She can't protect you, but she's doing her best虽然她无法为你防御，但她仍然会拼尽全力。
 			}
 
 			AresBuff: {
 				# Exos
-				DisplayName: Toy XF-Ares
+				DisplayName: Toy XF-Ares玩具XF-阿瑞斯
 				# Exos
 				Description: He appears它登场了！
 			}
 
 			ExoMayhemBuff: {
-				DisplayName: Toy Exo Mechs
+				DisplayName: Toy Exo Mechs星流微械
 				Description: Perfected entertainment providers完美的娱乐来源
 			}
 
 			ThanatosBuff: {
-				DisplayName: Toy XM-Thanatos
+				DisplayName: Toy XM-Thanatos玩具XM-塔纳托斯
 				Description: T(oy t) han(at)os
                                              （Thanos亦为神话中塔纳托斯的名讳）'''
 			}
 
 			TwinsBuff: {
-				DisplayName: Toy XS-Apollo and Artemis
+				DisplayName: Toy XS-Apollo and Artemis玩具XS-阿波罗和阿尔忒弥斯
 				Description: Here they are它们在这儿
 			}
 
 			AmberBuff: {
 				# Scuttlers
-				DisplayName: Amber Scuttler
+				DisplayName: Amber Scuttler琥珀潜遁者
 				# Scuttlers
 				Description: Still won't let go of its gem依旧不肯放开它的宝石
 			}
 
 			AmethystBuff: {
-				DisplayName: Amethyst Scuttler
+				DisplayName: Amethyst Scuttler紫晶潜遁者
 				Description: Still won't let go of its gem依旧不肯放开它的宝石
 			}
 
 			BejeweledBuff: {
-				DisplayName: Bejeweled Scuttler
+				DisplayName: Bejeweled Scuttler五彩潜遁者
 				Description: Still won't let go of its gems依旧不肯放开它的宝石
 			}
 
 			CrystalBuff: {
-				DisplayName: Crystal Scuttler
+				DisplayName: Crystal Scuttler水晶潜遁者
 				Description: Still won't let go of its crystal依旧不肯放开它的水晶
 			}
 
 			DiamondBuff: {
-				DisplayName: Diamond Scuttler
+				DisplayName: Diamond Scuttler钻石潜遁者
 				Description: Still won't let go of its gem依旧不肯放开它的宝石
 			}
 
 			EmeraldBuff: {
-				DisplayName: Emerald Scuttler
+				DisplayName: Emerald Scuttler翡翠潜遁者
 				Description: Still won't let go of its gem依旧不肯放开它的宝石
 			}
 
 			RubyBuff: {
-				DisplayName: Ruby Scuttler
+				DisplayName: Ruby Scuttler红玉潜遁者
 				Description: Still won't let go of its gem依旧不肯放开它的宝石
 			}
 
 			SapphireBuff: {
-				DisplayName: Sapphire Scuttler
+				DisplayName: Sapphire Scuttler蓝玉潜遁者
 				Description: Still won't let go of its gem依旧不肯放开它的宝石
 			}
 
 			TopazBuff: {
-				DisplayName: Topaz Scuttler
+				DisplayName: Topaz Scuttler黄玉潜遁者
 				Description: Still won't let go of its gem依旧不肯放开它的宝石
 			}
 
 			AeroBuff: {
 				# Pets
-				DisplayName: Aero Slimes
+				DisplayName: Aero Slimes天蓝史莱姆兄弟
 				# Pets
 				Description: We glide together我们一起滑翔
 			}
 
 			AndroombaBuff: {
-				DisplayName: Androomba
+				DisplayName: Androomba扫地机器人安德洛
 				Description: Nyoooom!
 			}
 
 			AquaBuff: {
-				DisplayName: Aquatic Pest
+				DisplayName: Aquatic Pest渊海灾虫宝宝
 				Description: Blaaaargh!
 			}
 
 			AvalonBuff: {
-				DisplayName: Ascended Profaned Guardian
+				DisplayName: Ascended Profaned Guardian至高亵渎守卫
 				Description: Because blue fire is cooler looking因为蓝色的火焰看起来很酷
 			}
 
 			BabySquidBuff: {
-				DisplayName: Lil' Squiddo
+				DisplayName: Lil' Squiddo'''鱿鱼仔'''
 				Description: ^-^
 			}
 
 			BeeBuff: {
-				DisplayName: Reprogrammed Plaguebringer
+				DisplayName: Reprogrammed Plaguebringer已重新编程的瘟疫使者
 				Description: BEEp. Boop. Buzz.哔哔哔.啵啵啵.嗡嗡嗡.
 			}
 
 			BlockarozBuff: {
-				DisplayName: A Cube
+				DisplayName: A Cube立方体领主
 				Description: I take this as a declaration这是我的一份声明
 			}
 
 			BuppyBuff: {
-				DisplayName: Buppy
+				DisplayName: Buppy巴皮
 				Description: Will you throw that ball?你会扔那个球吗？
 			}
 
 			BrimberryBuff: {
-				DisplayName: Brimstone Berry
+				DisplayName: Brimstone Berry硫磺火草莓
 				Description: It’s a long way up from hell…
 			}
 
 			CalamityBABYBuff: {
-				DisplayName: God's Presence
+				DisplayName: God's Presence与神同行
 				Description: The BABY of a omnipotent GOD accompany you... Just don't get hit无所不能的灾厄之神宝宝正陪伴着你……只是别被敌人打中哟！
 			}
 
 			CatfishBuff: {
-				DisplayName: Fishcat
+				DisplayName: Fishcat猫鱼
 				Description: What? Its a Catfish, what are you talking about?啥？一只猫鱼？你在说什么？
 			}
 
 			ChilledOut: {
-				DisplayName: Cool Dude
+				DisplayName: Cool Dude酷酷的家伙
 				Description: A really cool dude will follow you around这位超级炫酷的哥们儿会跟着你
 			}
 
 			ckidbuff: {
-				DisplayName: Chilled Out 2
+				DisplayName: Chilled Out 2小极寒之灵
 				Description: Cryokid boogaloo冰灵之子的波加洛舞
 			}
 
 			ClamHermitBuff: {
-				DisplayName: Clam Hermit
+				DisplayName: Clam Hermit 小蛤隐士
 				Description: An odd lil' fellow一个古怪的小家伙
 			}
 
 			CnidBuff: {
-				DisplayName: Little Cnidrion
+				DisplayName: Little Cnidrion小卧龙海马
 				Description: The poor thing could really use a tissue...这个可怜的小家伙真的非常需要一张纸巾……
 			}
 
 			CoolBlueBuff: {
-				DisplayName: Cool Blue Dudes
+				DisplayName: Cool Blue Dudes 酷酷的蓝色家伙们
 				Description: Some very coul bleu doods一些很裤的篮色镓钬
 			}
 
 			CrabBuff: {
-				DisplayName: Fungal Crab
+				DisplayName: Fungal Crab菌生蟹幼体
 				Description: They're a pretty Fun-Gi很有菌且很有趣
 			}
 
 			DebrisPet: {
-				DisplayName: Phantom Buggo
+				DisplayName: Phantom Buggo小幻影骸虫
 				Description: Listen here you lil听我说，你这小家伙
 			}
 
 			DEBuff: {
-				DisplayName: Dark Aura
+				DisplayName: Dark Aura暗能量
 				Description: An aura of pure nothingness floats near you一小团纯粹的虚无在你的身旁浮动
 			}
 
 			DesertBuff: {
-				DisplayName: Desert Pest
+				DisplayName: Desert Pest荒漠灾虫宝宝
 				Description: Blaaaargh
 			}
 
 			DeusBuff: {
-				DisplayName: Astrum Demus
+				DisplayName: Astrum Demus小星神游龙
 				Description: Wormheck
 			}
 
 			DogBuff: {
-				DisplayName: The Devourer of Gods
+				DisplayName: The Devourer of Gods神明吞噬者
 				Description: All of this is canon
 			}
 
 			Doggobuff: {
-				DisplayName: Upset Pupper
+				DisplayName: Upset Pupper生气的小狗狗
 				Description: Like, the fifth best dog in calamity大概是灾厄里第五乖的狗狗。
 			}
 
 			EggBuff: {
-				DisplayName: Orphaned Egg
+				DisplayName: Orphaned Egg无依无靠的蛋
 				Description: It... thinks you're it's mother... 它认为你是它的妈妈……
 			}
 
 			EurosBuff: {
-				DisplayName: Chibii Euros
+				DisplayName: Chibii Euros小欧罗斯
 				Description: Chibii Euros is following you, cautiously他正小心翼翼地跟着你
 			}
 
 			Excalibuff: {
-				DisplayName: Claidheamh Soluis
+				DisplayName: Claidheamh Soluis光之剑
 				Description: You can't expect to wield supreme power just because some tart threw a sword at you不要仅仅因为某人丢了把剑给你就觉得自己能统治世界了！
 			}
 
 			FathomEelBuff: {
-				DisplayName: Fathom Eel
+				DisplayName: Fathom Eel幻渊巨鳗
 				Description: A crawling shape intrude! 一条横行霸道的闯入者！
 			}
 
 			FistuloidBuff: {
-				DisplayName: Fleshtuloid
+				DisplayName: Fleshtuloid瘤囊
 				Description: Gross恶心
 			}
 
 			FogBuff: {
-				DisplayName: Fogbound
+				DisplayName: Fogbound弥漫雾气
 				Description: Augh嗷
 			}
 
 			FollyBuff: {
-				DisplayName: Dracoswarmer
+				DisplayName: Dracoswarmer痴愚幼龙
 				Description: A derivative of a derivative of a derivative of a derivative一个克隆的克隆的克隆的克隆
 			}
 
@@ -5537,157 +5537,157 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			GoozmaBuff: {
-				DisplayName: Goozma
+				DisplayName: Goozma古兹玛
 				Description: The last trace of that which has been erased from time itself...它存在的最后痕迹已从时间中被抹去
 			}
 
 			GrandBuff: {
-				DisplayName: Great Grandson Shark
+				DisplayName: Great Grandson Shark旱海狂鲨的小孙子
 				Description: Heir to the apex throne顶级掠食者的后代
 			}
 
 			HivelingBuff: {
-				DisplayName: Cluster Mind
+				DisplayName: Cluster Mind迷你腐巢意志
 				Description: A small pack of microorganisms are following you一小群微生物正跟着你
 			}
 
 			HoodiedolistBuff: {
-				DisplayName: Hoodiedolist
+				DisplayName: Hoodiedolist小灵巫
 				Description: The cloak is his home他的斗篷就是他的家
 			}
 
 			JaredBuff: {
-				DisplayName: Eidolon Wyrm
+				DisplayName: Eidolon Wyrm幻海妖龙
 				Description: Up from the depths深海食人龙
 			}
 
 			JellyBuff: {
-				DisplayName: Astral Gelatin
+				DisplayName: Astral Gelatin小末世星史莱姆
 				Description: A relic of a long forgotten past一件来自遥远过去的纪念品
 			}
 
 			JunkoBuff: {
-				DisplayName: Junsi
+				DisplayName: Junsi西格纯狐
 				Description: Pure Fury心之所在
 			}
 
 			LumpyBuff: {
-				DisplayName: Lumpy
+				DisplayName: Lumpy笨重
 				Description: Lumpy笨重
 			}
 
 			MechaGeorgeBuff: {
-				DisplayName: G30RG3
+				DisplayName: G30RG3机械乔治
 				Description: ...KDlt7S1U9x8
 			}
 
 			MiniBumbleBuff: {
-				DisplayName: Mini Birb
+				DisplayName: Mini Birb迷你癫痫鸟
 				Description: Tweet啾啾啾
 			}
 
 			MiniDogeBuff: {
-				DisplayName: Murderswarm
+				DisplayName: Murderswarm杀戮洪潮
 				Description: The Bombles follow your every move癫痫鸟的克隆体们会紧紧地跟着你
 			}
 
 			MoistScourgeBuff: {
-				DisplayName: Dune Pest
+				DisplayName: Dune Pest小“渊漠”灾虫
 				Description: Blerch恶！
 			}
 
 			NuclearFuryshronBuff: {
-				DisplayName: Dukapitated
+				DisplayName: Dukapitated硫海遗爵之首
 				Description: One of many...其中之一……
 			}
 
 			NuggetBuff: {
-				DisplayName: The Jungle Nugget
+				DisplayName: The Jungle Nugget丛林小肥龙
 				Description: Rawr!哇嗷！
 			}
 
 			OmegaSquidBuff: {
-				DisplayName: Omega Squiddo
+				DisplayName: Omega Squiddo欧米茄鱿鱼仔
 				Description: The real Cthulhu真正的克总
 			}
 
 			OrbBuff: {
-				DisplayName: The Dragonball
+				DisplayName: The Dragonball龙珠
 				Description: Vibrating at intense speeds超高速振动
 			}
 
 			PhageBuff: {
-				DisplayName: Space Sick
+				DisplayName: Space Sick太空疫病
 				Description: You have been infected by the fledgling Aureophage!你已经被初生的噬星体所感染！
 			}
 
 			PillagerBuff: {
-				DisplayName: Province Pilferer
+				DisplayName: Province Pilferer迷你毁灭魔像
 				Description: It's time to shred and thrash!'''现在是乱撕乱砸时间！'''
 			}
 
 			PolterBuff: {
-				DisplayName: Polter-Chan
+				DisplayName: Polter-Chan'''幽花酱'''
 				Description: Poooolteeer chaaaaaaaaaaannnn小小小幽幽幽花花花~~~
 			}
 
 			PuppoBuff: {
-				DisplayName: Chihuahua Puppo
+				DisplayName: Chihuahua Puppo小吉娃娃
 				Description: He's a good boy他真是个好孩子
 			}
 
 			ReaperBuff: {
-				DisplayName: Buff Man
+				DisplayName: Buff Man强力人
 				Description: You could say this is a... buff buff你可以说这是一个……强力的buff
 			}
 
 			RedPandaBuff: {
-				DisplayName: Tara
+				DisplayName: Tara小熊猫塔拉
 				Description: Tara, the Tarafying panda is following you可爱的小熊猫塔拉正跟着你
 			}
 
 			Rembuff: {
-				DisplayName: Giant Decapitated Floating Siren Head
+				DisplayName: Giant Decapitated Floating Siren Head巨型塞壬悬浮头像
 				Description: Awaiting arrival since 2018!从2018年开始就在等着她的到来！
 			}
 
 			RepurposedMonitorBuff: {
-				DisplayName: Charletron
+				DisplayName: Charletron机器人查尔
 				Description: Incompatible yet irreplacible不兼容  但  无法替代
 			}
 
 			RoverSpindleBuff: {
-				DisplayName: Wulfrum Rover
+				DisplayName: Wulfrum Rover钨钢漫步者
 				Description: Brilliance irreplaceable...往日辉煌不可替代……
 			}
 
 			RustyBuff: {
-				DisplayName: Rusty Mimic
+				DisplayName: Rusty Mimic锈蚀宝箱怪
 				Description: Good thing there aren't bigger ones幸好没有更大的
 			}
 
 			SadStoneBuff: {
-				DisplayName: Sad Rock
+				DisplayName: Sad Rock悲伤之石
 				Description: ":("
 			}
 
 			ScorchingFuryshronBuff: {
-				DisplayName: Scorching Dukapitated
+				DisplayName: Scorching Dukapitated熔渣公爵之首
 				Description: Don't do Scoria kids'''孩子们，别吸熔渣！'''
 			}
 
 			ScourgeBuff: {
-				DisplayName: Twin Pests
+				DisplayName: Twin Pests灾虫双子
 				Description: Blaaaargh^2Blaaaargh的平方
 			}
 
 			SentiPet: {
-				DisplayName: The Sentinels
+				DisplayName: The Sentinels你的仆从
 				Description: The Cosmic Terrors watch over you这些来自宇宙的可怕生物将会一直守护你
 			}
 
 			SepulcherBuff: {
-				DisplayName: Fallen Sepulchling
+				DisplayName: Fallen Sepulchling灾坟
 				Description:
 					'''
 					A dark construct composed of the long deceased souls of the innocent...'''一条由许多早已逝去的无辜者的灵魂所组成的黑暗造物……
@@ -5696,77 +5696,77 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SepulcherBuffNeo: {
-				DisplayName: Sepulchling
+				DisplayName: Sepulchling灾坟魔物
 				Description: THIS ONE is benevolent（只有）这只是友善的
 			}
 
 			ShartBuff: {
-				DisplayName: The Sharks
+				DisplayName: The Sharks鲨！
 				Description: No they can't play hockey不，他们不能打曲棍球
 			}
 
 			SigBuff: {
-				DisplayName: Cloak and Dagger
+				DisplayName: Cloak and Dagger斗篷和匕首
 				Description: The Ethereal Assassin will watch your back... probably缥缈无形的刺客会保护你的背后……大概吧
 			}
 
 			SkaterBuff: {
-				DisplayName: Sulphurous Skater Nymph
+				DisplayName: Sulphurous Skater Nymph硫酸爬虫幼崽
 				Description: Feed it acidic bubbles for it to grow stronger! 如果用酸液泡泡喂养可以让它长得更加强壮！
 			}
 
 			SlimeBuff: {
-				DisplayName: Slime Demigods
+				DisplayName: Slime Demigods史莱姆半神
 				Description: Heirs to the throne合法的王位继承者
 			}
 
 			SmaulerBuff: {
-				DisplayName: Smauler
+				DisplayName: Smauler迷你渊海鲨
 				Description: Chow~嗷呜~
 			}
 
 			StasisArmoredBuff: {
-				DisplayName: Armored Stasis Drone
+				DisplayName: Armored Stasis Drone装甲风暴无人机
 				Description: Why do I exist他像许多动漫里的男主一样神经大条
 			}
 
 			StasisNakedBuff: {
-				DisplayName: Naked Stasis Drone
+				DisplayName: Naked Stasis Drone裸体风暴无人机
 				Description: Put some clothes on别……别盯着我看……笨……笨蛋!
 			}
 
 			SWPetBuff: {
-				DisplayName: Lil' Weaver
+				DisplayName: Lil' Weaver'''小风暴编织者'''
 				Description: '''"Guess they aren't extinct after all" ''''''‘我想它们最终没有灭绝’'''
 			}
 
 			TerminalRockBuff: {
-				DisplayName: Xeroc's Pet Rock
+				DisplayName: Xeroc's Pet Rock'''克希洛克的宠物石'''
 				Description: '''"This does put a smile on my face..." ''''''‘它的确能让我开心起来……’'''
 			}
 
 			TUBBUFF: {
-				DisplayName: T.U.B
+				DisplayName: T.U.B'''T.U.B'''
 				Description: A tentacle monster is following you一只小触手怪正跟着你
 			}
 
 			UngodlyBuff: {
-				DisplayName: Ungodly Dude
+				DisplayName: Ungodly Dude渎神者
 				Description: On his way to eat your socks他正在去吃你袜子的路上
 			}
 
 			WulfrumArmy: {
-				DisplayName: Wulfrum Army
+				DisplayName: Wulfrum Army钨钢军团
 				Description: Cling clang and bang 叮 当 砰
 			}
 
 			WyrmBuff: {
-				DisplayName: Eidolon Inchwyrm
+				DisplayName: Eidolon Inchwyrm小小妖龙
 				Description: Ew, its all slimey... 呃,它好黏……
 			}
 
 			YharimSquidBuff: {
-				DisplayName: Auric Squiddo
+				DisplayName: Auric Squiddo古圣金源鱿鱼仔
 				Description: He's gone so far in life它已经走得太远了
 			}
 
@@ -5777,96 +5777,96 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			ClassicBrimmyBuff: {
 				# Transformations
-				DisplayName: Brimstone Elemental Transformation
+				DisplayName: Brimstone Elemental Transformation硫磺火元素幻化
 				# Transformations
 				Description: Yes, you can touch Water是的，你可以碰水
 			}
 
 			CloudTransformationBuff: {
-				DisplayName: Cloud Elemental Transformation
+				DisplayName: Cloud Elemental Transformation雨云元素幻化
 				Description: Feelin' Cloudy感觉云云的~
 			}
 
 			ProtoRingBuff: {
-				DisplayName: Proto-Andromeda
+				DisplayName: Proto-Andromeda仙女座原型机
 				Description: Still working out the kinks仍然在解决问题
 			}
 
 			SandTransformationBuff: {
-				DisplayName: Sand Elemental Transformation
+				DisplayName: Sand Elemental Transformation砂元素幻化
 				Description: heh.'''呵呵~'''
 			}
 
 			SignutTransformationBuff: {
-				DisplayName: Ethereal Assassin
+				DisplayName: Ethereal Assassin空灵刺客
 				Description: Never been more edgy我从来没有这么紧张过
 			}
 
 			AlarmClockBuff: {
 				# Pandemonium Box
-				DisplayName: Alarm Clock
+				DisplayName: Alarm Clock闹钟
 				# Pandemonium Box
 				Description: Careful, they might short circuit如果置之不理，它可能会短路
 			}
 
-			AlterBellBuff.DisplayName: Altar Bell
+			AlterBellBuff.DisplayName: Altar Bell圣坛之钟
 
 			BestInstrumentBuff: {
-				DisplayName: Best Instrument
+				DisplayName: Best Instrument最好的仪器
 				Description: Fragments of your journey, keep them safe旅途的片段，保护好它们
 			}
 
 			DustChimeBuff: {
-				DisplayName: Dust Chime
+				DisplayName: Dust Chime尘土归一
 				Description: The adventure begins!冒险开始了！
 			}
 
 			HarbingerOfWorkBuff: {
-				DisplayName: Harbinger Of Work
+				DisplayName: Harbinger Of Work工作的征兆
 				Description:
 					'''
-					Their passion overheats他们过于热情\n他们的系统在重复
-					Their system's on repeat
+					Their passion overheats他们过于热情
+					Their system's on repeat他们的系统在重复
 					'''
 			}
 
 			MaladyBellsBuff: {
-				DisplayName: Malady Bells
+				DisplayName: Malady Bells腐败之钟
 				Description: Your journey is not over, they will look after you你的旅途还没有结束，他们会照顾你的
 			}
 
 			NurseryBellsBuff: {
-				DisplayName: Nursery Bells
+				DisplayName: Nursery Bells温床之钟
 				Description: A terrarian's best friends!一个泰拉瑞亚大陆上最好的朋友现在跟着你！
 			}
 
 			ScratchedGongBuff: {
-				DisplayName: Scratched Gong
+				DisplayName: Scratched Gong刻丹
 				Description: Your magnum opera nears completion你出演的大型歌剧的结果即将完成
 			}
 
 			SpiritDinerBuff: {
-				DisplayName: Spirit Diner Bell
+				DisplayName: Spirit Diner Bell精神晚餐之钟
 				Description: They'll help in your quest你的面前有一条黑暗的路，他们会帮助你的
 			}
 
 			TubRuneBuff: {
-				DisplayName: T.U.B. Rune
+				DisplayName: T.U.B. RuneT.U.B.符文
 				Description: ...Our final message我们最后的信息
 			}
 
 			VaselineBuff: {
-				DisplayName: Vaseline Bell
+				DisplayName: Vaseline Bell凡士林之钟
 				Description: The sunrays shine and follow阳光照了进来
 			}
 
 			WormBellBuff: {
-				DisplayName: Slither Charm
+				DisplayName: Slither Charm爬行魅力
 				Description: Snaking around蜿蜒曲折
 			}
 
 			PandoraBuff: {
-				DisplayName: Pandemonium Box
+				DisplayName: Pandemonium Box聒噪之匣
 				Description:
 					'''
 					Running too late跑得太晚了
@@ -5875,13 +5875,13 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AltarBellBuff: {
-				DisplayName: Altar Bell
-				Description: The stars will guide your path
+				DisplayName: Altar Bell圣坛之钟
+				Description: The stars will guide your path明星指引你的道路
 			}
 
 			NurseryBellBuff: {
-				DisplayName: Nursery Bell
-				Description: Ring-a-ling
+				DisplayName: Nursery Bell温床之钟
+				Description: Ring-a-ling叮铃铃
 			}
 
 			MorshuBuff: {
