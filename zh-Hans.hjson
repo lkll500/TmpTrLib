@@ -1138,7 +1138,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					'''
 			}
 
-			ProfanedHook.DisplayName: Profaned Hook
+			ProfanedHook.DisplayName: Profaned Hook亵渎钩爪
 
 			RavaHook: {
 				DisplayName: Ravager Claw复仇之魂钩爪
@@ -1523,7 +1523,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			HarbingerOfWork: {
-				DisplayName: Harbinger of Work
+				DisplayName: Harbinger of Work工作先兆
 				Tooltip: Feels like robot love!感觉兔兔会喜欢
 			}
 
@@ -1539,7 +1539,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			AltarBell: {
 				DisplayName: Altar Bell圣坛之钟
-				Tooltip: The gods from the heavens on the palm of your hand天神在您的手掌上
+				Tooltip: The gods from the heavens on the palm of your hand天神在你的手掌上
 			}
 
 			TubRune: {
@@ -2231,8 +2231,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Extra Fluffy Feather特别蓬松的羽毛
 				Tooltip:
 					'''
-					Summons a Mini Birb召唤迷你癫痫鸟
-					'Attracts the last of a species'吸引最后一个物种
+					Summons a Mini Birb召唤一只可爱的小小鸟
+					'Attracts the last of a species'吸引族群中的最后一个
 					'''
 			}
 
@@ -2250,8 +2250,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Summons a pet Rock召唤一个宠物终末之石
-					The stone before was merely a shell for the true creation, 之前的石头只不过是为真正
-					the Creator's first and favorite source of entertainment
+					The stone before was merely a shell for the true creation,之前的石头只是真正创造物的外壳
+					the Creator's first and favorite source of entertainment造物主最初和最喜爱的娱乐来源
 					'''
 			}
 
@@ -2337,7 +2337,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					'Did you ever hear the tragedy of Goozma The Amorphous Deity? I thought not. It's not a story the Tyrant would tell you.你听说过无定形神古兹玛的悲剧吗？我想没有。这不是暴君会告诉你的故事。
 					It's an Overseer legend. Goozma was the ultimate evolution of all slimes, so powerful it could influence the cells that comprise all other slime.这是一个超界者的传说。古兹玛是所有史莱姆的终极进化，它如此强大，可以影响构成所有其他史莱姆的细胞。
 					It could even create new slime gods, with affinities to the world's biomes.它甚至可以创造新的史莱姆之神，让其与世界的生物群落息息相关。
-					The energy of the world is a pathway to many abilities some consider to be unnatural.世界的能量是通往许多被视为不自然的能力的路径。
+					The energy of the world is a pathway to many abilities some consider to be unnatural.而世界的能量是通往大多被认为不正常力量的捷径。
 					It became so powerful that the only thing it was afraid of was losing it's power, which eventually, of course, it did.它变得如此强大，以至于它唯一害怕的事情就是失去力量，当然，最终它还是失去了。
 					Unfortunately, Goozma's power grew so great for it to become a temporal anomaly.不幸的是，古兹玛的力量增长得如此之快，以至于成为一个时间异常点。
 					A temporal anomaly which a power beyond our universe had no choice but to erase, so that it never existed in the first place.这是一种时间异常现象，宇宙之外的力量别无选择，只能将其消除，使其从一开始就不存在。
@@ -2373,11 +2373,11 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			NuggetinaBiscuit: {
-				DisplayName: Nugget in a Biscuit
+				DisplayName: Nugget in a Biscuit金拱门汉堡
 				Tooltip:
 					'''
-					Summons the Jungle Nugget
-					'An alluring treat no jungle nugget can resist!'
+					Summons the Jungle Nugget召唤丛林龙裔
+					'An alluring treat no jungle nugget can resist!'一种迷人的美食，没有任何丛林龙物能够抗拒！
 					'''
 			}
 
@@ -2399,7 +2399,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Profaned Chew Toy亵渎咀嚼玩具
 				Tooltip:
 					'''
-					Summons an ungodly radical dude
+					Summons an ungodly radical dude召唤一个不虔诚的激进家伙
 					'Seems dusty'看起来满是尘土
 					'''
 			}
@@ -2468,8 +2468,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Ruined Bandage破损绷带
 				Tooltip:
 					'''
-					Summons Euros
-					'le punch, le smash, and break a hand'
+					Summons Euros召唤欧罗斯
+					'le punch, le smash, and break a hand'打一拳，砸一拳，折一只手
 					'''
 			}
 
@@ -2492,11 +2492,11 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BejeweledSpike: {
-				DisplayName: Bejeweled Spike珠光宝气
+				DisplayName: Bejeweled Spike绚烂水晶
 				Tooltip:
 					'''
 					Summons a rainbow Bejeweled Scuttler召唤彩色爬虫
-					'A blend of every flavor in one package'
+					'A blend of every flavor in one package'每种口味的混合包装
 					'''
 			}
 
@@ -2563,7 +2563,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: ":Sirember:"
 				Tooltip:
 					'''
-					Summons the wrath of the water elemental
+					Summons the wrath of the water elemental召唤巨型塞壬悬浮头像
 					'Alway Rember...'永远铭记
 					'''
 			}
@@ -2760,22 +2760,22 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			TiedBoB2: {
-				DisplayName: Tied Water Balloons
+				DisplayName: Tied Water Balloons捆绑水球束
 				Tooltip: ""
 			}
 
 			TiedBoxBalloon: {
-				DisplayName: Tied Box Balloon
+				DisplayName: Tied Box Balloon捆绑盒气球
 				Tooltip: ""
 			}
 
 			TiedChaosBalloon: {
-				DisplayName: Tied Chaos Balloon
+				DisplayName: Tied Chaos Balloon捆绑混乱气球
 				Tooltip: ""
 			}
 
 			TiedMirageBalloon: {
-				DisplayName: Tied Mirage Balloon
+				DisplayName: Tied Mirage Balloon捆绑幻影气球
 				Tooltip: ""
 			}
 
@@ -2920,7 +2920,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ChiseledBloodstone: {
-				DisplayName: Chiseled Bloodstone凿刻血石
+				DisplayName: Chiseled Bloodstone凿刻血石台
 				Tooltip: Used to make Bloodstone furniture用于打造血石主题的家具
 			}
 
@@ -2980,7 +2980,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AstrumAureusLog: {
-				DisplayName: Astrum Aureus Blueprint
+				DisplayName: Astrum Aureus Blueprint白金星舰蓝图
 				Tooltip: Do Not Distribute请勿传播
 			}
 
@@ -3000,17 +3000,17 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			DogLog: {
-				DisplayName: Cosmilite Plating Blueprint
+				DisplayName: Cosmilite Plating Blueprint宇宙镀层蓝图
 				Tooltip: Do Not Distribute请勿传播
 			}
 
 			MurasamaLog: {
-				DisplayName: Murasama Blueprint
+				DisplayName: Murasama Blueprint鬼妖村正蓝图
 				Tooltip: Do Not Distribute请勿传播
 			}
 
 			OrthoceraLog: {
-				DisplayName: Orthocera Exile Plan
+				DisplayName: Orthocera Exile Plan直角石流放蓝图
 				Tooltip: Please Distribute请勿传播
 			}
 
@@ -3025,7 +3025,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SamLog: {
-				DisplayName: Murasama Blueprint EX
+				DisplayName: Murasama Blueprint EXEX鬼妖村正蓝图
 				Tooltip: Do Not Distribute请勿传播
 			}
 
@@ -3035,7 +3035,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			YharmorLog: {
-				DisplayName: Auric Armor Blueprint
+				DisplayName: Auric Armor Blueprint圣金源盔甲蓝图
 				Tooltip: Do Not Distribute请勿传播
 			}
 
@@ -3669,14 +3669,14 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			AccidentalAbominationn: {
 				DisplayName: Accidental Abomination意外的憎恶
-				Tooltip: "'Mathew Maple'"
+				Tooltip: "'Mathew Maple'"马修·梅普尔
 			}
 
 			BlazingConflict: {
 				DisplayName: Blazing Conflict炽热的冲突
 				Tooltip:
 					'''
-					'Fire vs fire'
+					'Fire vs fire'火焰VS火焰
 					'Yharex'
 					'''
 			}
@@ -3691,7 +3691,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					'Friends!'朋友
-					'Mochi'
+					'Mochi'麻糬
 					'''
 			}
 
@@ -3715,12 +3715,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Clam: {
-				DisplayName: Ohayou!
+				DisplayName: Ohayou!啊是你
 				Tooltip: "'Yharex'"
 			}
 
 			CosmicTerror: {
-				DisplayName: Cosmic Terror
+				DisplayName: Cosmic Terror宇宙恐惧
 				Tooltip: "'Giacomo'"
 			}
 
@@ -3867,7 +3867,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			UCMMPainting: {
-				DisplayName: Unofficial Calamity Mod Music
+				DisplayName: Unofficial Calamity Mod Music非官方灾厄音乐
 				Tooltip:
 					'''
 					'World of sound'
@@ -3876,12 +3876,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			UnholyTrip: {
-				DisplayName: Unholy Trip
-				Tooltip: "'Triangle'"
+				DisplayName: Unholy Trip不洁之旅
+				Tooltip: "'Triangle'"三角
 			}
 
 			VVanities: {
-				DisplayName: V for Vanities!
+				DisplayName: V for Vanities!虚荣的V
 				Tooltip:
 					'''
 					'V!'
@@ -3890,52 +3890,52 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			WilliamPainting: {
-				DisplayName: Calamity's Vanities (alt)
+				DisplayName: Calamity's Vanities (alt)灾厄虚荣
 				Tooltip: "'Giacomo'"
 			}
 
 			WormHeaven: {
-				DisplayName: Worm to the Heavens
+				DisplayName: Worm to the Heavens到宇宙的蠕虫
 				Tooltip:
 					'''
-					'One day...'
+					'One day...'某一天
 					'Mathew Maple'
 					'''
 			}
 
 			Yharlamitas: {
-				DisplayName: Calamity Moment
-				Tooltip: Wait...
+				DisplayName: Calamity Moment灾厄时刻
+				Tooltip: Wait...等一下
 			}
 
 			PlagueDialysis: {
-				DisplayName: Swarmer Conservation Tube
-				Tooltip: "'Sealed away for eternity'"
+				DisplayName: Swarmer Conservation Tube蜂群培养皿
+				Tooltip: "'Sealed away for eternity'"永久封存
 			}
 
 			AcidGun: {
-				DisplayName: Acid Tape Dispenser
-				Tooltip: Places an infinite amount of Sulphurous Vines
+				DisplayName: Acid Tape Dispenser硫海藤蔓放置器
+				Tooltip: Places an infinite amount of Sulphurous Vines放置无限的硫化藤蔓
 			}
 
 			Anemone: {
-				DisplayName: Potted Anemone
+				DisplayName: Potted Anemone盆栽海葵
 				Tooltip: ""
 			}
 
 			AstralOldPurple: {
-				DisplayName: Potted Purple Xenomonolith
+				DisplayName: Potted Purple Xenomonolith紫色星幻木盆栽
 				Tooltip: ""
 			}
 
 			AstralOldYellow: {
-				DisplayName: Potted Yellow Xenomonolith
+				DisplayName: Potted Yellow Xenomonolith黄色星幻木盆栽
 				Tooltip: ""
 			}
 
 			BelchingCoral: {
-				DisplayName: Sulphuric Coral
-				Tooltip: "'Don't put your bare hand into it'"
+				DisplayName: Sulphuric Coral硫化珊瑚
+				Tooltip: "'Don't put your bare hand into it'"不要用手触摸
 			}
 
 			BloodstoneRoses: {
@@ -4261,7 +4261,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SchematicDisplay: {
-				DisplayName: Schematic Display
+				DisplayName: Schematic Display原理图
 				Tooltip:
 					'''
 					Displays a letter显示一封信
@@ -4574,7 +4574,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			RoomTransition.DisplayName: Room Transition房间过渡
 			Spider.DisplayName: Spider蜘蛛
 			Terror.DisplayName: Terror恐惧
-			ChaoticPuffballThrown.DisplayName: Chaotic Puffball Thrown
+			ChaoticPuffballThrown.DisplayName: Chaotic Puffball Thrown投掷的混乱漂流球
 			InkShot.DisplayName: Ink Shot油墨拍摄
 			OracleNPC_8Ball.DisplayName: Oracle's Magic 8 Ball神谕者的魔力8号球
 			OracleNPC_Cards.DisplayName: Oracle Card神谕者卡片
@@ -4583,7 +4583,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			Androomba.DisplayName: Androomba室内机器人
 			Angrypup.DisplayName: Angry Pupper愤怒的小狗
 			AquaPet.DisplayName: Aquatic Pest渊海灾虫
-			AstPhage.DisplayName: Aureophage
+			AstPhage.DisplayName: Aureophage噬菌体
 			Avalon.DisplayName: Avalon阿瓦隆
 			BabyCnidrion.DisplayName: Sneeze Dragon喷嚏龙
 			BabyHage.DisplayName: Hage
@@ -4629,7 +4629,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			FollyPet.DisplayName: Bumblefolly
 			George.DisplayName: George
 			GhastlyZygote.DisplayName: Ghastly Zygote
-			GoozmaPet.DisplayName: Goozma
+			GoozmaPet.DisplayName: Goozma古兹玛
 			GrandPet.DisplayName: Great Grandson Shark
 			Headoge.DisplayName: Headoge
 			Hiveling.DisplayName: Hiveling
@@ -4648,17 +4648,17 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			HeatPet.DisplayName: Cinder Spirit
 			Lightshield.DisplayName: Arctic Shield
 			Minimpious.DisplayName: Minimpious
-			PhantomSpirit.DisplayName: Phantom Spirit
-			ProGuard1.DisplayName: Small Potato
-			ProGuard2.DisplayName: Nice Small Potato
-			ProGuard3.DisplayName: Angry Small Potato
-			ProviPet.DisplayName: large Potato
-			SeerL.DisplayName: Small Sightseer
-			SeerM.DisplayName: Mini Sightseer
-			SeerS.DisplayName: Micro Sightseer
-			Skeetyeet.DisplayName: Sunfish
+			PhantomSpirit.DisplayName: Phantom Spirit幻灵
+			ProGuard1.DisplayName: Small Potato小马铃薯
+			ProGuard2.DisplayName: Nice Small Potato漂亮的小马铃薯
+			ProGuard3.DisplayName: Angry Small Potato愤怒的小马铃薯
+			ProviPet.DisplayName: large Potato大马铃薯
+			SeerL.DisplayName: Small Sightseer小监星之眼
+			SeerM.DisplayName: Mini Sightseer迷你监星之眼
+			SeerS.DisplayName: Micro Sightseer微型监星之眼
+			Skeetyeet.DisplayName: Sunfish太阳鱼
 			SolarBunny.DisplayName: Solar Bunny
-			Bishop.DisplayName: Dark Sun Elemental
+			Bishop.DisplayName: Dark Sun Elemental暗日精灵
 			EndoRune.DisplayName: Endo Runes
 			SpookShark.DisplayName: Phantoshark
 			SpookSmall.DisplayName: Phantofish
@@ -4737,7 +4737,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			CalaFumoSpeen.DisplayName: Cala Fumo Speen
 			CeaselessVoidPlush.DisplayName: Ceaseless Void Plush
 			ClonePlush.DisplayName: Clone Plush
-			CrabulonPlush.DisplayName: Crabulon Plush
+			CrabulonPlush.DisplayName: Crabulon Plush菌生蟹公仔
 			CryogenPlush.DisplayName: Cryogen Plush
 			DesertScourgePlush.DisplayName: Desert Scourge Plush
 			DevourerofGodsPlush.DisplayName: Devourerof Gods Plush
@@ -4748,10 +4748,10 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			ItsReal.DisplayName: Its Real
 			ItsRealAlt.DisplayName: Its Real Alt
 			JaredPlush.DisplayName: Jared Plush
-			LeviathanPlush.DisplayName: Leviathan Plush
+			LeviathanPlush.DisplayName: Leviathan Plush利维坦公仔
 			MaulerPlush.DisplayName: Mauler Plush
-			MirePlushP1.DisplayName: Mire Plush P1
-			MirePlushP2.DisplayName: Mire Plush P2
+			MirePlushP1.DisplayName: Mire Plush P1峭咽潭公仔P1
+			MirePlushP2.DisplayName: Mire Plush P2峭咽潭公仔P2
 			NuclearTerrorPlush.DisplayName: Nuclear Terror Plush
 			OldDukePlush.DisplayName: Old Duke Plush
 			PerforatorPlush.DisplayName: Perforator Plush
@@ -4762,7 +4762,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			RavagerPlush.DisplayName: Ravager Plush
 			SandSharkPlush.DisplayName: Sand Shark Plush
 			SignusPlush.DisplayName: Signus Plush
-			SlimeGodPlush.DisplayName: Slime God Plush
+			SlimeGodPlush.DisplayName: Slime God Plush史莱姆之神公仔
 			StormWeaverPlush.DisplayName: Storm Weaver Plush
 			ThanatosPlush.DisplayName: Thanatos Plush
 			YharonPlush.DisplayName: Yharon Plush
@@ -4805,7 +4805,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			BumblebirbBlueprintPlaced.MapEntry: Yharon Cloning Project Blueprint
 			CalamitasBlueprintPlaced.MapEntry: Calamitas Blueprint灾厄蓝图
 			DestroyerBlueprintPlaced.MapEntry: Destroyer Blueprint毁灭者蓝图
-			DogBlueprintPlaced.MapEntry: Cosmilite Plating Blueprint
+			DogBlueprintPlaced.MapEntry: Cosmilite Plating Blueprint宇宙镀层蓝图
 			MurasamaBlueprintPlaced.MapEntry: Murasama Blueprint
 			OrthoceraBlueprintPlaced.MapEntry: Orthocera Exile Plan
 			PlagueBlueprintPlaced.MapEntry: Plague Blueprint
@@ -4825,8 +4825,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			CeremonialUrnPlaced.MapEntry: Ceremonial Urn
 			DraedonQuoteonQuoteBagPlaced.MapEntry: Draedon Box
 			AgedRustGamingTablePlaced.MapEntry: Aged Lab Gaming Table
-			RustGamingTablePlaced.MapEntry: Lab Gaming Table
-			RustGamingTablePlaced2.MapEntry: Lab Gaming Table 2
+			RustGamingTablePlaced.MapEntry: Lab Gaming Table实验室游戏桌
+			RustGamingTablePlaced2.MapEntry: Lab Gaming Table 2实验室游戏桌2
 			OldAstralBathtub.MapEntry: Xenomonolith Bathtub枯萎星幻浴缸
 			OldAstralBed.MapEntry: Xenomonolith Bed枯萎星幻床
 			OldAstralBookshelf.MapEntry: Xenomonolith Bookcase枯萎星幻书架
