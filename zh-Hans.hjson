@@ -343,12 +343,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ApolloBalloon: {
-				DisplayName: XS Leash-03
+				DisplayName: XS Leash-03大型阿波罗气球
 				Tooltip: ""
 			}
 
 			ArtemisBalloon: {
-				DisplayName: XS Leash-01
+				DisplayName: XS Leash-01大型阿尔忒弥斯气球
 				Tooltip: ""
 			}
 
@@ -456,8 +456,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Aestheticrown: {
-				DisplayName: Aestheticrest
-				Tooltip: Biteki-Chan
+				DisplayName: Aestheticrest美学帽
+				Tooltip: Biteki-Chan美酱
 			}
 
 			AncientAuricTeslaHelm: {
@@ -471,7 +471,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AstrachnidCranium: {
-				DisplayName: Astrachnid Cranium
+				DisplayName: Astrachnid Cranium星幻蛛帽
 				Tooltip: ""
 			}
 
@@ -597,16 +597,16 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			MaulerMask: {
 				DisplayName: Mauler Mask狂鲨面具
-				Tooltip: Mauling faces since the 80s
+				Tooltip: Mauling faces since the 80s自上世纪80年代以来的 "蹂躏 "面孔
 			}
 
 			MidWorm: {
 				DisplayName: Medium Perforator Mask（中）血肉寄生者面具
-				Tooltip: "'Worming its way to the top!'"
+				Tooltip: "'Worming its way to the top!'"以蠕虫的方式到达顶端！
 			}
 
 			OlTrashtooth: {
-				DisplayName: Ol Trashtooth
+				DisplayName: Ol Trashtooth捣鱼帽
 				Tooltip: ""
 			}
 
@@ -652,12 +652,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			SmallWorm: {
 				DisplayName: Small Perforator Mask（小）血肉寄生者面具
-				Tooltip: "'The worm-st one of the bunch'"
+				Tooltip: "'The worm-st one of the bunch'"蠕虫中最小的一个
 			}
 
 			SpectralstormHat: {
 				DisplayName: Spectralstorm Hat光谱风暴帽
-				Tooltip: "'The actual dumbest idea ever submitted to suggestions'"
+				Tooltip: "'The actual dumbest idea ever submitted to suggestions'"有史以来最愚蠢的建议
 			}
 
 			SquidHat: {
@@ -674,8 +674,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Terminal Facemask终末面具
 				Tooltip:
 					'''
-					Through bloodshed and turmoil new sight is attained,
-					through eyes of a God forgotten
+					Through bloodshed and turmoil new sight is attained,通过流血和战乱，新的景象到来了
+					through eyes of a God forgotten来自一个被遗忘的神的眼睛
 					'''
 			}
 
@@ -696,13 +696,13 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					CURRENTLY UNSTABLE目前不稳定
-					Well, not really, only the other pieces are,
-					but why would you use these without them? 
+					Well, not really, only the other pieces are,其实不然，只有其他部分才是
+					but why would you use these without them? 但是你又为什么只用它而不用其他部位吗
 					'''
 			}
 
 			AstrachnidTentacles: {
-				DisplayName: Astrachnid Legs
+				DisplayName: Astrachnid Legs星幻蛛腿
 				Tooltip: ""
 			}
 
@@ -743,7 +743,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			SignusNether: {
 				DisplayName: Nether Spirit下界灵体
-				Tooltip: Gaining literal nether regions
+				Tooltip: Gaining literal nether regions获得字面意义上的下界之腿
 			}
 
 			TerrorLegs: {
@@ -836,8 +836,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				# Shirts
 				Tooltip:
 					'''
-					Summons four toy weapons to extend around you
-					'What do you MEAN they don't look the same?!?' 
+					Summons four toy weapons to extend around you伸出四只玩具机械臂
+					'What do you MEAN they don't look the same?!?' 你说他们看起来不一样是什么意思？
 					'''
 			}
 
@@ -851,13 +851,13 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AstrachnidThorax: {
-				DisplayName: Astrachnid Thorax
+				DisplayName: Astrachnid Thorax星幻蛛甲
 				Tooltip: ""
 			}
 
 			BelladonnaCloak: {
-				DisplayName: Belladonna Spirit Cloak
-				Tooltip: The latest in fashion, all natural
+				DisplayName: Belladonna Spirit Cloak颠茄灵斗篷
+				Tooltip: The latest in fashion, all natural最新时尚，纯天然
 			}
 
 			BloodyMaryDress: {
@@ -916,20 +916,20 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ReaperSharkArms: {
-				DisplayName: Reaper Shark Arms
-				Tooltip: Hitting the gym was never this easy!
+				DisplayName: Reaper Shark Arms猎魂鲨臂
+				Tooltip: Hitting the gym was never this easy!健身从未如此轻松！
 			}
 
 			BurningEye: {
 				# Transformations
 				DisplayName: Burning Eye炽热之眼
 				# Transformations
-				Tooltip: Engulfs the wearer in Brimstone Flames穿戴者将被硫磺火吞噬
+				Tooltip: Engulfs the wearer in Brimstone Flames穿戴者将被硫磺火包围
 			}
 
 			CloudWaistBelt: {
-				DisplayName: Valkyrian Garments
-				Tooltip: Surrounds the wearer with clouds
+				DisplayName: Valkyrian Garments瓦尔基里安服饰
+				Tooltip: Surrounds the wearer with clouds穿戴者周围云雾缭绕
 			}
 
 			ProtoRing: {
@@ -939,7 +939,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			SandyBangles: {
 				DisplayName: Sandy Bangles沙尘精手镯
-				Tooltip: Encompasses the wearer in sand你现在是美美的沙尘精了！
+				Tooltip: Encompasses the wearer in sand你现在是沙尘精了！
 			}
 
 			Signus: {
@@ -979,7 +979,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Godspeed Boosters神速推进器
 				Tooltip:
 					'''
-					'Devout propulsion!'
+					'Devout propulsion!'不朽的推动力！
 					Horizontal speed: 9水平飞行速度：9
 					Acceleration multiplier: 2.7加速倍率：2.7
 					Flight time: 200 飞行时间：200
@@ -990,7 +990,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Chicken Wings金拱门之翼
 				Tooltip:
 					'''
-					'Hot and ready'
+					'Hot and ready'炽热而又真实
 					Horizontal speed: 11.5水平飞行速度：11.5
 					Acceleration multiplier: 2.9加速倍率：2.9
 					Flight time: 140 飞行时间：140
@@ -1009,10 +1009,10 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			OldVoidWings: {
-				DisplayName: Revoided Wings
+				DisplayName: Revoided Wings 无尽虚空之翼
 				Tooltip:
 					'''
-					'Literally carried out of the darkness'
+					'Literally carried out of the darkness'从黑暗中走出
 					Horizontal speed: 9水平飞行速度：9
 					Acceleration multiplier: 2.5加速倍率：2.5
 					Flight time: 250 飞行时间：250
@@ -1034,7 +1034,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Beelzebooster瘟疫推进器
 				Tooltip:
 					'''
-					'And they wonder how bees can get themselves off the ground...'
+					'And they wonder how bees can get themselves off the ground...'他们想知道蜜蜂是如何离开地面的......
 					Horizontal speed: 7.8水平飞行速度：7.8
 					Acceleration multiplier: 1.9加速倍率：1.9
 					Flight time: 170 飞行时间：170
@@ -1056,8 +1056,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Scryllian Wings恶魔仆从之翼
 				Tooltip:
 					'''
-					Inflicts intense burns when worn before the flesh wall falls
-					'RISE!'
+					Inflicts intense burns when worn before the flesh wall falls在肉山前穿戴会造成强烈灼伤
+					'RISE!'升起
 					Horizontal speed: 6.5水平飞行速度：6.5
 					Acceleration multiplier: 1加速倍率：1
 					Flight time: 60 飞行时间：60
@@ -1068,8 +1068,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Wings of Termina终末之翼
 				Tooltip:
 					'''
-					Through death and destruction new heights are attained
-					on wings of a pandemonic butterfly 
+					Through death and destruction new heights are attained通过死亡和毁灭达到新的高度
+					on wings of a pandemonic butterfly 乘着蝴蝶的翅膀
 					Horizontal speed: 1水平飞行速度：1
 					Acceleration multiplier: 1加速倍率：1
 					Flight time: 60 飞行时间：60
@@ -1125,7 +1125,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					'''
 			}
 
-			PhantomHook.DisplayName: Phantom Hook
+			PhantomHook.DisplayName: Phantom Hook幻灵钩爪
 
 			ProfanedEnergyHook: {
 				DisplayName: Profaned Energy Hook亵渎能量钩爪
@@ -1151,20 +1151,20 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					'''
 			}
 
-			RavaClaw.DisplayName: Ravager Claw
+			RavaClaw.DisplayName: Ravager Claw复仇钩爪
 
 			ScavaHook: {
 				DisplayName: Ancient Scavenger Claw古代拾荒者钩爪
 				Tooltip:
 					'''
-					'Here to gouge out your eyes, runic style!'
+					'Here to gouge out your eyes, runic style!'挖出你的眼球,符文风格
 					Reach: 50长度：50
 					Launch Velocity: 19发射速度：19
 					Pull Velocity: 25 回收速度：25
 					'''
 			}
 
-			ScavaClaw.DisplayName: Scavenger Claw
+			ScavaClaw.DisplayName: Scavenger Claw毁灭魔像钩爪
 
 			XMLightningHook: {
 				DisplayName: XM-Lightning HookXM-激光钩爪
@@ -1223,7 +1223,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Summons pet Heat Sprits and a Sunskater to follow you召唤一个宠物热能之魂和一个寻阳鱼跟随你
-					'The frozen one is taking a break'
+					'The frozen one is taking a break'寒冷的那个正在休息
 					Provides a large amount of light in the abyss在深渊中提供大量的光照
 					'''
 			}
@@ -1307,12 +1307,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SunBun: {
-				DisplayName: Sun Bun日耀甜点
+				DisplayName: Sun Bun太阳小面包
 				Tooltip:
 					'''
 					Summons the Sun Bun召唤太阳兔兔
-					Boosts Bunny spawnrates a tiny bit
-					'The bun above all'甜点高于一切
+					Boosts Bunny spawnrates a tiny bit提高兔兔一点点的繁殖率
+					'The bun above all'小面包高于一切
 					Provides a large amount of light in the abyss在深渊中提供大量的光照
 					'''
 			}
@@ -1353,7 +1353,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Bloodstone Invitation血石邀请函
 				Tooltip:
 					'''
-					Summons a rideable Bloodflare Carriage mount召唤可骑乘的血炎四轮马车坐骑
+					Summons a rideable Bloodflare Carriage mount召唤可骑乘的血石马车坐骑
 					Reduces damage and health while a boss is nearby boss在附近时减少你的生命值和伤害
 					'An invitation to take a merry little stroll on a ride made of the deceased!'一份邀请去乘坐由死者组成的马车进行观光
 					'''
@@ -1370,7 +1370,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			FloatyCarpetItem: {
-				DisplayName: Floaty Carpet蜉蝣地毯
+				DisplayName: Floaty Carpet蜉蝣魔毯
 				Tooltip:
 					'''
 					Summons a rideable floaty carpet mount召唤可骑乘的蜉蝣地毯坐骑
@@ -1384,7 +1384,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 					'''
 					Summons a rideable God Rider Hoverbike mount召唤可骑乘的神明悬浮自行车坐骑
 					Reduces damage and health when a boss is nearby boss在附近时减少你的生命值和伤害
-					'Devour miles in the blink of an eye'眨眼间就吞噬了数米的路程
+					'Devour miles in the blink of an eye'眨眼间就穿越了数米的路程
 					'''
 			}
 
@@ -1514,7 +1514,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			DustChime: {
 				DisplayName: Dust Chime沙之铃
-				Tooltip: The winds of progress!
+				Tooltip: The winds of progress!进步之风！
 			}
 
 			BestInstrument: {
@@ -1528,55 +1528,55 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			MaladyBells: {
-				DisplayName: Malady Bells
-				Tooltip: Starting anew!
+				DisplayName: Malady Bells噩钟
+				Tooltip: Starting anew!重新开始！
 			}
 
 			SpiritDinerBell: {
-				DisplayName: Dead Ringer
-				Tooltip: Halfway there
+				DisplayName: Dead Ringer死亡之铃
+				Tooltip: Halfway there半途而废
 			}
 
 			AltarBell: {
-				DisplayName: Altar Bell
-				Tooltip: The gods from the heavens on the palm of your hand
+				DisplayName: Altar Bell圣坛之钟
+				Tooltip: The gods from the heavens on the palm of your hand天神在您的手掌上
 			}
 
 			TubRune: {
-				DisplayName: T.U.B. Rune
+				DisplayName: T.U.B. RuneTUB符文
 				Tooltip: Change the world...改变世界
 			}
 
 			VaselineBell: {
-				DisplayName: Vaseline Bell
-				Tooltip: "'All at once I come alive, it's a rebirth!'"
+				DisplayName: Vaseline Bell凡士林钟
+				Tooltip: "'All at once I come alive, it's a rebirth!'"我一下子活过来了，这是一次重生！
 			}
 
 			WormBell: {
-				DisplayName: Slither Charm
+				DisplayName: Slither Charm滑行吊饰
 				Tooltip:
 					'''
-					'But does it ring any bells?
-					That I don't mention the hell?' 
+					'But does it ring any bells?但是，您是否有印象呢？
+					That I don't mention the hell?' 我到底有没有提到地狱？
 					'''
 			}
 
 			ScratchedGong: {
-				DisplayName: Scratched Gong
+				DisplayName: Scratched Gong刮花的锣
 				Tooltip:
 					'''
-					'Your patience is admirable
-					You will soon be rewarded...'
+					'Your patience is admirable你的耐心令人钦佩
+					You will soon be rewarded...'你将很快得到回报...
 					'''
 			}
 
 			PandemoniumBox: {
-				DisplayName: Pandemonium Box
+				DisplayName: Pandemonium Box幻灵盒
 				Tooltip:
 					'''
-					The end of our journey, your zenith
-					Summons every pet you've met in your path
-					'And I wish I was the only one to leave'
+					The end of our journey, your zenith我们旅程的终点，您的顶峰
+					Summons every pet you've met in your path召唤您在旅途中遇到的所有宠物
+					'And I wish I was the only one to leave'我希望我是唯一一个离开的人
 					'''
 			}
 
@@ -1584,7 +1584,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				# Town pets
 				DisplayName: Nugget License龙裔许可证
 				# Town pets
-				Tooltip: Use to adopt a nugget for your town
+				Tooltip: Use to adopt a nugget for your town用来让龙裔进入城镇
 			}
 
 			AnahitaPlushThrowable: {
@@ -1781,12 +1781,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			BubbleMachine: {
 				# Tiles
-				DisplayName: Effervescent Bubbler
+				DisplayName: Effervescent Bubbler泡腾泡泡器
 				# Tiles
-				Tooltip: "'That's like, groovy mannn'"
+				Tooltip: "'That's like, groovy mannn'"这就像,酷毙了，伙计
 			}
 
-			MeldBlockItem.DisplayName: Meld Block
+			MeldBlockItem.DisplayName: Meld Block熔块
 
 			WulfrumPlating: {
 				DisplayName: Wulfrum Brick钨钢石砖
@@ -1809,8 +1809,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			BleachBallItem: {
-				DisplayName: Bleach Ball Beach Ball
-				Tooltip: Careful, might pop
+				DisplayName: Bleach Ball Beach Ball炫彩沙滩球
+				Tooltip: Careful, might pop小心，可能会爆裂
 			}
 
 			ChaoticPuffball: {
@@ -1864,7 +1864,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Polterhook: {
-				DisplayName: Polterhook
+				DisplayName: Polterhook幽花钩
 				Tooltip: ""
 			}
 
@@ -1915,20 +1915,20 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			AstraEGGeldon: {
-				DisplayName: AstraEGGeldon
+				DisplayName: AstraEGGeldon古恒之蛋
 				Tooltip:
 					'''
-					Summons a calamitous amalgamate to accompany you
-					'Now you can stop asking how I was born'
+					Summons a calamitous amalgamate to accompany you召唤一个灾厄融合怪陪伴你
+					'Now you can stop asking how I was born'现在你可以不用再问我是怎么出生的了
 					'''
 			}
 
 			AstralInfectedIcosahedron: {
-				DisplayName: Astral Infected Icosahedron
+				DisplayName: Astral Infected Icosahedron星辉二十面体
 				Tooltip:
 					'''
-					Transforms into an Aureophage
-					'Roll for initiative!'
+					Transforms into an Aureophage转化为噬菌体
+					'Roll for initiative!'滚动主动权
 					'''
 			}
 
@@ -1999,7 +1999,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Charred Chopper烧焦菜刀
 				Tooltip:
 					'''
-					Summons a decapitated Sulphurous Fishron that inhaled Scoria fumes召唤被斩首的硫海遗爵，它吸入了浓烟
+					Summons a decapitated Sulphurous Fishron that inhaled Scoria fumes召唤熔渣遗爵之首，它吸入了熔渣
 					'A burning knife measuring a thousand degrees!'一把经历1000度火的燃烧之刀
 					'''
 			}
@@ -2027,7 +2027,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Summons a miniature Cryogen召唤迷你极地之灵
-					'Rad'
+					'Rad'镭射
 					'''
 			}
 
@@ -2044,7 +2044,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Corroded Cleaver酸蚀菜刀
 				Tooltip:
 					'''
-					Summons a decapitated Sulphurous Fishron召唤被斩首的小遗爵
+					Summons a decapitated Sulphurous Fishron召唤硫海遗爵之首
 					'Slice n' Dice'切片和切块
 					'''
 			}
@@ -2058,9 +2058,9 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: A Cube小小立方体
 				Tooltip:
 					'''
-					Summons a cube召唤一个立方体
-					Causes sickened star deities to blight
-					'Heil the Cube Lord'向立方体之王致敬
+					Summons a cube召唤立方体领主
+					Causes sickened star deities to blight使病态的星神枯萎
+					'Heil the Cube Lord'向立方体领主致敬
 					'''
 			}
 
@@ -2077,7 +2077,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Decaying Fishtail腐烂鱼尾
 				Tooltip:
 					'''
-					Summons a pet catfish...?召唤辐射猫猫
+					Summons a pet catfish...?召唤猫鱼？
 					'Only an unholy nightmarish abomination would want something this putrid'
 					'''
 			}
@@ -2127,7 +2127,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Dusty Badge尘封徽章
 				Tooltip:
 					'''
-					Summons the Great Sand Shark's Great Grandson召唤旱海狂鲨的孙子
+					Summons the Great Sand Shark's Great Grandson召唤旱海狂鲨的小孙子
 					'Bereft to the core'失落到极点
 					'''
 			}
@@ -2145,16 +2145,16 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Cloud Candy白云棒棒糖
 				Tooltip:
 					'''
-					Summons a Miniature Cloud Elemental召唤迷你雨云之灵
+					Summons a Miniature Cloud Elemental召唤小雨云之灵
 					'An elemental's favorite sweet!'是元素之灵最爱的味道
 					'''
 			}
 
 			MiniatureElementalHeart: {
-				DisplayName: Miniature Elemental Heart迷你元灵之心
+				DisplayName: Miniature Elemental Heart童灵之心
 				Tooltip:
 					'''
-					Summons all of the Miniature Elementals召唤所有迷你元素之灵
+					Summons all of the Miniature Elementals召唤所有小元素之灵
 					'It's like you're running a daycare or something...'这就像你在经营一个幼儿园或什么的......。
 					'''
 			}
@@ -2163,7 +2163,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Rare Brimtulip稀有硫磺火玫瑰
 				Tooltip:
 					'''
-					Summons a Rare Brimling召唤一个稀有硫磺火之灵
+					Summons a Rare Brimling召唤一个稀有硫磺火元素
 					'An elemental's favorite flower!'是元素之灵最爱的花
 					'''
 			}
@@ -2172,7 +2172,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Small Sand Lamp小沙灵灯
 				Tooltip:
 					'''
-					Summons a Miniature Sand Elemental召唤迷你沙之灵
+					Summons a Miniature Sand Elemental召唤小沙元素
 					'An elemental's favorite toy!'是元素之灵最爱的玩具
 					'''
 			}
@@ -2181,7 +2181,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Small Sand Plushie小沙灵公仔
 				Tooltip:
 					'''
-					Summons a Rare Miniature Sand Elemental召唤迷你稀有沙之灵
+					Summons a Rare Miniature Sand Elemental召唤小稀有沙元素
 					'An elemental's favorite toy!'是元素之灵最爱的玩具
 					'''
 			}
@@ -2190,14 +2190,14 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Strange Music Note神秘音符
 				Tooltip:
 					'''
-					Summons a Vibrant Siren Child召唤一个活力满满的海妖之子
+					Summons a Vibrant Siren Child召唤一个元气满满的塞壬之子
 					'An elemental's favorite sound!'是元素之灵最爱的声音
 					'''
 			}
 
 			ExoGemstone: {
 				DisplayName: Exo Gemstone星流宝石
-				Tooltip: Summons the full miniaturized exo ensemble召唤所有迷你星流巨械
+				Tooltip: Summons the full miniaturized exo ensemble召唤所有星流微械
 			}
 
 			GeminiMarkImplants: {
@@ -2228,11 +2228,11 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			ExtraFluffyFeather: {
-				DisplayName: Extra Fluffy Feather
+				DisplayName: Extra Fluffy Feather特别蓬松的羽毛
 				Tooltip:
 					'''
-					Summons a Mini Birb
-					'Attracts the last of a species'
+					Summons a Mini Birb召唤迷你癫痫鸟
+					'Attracts the last of a species'吸引最后一个物种
 					'''
 			}
 
@@ -2240,7 +2240,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Extra Fluffy Feather Clump蓬松羽毛团
 				Tooltip:
 					'''
-					Summons beasts, so horrific, that you will die召唤一个可怕到吓死人的野兽（）
+					Summons beasts, so horrific, that you will die召唤一群可怕到吓死人的野兽（）
 					'ISEJFDOIJNJSNFDGUISDBJNGSDJG'
 					'''
 			}
@@ -2265,11 +2265,11 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			FROM: {
-				DisplayName: Frog-Only Memory
+				DisplayName: Frog-Only Memory青蛙蓝图
 				Tooltip:
 					'''
-					Summons a virtual private entity
-					'There's also a serial code...?'
+					Summons a virtual private entity召唤赛博青蛙
+					'There's also a serial code...?'还有一个序列号......？
 					'''
 			}
 
@@ -2287,7 +2287,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Summons a small Cosmic Assassin, Stasis Probe, and Dark Energy召唤一个小神之使徒,风暴蠕虫和暗物质
-					'The sentinels will recognize a new leader'
+					'The sentinels will recognize a new leader'这些仆从会认识到一个新的主人
 					'''
 			}
 
@@ -2305,7 +2305,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				Tooltip:
 					'''
 					Summons a trio of sharks召唤全部三种鲨鱼
-					'It's time for shark week!'
+					'It's time for shark week!'鲨鱼周到啦
 					'''
 			}
 
@@ -2331,26 +2331,26 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Ionized Jelly Crystal电解果冻体
 				Tooltip:
 					'''
-					Summons the pinnacle of slime evolution
+					Summons the pinnacle of slime evolution召唤史莱姆进化的巅峰
 
 
-					'Did you ever hear the tragedy of Goozma The Amorphous Deity? I thought not. It's not a story the Tyrant would tell you.
-					It's an Overseer legend. Goozma was the ultimate evolution of all slimes, so powerful it could influence the cells that comprise all other slime.
-					It could even create new slime gods, with affinities to the world's biomes.
-					The energy of the world is a pathway to many abilities some consider to be unnatural.
-					It became so powerful that the only thing it was afraid of was losing it's power, which eventually, of course, it did.
-					Unfortunately, Goozma's power grew so great for it to become a temporal anomaly.
-					A temporal anomaly which a power beyond our universe had no choice but to erase, so that it never existed in the first place.
-					Ironic. The very growth in power which made Goozma a deity in the first place, was also the cause of its demise'
+					'Did you ever hear the tragedy of Goozma The Amorphous Deity? I thought not. It's not a story the Tyrant would tell you.你听说过无定形神古兹玛的悲剧吗？我想没有。这不是暴君会告诉你的故事。
+					It's an Overseer legend. Goozma was the ultimate evolution of all slimes, so powerful it could influence the cells that comprise all other slime.这是一个超界者的传说。古兹玛是所有史莱姆的终极进化，它如此强大，可以影响构成所有其他史莱姆的细胞。
+					It could even create new slime gods, with affinities to the world's biomes.它甚至可以创造新的史莱姆之神，让其与世界的生物群落息息相关。
+					The energy of the world is a pathway to many abilities some consider to be unnatural.世界的能量是通往许多被视为不自然的能力的路径。
+					It became so powerful that the only thing it was afraid of was losing it's power, which eventually, of course, it did.它变得如此强大，以至于它唯一害怕的事情就是失去力量，当然，最终它还是失去了。
+					Unfortunately, Goozma's power grew so great for it to become a temporal anomaly.不幸的是，古兹玛的力量增长得如此之快，以至于成为一个时间异常点。
+					A temporal anomaly which a power beyond our universe had no choice but to erase, so that it never existed in the first place.这是一种时间异常现象，宇宙之外的力量别无选择，只能将其消除，使其从一开始就不存在。
+					Ironic. The very growth in power which made Goozma a deity in the first place, was also the cause of its demise'讽刺的是,让古兹玛成为神的超速增长的力量，也是其灭亡的原因。
 					'''
 			}
 
 			MeatyWormTumor: {
-				DisplayName: Meaty Worm Tumor
+				DisplayName: Meaty Worm Tumor肉瘤
 				Tooltip:
 					'''
-					Summons a ball of flesh with a small Perforator sticking out
-					'May contain tied worms'
+					Summons a ball of flesh with a small Perforator sticking out召唤载着血肉宿主的肉球
+					'May contain tied worms'可能含有被束缚的蠕虫
 					'''
 			}
 
@@ -2677,7 +2677,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: Toy Scythe玩具镰刀
 				Tooltip:
 					'''
-					Summons a small Polter-Chan
+					Summons a small Polter-Chan召唤幽花酱
 					'Belongs to a mischievous spirit'属于一个捣蛋鬼之灵
 					'''
 			}
@@ -5885,15 +5885,15 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			MorshuBuff: {
-				DisplayName: Morshu
-				Description: Rope coil? Gel? Bombs? You want it? It's yours my friend, as long as you have a giant ruby...
+				DisplayName: Morshu莫尔舒
+				Description: Rope coil? Gel? Bombs? You want it? It's yours my friend, as long as you have a giant ruby...绳圈？凝胶？炸弹？你想要吗？这些都是你的，我的朋友，只要你有一个巨大的红宝石...
 			}
 		}
 
 		Biomes: {
 			AstralBlight: {
-				DisplayName: Astral Blight
-				TownNPCDialogueName: the Astral Blight
+				DisplayName: Astral Blight枯萎星辉瘟疫
+				TownNPCDialogueName: the Astral Blight枯萎星辉瘟疫
 			}
 		}
 
