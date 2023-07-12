@@ -4558,7 +4558,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			RavaClaw.DisplayName: Rava Claw拉瓦之爪
 			ScavaClaw.DisplayName: Scava Claw斯卡瓦之爪
 			THanosHook.DisplayName: T Hanos Hook
-			OracleNPCPet_Pet.DisplayName: Oracle N P C Pet_ Pet
+			OracleNPCPet_Pet.DisplayName: Oracle N P C Pet_ Pet神谕者N P C宠物_宠物
 			AstralSandBall.DisplayName: Blighted Atral Sand Ball枯萎星幻沙滩球
 			AstralSolutionProj.DisplayName: Xeno Spray枯萎星幻喷雾
 			BleachBallThrown.DisplayName: Bleach Ball Thrown抛出的漂流球
@@ -4596,7 +4596,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			BugDoge.DisplayName: Bugdoge
 			Buppy.DisplayName: Buppy
 			CalamityBABY.DisplayName: Calamity BABY灾厄之子
-			Catfish.DisplayName: Catfish
+			Catfish.DisplayName: Catfish猫鱼
 			ClamHermit.DisplayName: Clam Hermit
 			CoolBlueSignut.DisplayName: Cool Blue Signut
 			CoolBlueSlime.DisplayName: Cool Blue Slime God
@@ -4605,32 +4605,32 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			DesertPet.DisplayName: Desert Pest
 			DeusPet.DisplayName: Astrum Demus
 			DeusPetSmall.DisplayName: Astrum Demus
-			DogBody.DisplayName: Devourer of Gods (real)
-			DogHead.DisplayName: Devourer of Gods (real)
-			DogTail.DisplayName: Devourer of Gods (real)
-			Dragonball.DisplayName: BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALL EXPLOSION
-			Dstone.DisplayName: Unhappy Stone
+			DogBody.DisplayName: Devourer of Gods (real)神明吞噬者
+			DogHead.DisplayName: Devourer of Gods (real)神明吞噬者
+			DogTail.DisplayName: Devourer of Gods (real)神明吞噬者
+			Dragonball.DisplayName: BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALL EXPLOSION爆炸
+			Dstone.DisplayName: Unhappy Stone伤心之石
 			Ebonian.DisplayName: Ebonian Slime Demigod
 			BabyWaterClone.DisplayName: Water Gal
-			CloudMini.DisplayName: Cloudy
-			RareBrimling.DisplayName: Rare Brimling
-			RaresandMini.DisplayName: Dustgirl
-			Sandmini.DisplayName: dustgirl
+			CloudMini.DisplayName: Cloudy白云
+			RareBrimling.DisplayName: Rare Brimling稀有硫磺火元素
+			RaresandMini.DisplayName: Dustgirl沙尘精
+			Sandmini.DisplayName: dustgirl沙尘精
 			Euros.DisplayName: Chibii Euros
 			EWyrm.DisplayName: EWyrm
-			AresBody.DisplayName: Toy Ares
-			ThanatosPet.DisplayName: Toy Thanatos
-			TwinsPet.DisplayName: Toy Twins
+			AresBody.DisplayName: Toy Ares玩具阿瑞斯
+			ThanatosPet.DisplayName: Toy Thanatos玩具塔纳托斯
+			TwinsPet.DisplayName: Toy Twins玩具双子
 			FathomEelBody.DisplayName: Fathom Eel
 			FathomEelHead.DisplayName: Fathom Eel
 			FathomEelTail.DisplayName: Fathom Eel
 			Fistuloid.DisplayName: Perfistuloid
 			FogPet.DisplayName: Fogbound
 			FollyPet.DisplayName: Bumblefolly
-			George.DisplayName: George
+			George.DisplayName: George乔治
 			GhastlyZygote.DisplayName: Ghastly Zygote
 			GoozmaPet.DisplayName: Goozma古兹玛
-			GrandPet.DisplayName: Great Grandson Shark
+			GrandPet.DisplayName: Great Grandson Shark旱海狂鲨的小孙子
 			Headoge.DisplayName: Headoge
 			Hiveling.DisplayName: Hiveling
 			Hoodieidolist.DisplayName: Shydolist
@@ -4638,15 +4638,15 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			JaredHead.DisplayName: Jared Head
 			JaredTail.DisplayName: Jared
 			Junko.DisplayName: Lil Junko
-			DarksunSpirit_Fish.DisplayName: Darksun Fish
-			DarksunSpiritSkull_1.DisplayName: Darksun Skull
-			DarksunSpiritSkull_2.DisplayName: Darksun Small Skull
-			DiggerPet.DisplayName: Miniature Digger
-			Enredpet.DisplayName: Cosmic Assistant
-			Godrge.DisplayName: Nuclear George
-			HeatBaby.DisplayName: Baby Cinder Spirit
-			HeatPet.DisplayName: Cinder Spirit
-			Lightshield.DisplayName: Arctic Shield
+			DarksunSpirit_Fish.DisplayName: Darksun Fish暗日鱼
+			DarksunSpiritSkull_1.DisplayName: Darksun Skull暗日骷髅
+			DarksunSpiritSkull_2.DisplayName: Darksun Small Skull暗日小骷髅
+			DiggerPet.DisplayName: Miniature Digger迷你挖掘者
+			Enredpet.DisplayName: Cosmic Assistant宇宙刺客
+			Godrge.DisplayName: Nuclear George辐射乔治
+			HeatBaby.DisplayName: Baby Cinder Spirit熔渣精灵之子
+			HeatPet.DisplayName: Cinder Spirit熔渣精灵
+			Lightshield.DisplayName: Arctic Shield北极盾牌
 			Minimpious.DisplayName: Minimpious
 			PhantomSpirit.DisplayName: Phantom Spirit幻灵
 			ProGuard1.DisplayName: Small Potato小马铃薯
@@ -4657,7 +4657,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			SeerM.DisplayName: Mini Sightseer迷你监星之眼
 			SeerS.DisplayName: Micro Sightseer微型监星之眼
 			Skeetyeet.DisplayName: Sunfish太阳鱼
-			SolarBunny.DisplayName: Solar Bunny
+			SolarBunny.DisplayName: Solar Bunny太阳兔兔
 			Bishop.DisplayName: Dark Sun Elemental暗日精灵
 			EndoRune.DisplayName: Endo Runes
 			SpookShark.DisplayName: Phantoshark
@@ -4680,23 +4680,23 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			Pillager.DisplayName: Province Pilferer
 			PolterChan.DisplayName: Polter-Chan
 			Puppo.DisplayName: Chihuahua Puppo
-			RedPanda.DisplayName: Red Panda
+			RedPanda.DisplayName: Red Panda红色小熊猫
 			RepairBot.DisplayName: Repair Bot
 			RoverSpindlePet.DisplayName: RoverdriveZ
 			RustyMimic.DisplayName: Rusty Mimic
 			ScoriaDuke.DisplayName: Scoria Duke
-			AmberPet.DisplayName: Amber Scuttler潜遁者
-			AmethystPet.DisplayName: Amethyst Scuttler潜遁者
-			BejeweledScuttler.DisplayName: Bejeweled Scuttler潜遁者
-			CrystalPet.DisplayName: Crystal Scuttler潜遁者
+			AmberPet.DisplayName: Amber Scuttler琥珀潜遁者
+			AmethystPet.DisplayName: Amethyst Scuttler紫水晶潜遁者
+			BejeweledScuttler.DisplayName: Bejeweled Scuttler绚烂水晶潜遁者
+			CrystalPet.DisplayName: Crystal Scuttler水晶潜遁者
 			DiamondPet.DisplayName: Diamond Scuttler钻石潜遁者
-			EmeraldPet.DisplayName: Emerald Scuttler潜遁者
+			EmeraldPet.DisplayName: Emerald Scuttler绿宝石潜遁者
 			RubyPet.DisplayName: Ruby Scuttler红宝石潜遁者
-			SapphirePet.DisplayName: Sapphire Scuttler潜遁者
-			TopazPet.DisplayName: Topaz Scuttler潜遁者
-			SepulcherBody1Neo.DisplayName: Sepulcher Body
-			SepulcherHeadNeo.DisplayName: Sepulcher
-			SepulcherTailNeo.DisplayName: Sepulcher
+			SapphirePet.DisplayName: Sapphire Scuttler蓝宝石潜遁者
+			TopazPet.DisplayName: Topaz Scuttler黄玉潜遁者
+			SepulcherBody1Neo.DisplayName: Sepulcher Body灾坟魔物的身体
+			SepulcherHeadNeo.DisplayName: Sepulcher灾坟魔物
+			SepulcherTailNeo.DisplayName: Sepulcher灾坟魔物
 			Sepulchling.DisplayName: Rotting Sepulchling
 			SignusMini.DisplayName: Mini Signus
 			Sirember.DisplayName: Giant Decapitated Floating Siren Head
@@ -4705,7 +4705,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			SlimeDemi.DisplayName: Slime Demi
 			Smauler.DisplayName: Smauler
 			SmolCrab.DisplayName: Smol Crab
-			SSignus.DisplayName: Mini Signus
+			SSignus.DisplayName: Mini Signus迷你西格纳斯
 			StarJelly.DisplayName: Star Jelly
 			StasisArmored.DisplayName: Stasis Drone
 			StasisNaked.DisplayName: Stasis Drone
@@ -4722,11 +4722,11 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			WulfrumOrb.DisplayName: Wulfrom Gyrothing
 			WulfrumPylon.DisplayName: Wulfrum Pylon
 			WulfrumRover.DisplayName: Wulfrom Rover
-			YharimSquid.DisplayName: Yharim Squid
+			YharimSquid.DisplayName: Yharim Squid亚利姆鱿鱼
 			AnahitaPlush.DisplayName: Anahita Plush
-			ApolloPlush.DisplayName: Apollo Plush
+			ApolloPlush.DisplayName: Apollo Plush阿波罗公仔
 			AquaticScourgePlush.DisplayName: Aquatic Scourge Plush
-			AresPlush.DisplayName: Ares Plush
+			AresPlush.DisplayName: Ares Plush阿瑞斯公仔
 			ArtemisPlush.DisplayName: Artemis Plush
 			AstrageldonPlush.DisplayName: Astrageldon Plush
 			AstrumAureusPlush.DisplayName: Astrum Aureus Plush
@@ -4738,34 +4738,32 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			CeaselessVoidPlush.DisplayName: Ceaseless Void Plush
 			ClonePlush.DisplayName: Clone Plush
 			CrabulonPlush.DisplayName: Crabulon Plush菌生蟹公仔
-			CryogenPlush.DisplayName: Cryogen Plush
+			CryogenPlush.DisplayName: Cryogen Plush极地之灵公仔
 			DesertScourgePlush.DisplayName: Desert Scourge Plush
-			DevourerofGodsPlush.DisplayName: Devourerof Gods Plush
-			DraedonPlush.DisplayName: Draedon Plush
-			GiantClamPlush.DisplayName: Giant Clam Plush
-			HiveMindPlush.DisplayName: Hive Mind Plush
-			HypnosPlush.DisplayName: Hypnos Plush
-			ItsReal.DisplayName: Its Real
-			ItsRealAlt.DisplayName: Its Real Alt
+			DevourerofGodsPlush.DisplayName: Devourerof Gods Plush神明吞噬者公仔
+			DraedonPlush.DisplayName: Draedon Plush痴愚金龙公仔
+			GiantClamPlush.DisplayName: Giant Clam Plush巨像蛤公仔
+			HiveMindPlush.DisplayName: Hive Mind Plush腐巢意志公仔
+			HypnosPlush.DisplayName: Hypnos Plush修普洛斯公仔
 			JaredPlush.DisplayName: Jared Plush
 			LeviathanPlush.DisplayName: Leviathan Plush利维坦公仔
 			MaulerPlush.DisplayName: Mauler Plush
 			MirePlushP1.DisplayName: Mire Plush P1峭咽潭公仔P1
 			MirePlushP2.DisplayName: Mire Plush P2峭咽潭公仔P2
 			NuclearTerrorPlush.DisplayName: Nuclear Terror Plush
-			OldDukePlush.DisplayName: Old Duke Plush
-			PerforatorPlush.DisplayName: Perforator Plush
+			OldDukePlush.DisplayName: Old Duke Plush硫海遗爵公仔
+			PerforatorPlush.DisplayName: Perforator Plush血肉宿主公仔
 			PlaguebringerGoliathPlush.DisplayName: Plaguebringer Goliath Plush
 			PolterghastPlush.DisplayName: Polterghast Plush
-			ProfanedGuardianPlush.DisplayName: Profaned Guardian Plush
-			ProvidencePlush.DisplayName: Providence Plush
-			RavagerPlush.DisplayName: Ravager Plush
+			ProfanedGuardianPlush.DisplayName: Profaned Guardian Plush亵渎守卫公仔
+			ProvidencePlush.DisplayName: Providence Plush普罗维登斯公仔
+			RavagerPlush.DisplayName: Ravager Plush毁灭魔像公仔
 			SandSharkPlush.DisplayName: Sand Shark Plush
-			SignusPlush.DisplayName: Signus Plush
+			SignusPlush.DisplayName: Signus Plush西格纳斯公仔
 			SlimeGodPlush.DisplayName: Slime God Plush史莱姆之神公仔
-			StormWeaverPlush.DisplayName: Storm Weaver Plush
-			ThanatosPlush.DisplayName: Thanatos Plush
-			YharonPlush.DisplayName: Yharon Plush
+			StormWeaverPlush.DisplayName: Storm Weaver Plush风暴编织者公仔
+			ThanatosPlush.DisplayName: Thanatos Plush塔纳托斯公仔
+			YharonPlush.DisplayName: Yharon Plush犽戎公仔
 			CrabSlider.DisplayName: Crabulon Slider
 			DSSlider.DisplayName: Desert Scourge Slider
 			HiveSlider.DisplayName: Hive Mind Slider
@@ -5022,8 +5020,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			CirrusBoozePlaced.MapEntry: FineChalice
 			ClamPlaced.MapEntry: Gyate Gyate
 			CosmicTerrorPlaced.MapEntry: Cosmic Terror
-			DarkMagicPlaced.MapEntry: Dark Magic
-			DraedonPopcornPlaced.MapEntry: Gamers don't die... THEY RESPAWN!!!
+			DarkMagicPlaced.MapEntry: Dark Magic暗黑魔法
+			DraedonPopcornPlaced.MapEntry: Gamers don't die... THEY RESPAWN!!!玩家们永远不会死亡...他们将会重生
 			DualityPlaced.MapEntry: Duality
 			EspelhoPlaced.MapEntry: Espelho
 			EyeofXerocPlaced.MapEntry: The Eye of Xeroc
@@ -5051,8 +5049,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			WormHeavenPlaced.MapEntry: Worm Heaven
 			YharlamitasPlaced.MapEntry: Fear恐惧
 			AnemonePlaced.MapEntry: Potted Anemone
-			AstralOldPurplePlaced.MapEntry: Purple Xenomonolith
-			AstralOldYellowPlaced.MapEntry: Yellow Xenomonolith
+			AstralOldPurplePlaced.MapEntry: Purple Xenomonolith紫色星幻木
+			AstralOldYellowPlaced.MapEntry: Yellow Xenomonolith黄色星幻木
 			BelchingCoralPlaced.MapEntry: Sulphuric Coral
 			BloodstoneRosesPlaced.MapEntry: Bloodstone Roses血石玫瑰
 			BotanicPotPlaced.MapEntry: Botanic Bonsai
@@ -5233,8 +5231,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			GodRiderBuff: {
-				DisplayName: God Rider
-				Description: Ridin' the dimensional tides
+				DisplayName: God Rider神明自行车
+				Description: Ridin' the dimensional tides驾驭维度潮流
 			}
 
 			HadarianBuff: {
@@ -5423,7 +5421,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			BrimberryBuff: {
 				DisplayName: Brimstone Berry硫磺火草莓
-				Description: It’s a long way up from hell…
+				Description: It’s a long way up from hell…从地狱到天堂的路还很长...
 			}
 
 			CalamityBABYBuff: {
