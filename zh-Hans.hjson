@@ -3010,7 +3010,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			OrthoceraLog: {
-				DisplayName: Orthocera Exile Plan直角石流放蓝图
+				DisplayName: Orthocera Exile Plan直角石流放计划蓝图
 				Tooltip: Please Distribute请勿传播
 			}
 
@@ -3144,7 +3144,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			XerocodileCage: {
-				DisplayName: Xerocodile Cage苏醒的克洛希克鳄笼
+				DisplayName: Xerocodile Cage克洛希克鳄笼
 				Tooltip: ""
 			}
 
@@ -3624,7 +3624,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			AquaticMonolith: {
 				DisplayName: Tiny Decapitated Leviathan Head小型利维坦的头
-				Tooltip: Why would you even want this
+				Tooltip: Why would you even want this你为什么想要这个
 			}
 
 			AuroraMonolith: {
@@ -3649,7 +3649,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			InfernalMonolith: {
 				DisplayName: Infernal Altar地狱祭坛
-				Tooltip: The flame roars with uselessness
+				Tooltip: The flame roars with uselessness无力的火焰在咆哮
 			}
 
 			PlagueMonolith: {
@@ -3715,7 +3715,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Clam: {
-				DisplayName: Ohayou!啊是你
+				DisplayName: Ohayou!啊，是你！
 				Tooltip: "'Yharex'"
 			}
 
@@ -3726,12 +3726,12 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			DarkMagic: {
 				DisplayName: Dark Magic黑暗魔法
-				Tooltip: "'Mathew Maple'"
+				Tooltip: "'Mathew Maple'"马修-马普尔
 			}
 
 			DraedonPopcorn: {
 				DisplayName: The Mechanical Gamer机械玩家
-				Tooltip: "'Mathew Maple'"
+				Tooltip: "'Mathew Maple'"马修-马普尔
 			}
 
 			Duality: {
@@ -3745,13 +3745,13 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			EyeofXeroc: {
-				DisplayName: The Eye of Xeroc
-				Tooltip: "'PokerFace'"
+				DisplayName: The Eye of Xeroc终末之眼
+				Tooltip: "'PokerFace'"扑克脸
 			}
 
 			Frozen: {
 				DisplayName: Frozen冻结
-				Tooltip: "'Mathew Maple'"
+				Tooltip: "'Mathew Maple'"马修-马普尔
 			}
 
 			GallusYharus: {
@@ -3778,11 +3778,11 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			NotLikeHome: {
-				DisplayName: Not Like Home
+				DisplayName: Not Like Home不像一个家
 				Tooltip:
 					'''
-					'Friends!'
-					'Mathew Maple'
+					'Friends!'朋友
+					'Mathew Maple'马修-马普尔
 					'''
 			}
 
@@ -3808,13 +3808,13 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 				DisplayName: "22"
 				Tooltip:
 					'''
-					'Accursed number'
+					'Accursed number'被诅咒的数字
 					'Willow'
 					'''
 			}
 
 			RogueExtractor: {
-				DisplayName: Rogue Extractor
+				DisplayName: Rogue Extractor瘟疫提取器
 				Tooltip:
 					'''
 					'Mathew Maple'
@@ -3828,16 +3828,16 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			Signut: {
-				DisplayName: Signut
+				DisplayName: Signut西格纳特
 				Tooltip:
 					'''
-					'Don't judge me, being trapped in ice for a long time does stuff to your mind'
+					'Don't judge me, being trapped in ice for a long time does stuff to your mind'别对我说三道四，长时间被困在冰雪中会影响你的思维。
 					'Yharex'
 					'''
 			}
 
 			SleepingGiant: {
-				DisplayName: Sleeping Behemoth
+				DisplayName: Sleeping Behemoth沉睡巨兽
 				Tooltip: "'Mathew Maple'"
 			}
 
@@ -3847,30 +3847,30 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			SundayAfternoon: {
-				DisplayName: A Sunday Afternoon in the World of Calamity
+				DisplayName: A Sunday Afternoon in the World of Calamity灾厄世界的一个周末下午
 				Tooltip: "'Mathew Maple'"
 			}
 
 			SwearingShroom: {
-				DisplayName: Angry Shroom
+				DisplayName: Angry Shroom愤怒之菇
 				Tooltip: "'Mathew Maple'"
 			}
 
 			TheGreatSandworm: {
-				DisplayName: The Great Sandworm
+				DisplayName: The Great Sandworm伟大的沙虫
 				Tooltip: "'Mathew Maple'"
 			}
 
 			TheYhar: {
 				DisplayName: ":THE_YHAR:"
-				Tooltip: "'You gotta admit, he's a very cool dude despite his crimes'"
+				Tooltip: "'You gotta admit, he's a very cool dude despite his crimes'"你得承认，尽管他犯了罪，但他是一个非常酷的人。
 			}
 
 			UCMMPainting: {
 				DisplayName: Unofficial Calamity Mod Music非官方灾厄音乐
 				Tooltip:
 					'''
-					'World of sound'
+					'World of sound'世界之声
 					'IbanPlay'
 					'''
 			}
@@ -4569,7 +4569,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			BoiRock.DisplayName: Rock岩石
 			BoiUI.DisplayName: Boi UI
 			Brimhita.DisplayName: Brimnahita
-			ElderBerry.DisplayName: Elderberry
+			ElderBerry.DisplayName: Elderberry接骨木
 			Mire.DisplayName: Mire泥潭
 			RoomTransition.DisplayName: Room Transition房间过渡
 			Spider.DisplayName: Spider蜘蛛
@@ -4594,38 +4594,38 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			BrimberryPet.DisplayName: Brimberry
 			BuffReaper.DisplayName: Buff lil man
 			BugDoge.DisplayName: Bugdoge
-			Buppy.DisplayName: Buppy
+			Buppy.DisplayName: Buppy布比
 			CalamityBABY.DisplayName: Calamity BABY灾厄之子
 			Catfish.DisplayName: Catfish猫鱼
-			ClamHermit.DisplayName: Clam Hermit
-			CoolBlueSignut.DisplayName: Cool Blue Signut
-			CoolBlueSlime.DisplayName: Cool Blue Slime God
-			Crimulan.DisplayName: Crimulan Slime Demigod
-			Cryokid.DisplayName: Cryokid
-			DesertPet.DisplayName: Desert Pest
-			DeusPet.DisplayName: Astrum Demus
-			DeusPetSmall.DisplayName: Astrum Demus
+			ClamHermit.DisplayName: Clam Hermit蛤隐士
+			CoolBlueSignut.DisplayName: Cool Blue Signut酷酷的蓝色西格纳特
+			CoolBlueSlime.DisplayName: Cool Blue Slime God酷酷的蓝色史莱姆之神
+			Crimulan.DisplayName: Crimulan Slime Demigod史莱姆半神
+			Cryokid.DisplayName: Cryokid极地之子
+			DesertPet.DisplayName: Desert Pest荒漠灾虫
+			DeusPet.DisplayName: Astrum Demus星神游龙
+			DeusPetSmall.DisplayName: Astrum Demus星神游龙
 			DogBody.DisplayName: Devourer of Gods (real)神明吞噬者
 			DogHead.DisplayName: Devourer of Gods (real)神明吞噬者
 			DogTail.DisplayName: Devourer of Gods (real)神明吞噬者
 			Dragonball.DisplayName: BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALL EXPLOSION爆炸
 			Dstone.DisplayName: Unhappy Stone伤心之石
-			Ebonian.DisplayName: Ebonian Slime Demigod
-			BabyWaterClone.DisplayName: Water Gal
-			CloudMini.DisplayName: Cloudy白云
+			Ebonian.DisplayName: Ebonian Slime Demigod埃博尼亚史莱姆半神
+			BabyWaterClone.DisplayName: Water Gal加仑水
+			CloudMini.DisplayName: Cloudy雨云元素
 			RareBrimling.DisplayName: Rare Brimling稀有硫磺火元素
 			RaresandMini.DisplayName: Dustgirl沙尘精
 			Sandmini.DisplayName: dustgirl沙尘精
 			Euros.DisplayName: Chibii Euros
-			EWyrm.DisplayName: EWyrm
+			EWyrm.DisplayName: EWyrm幻海妖龙
 			AresBody.DisplayName: Toy Ares玩具阿瑞斯
 			ThanatosPet.DisplayName: Toy Thanatos玩具塔纳托斯
 			TwinsPet.DisplayName: Toy Twins玩具双子
-			FathomEelBody.DisplayName: Fathom Eel
-			FathomEelHead.DisplayName: Fathom Eel
+			FathomEelBody.DisplayName: Fathom Eel深渊鳗鱼
+			FathomEelHead.DisplayName: Fathom Eel深渊鳗鱼
 			FathomEelTail.DisplayName: Fathom Eel
-			Fistuloid.DisplayName: Perfistuloid
-			FogPet.DisplayName: Fogbound
+			Fistuloid.DisplayName: Perfistuloid深渊鳗鱼
+			FogPet.DisplayName: Fogbound雾之锁
 			FollyPet.DisplayName: Bumblefolly
 			George.DisplayName: George乔治
 			GhastlyZygote.DisplayName: Ghastly Zygote
@@ -4671,14 +4671,14 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			MoistScourgeBody.DisplayName: Desert Pest荒漠灾虫
 			MoistScourgeHead.DisplayName: Desert Pest荒漠灾虫
 			MoistScourgePet.DisplayName: Dune Pest
-			MoistScourgeTail.DisplayName: Desert Pest
+			MoistScourgeTail.DisplayName: Desert Pest荒漠灾虫
 			NuclearfuryshronPet.DisplayName: Dukapitated Pet
 			Nugget.DisplayName: THE NUGGET
 			OmegaSquid.DisplayName: Omega Squid
-			PBGmini.DisplayName: Poor Sick Bee
-			PhantomPet.DisplayName: Phantom Larva
+			PBGmini.DisplayName: Poor Sick Bee可怜的生病蜜蜂
+			PhantomPet.DisplayName: Phantom Larva幻灵幼体
 			Pillager.DisplayName: Province Pilferer
-			PolterChan.DisplayName: Polter-Chan
+			PolterChan.DisplayName: Polter-Chan幽花酱
 			Puppo.DisplayName: Chihuahua Puppo
 			RedPanda.DisplayName: Red Panda红色小熊猫
 			RepairBot.DisplayName: Repair Bot
@@ -4698,48 +4698,48 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			SepulcherHeadNeo.DisplayName: Sepulcher灾坟魔物
 			SepulcherTailNeo.DisplayName: Sepulcher灾坟魔物
 			Sepulchling.DisplayName: Rotting Sepulchling
-			SignusMini.DisplayName: Mini Signus
-			Sirember.DisplayName: Giant Decapitated Floating Siren Head
-			SiremberSpook.DisplayName: Giant Decapitated Floating Siren Head
-			SkaterPet.DisplayName: Skater Nymph
-			SlimeDemi.DisplayName: Slime Demi
-			Smauler.DisplayName: Smauler
+			SignusMini.DisplayName: Mini Signus迷你西格纳斯
+			Sirember.DisplayName: Giant Decapitated Floating Siren Head巨型塞壬悬浮头像
+			SiremberSpook.DisplayName: Giant Decapitated Floating Siren Head巨型塞壬悬浮头像
+			SkaterPet.DisplayName: Skater Nymph硫酸爬虫幼崽
+			SlimeDemi.DisplayName: Slime Demi史莱姆半神
+			Smauler.DisplayName: Smauler迷你渊海鲨
 			SmolCrab.DisplayName: Smol Crab
 			SSignus.DisplayName: Mini Signus迷你西格纳斯
 			StarJelly.DisplayName: Star Jelly
-			StasisArmored.DisplayName: Stasis Drone
-			StasisNaked.DisplayName: Stasis Drone
-			SVoid.DisplayName: Void Orb
-			SWeeb.DisplayName: Stasis Drone
-			SWPet.DisplayName: Lil Weaver
-			TerminalRock.DisplayName: Xeroc's Xerock
+			StasisArmored.DisplayName: Stasis Drone风暴无人机
+			StasisNaked.DisplayName: Stasis Drone风暴无人机
+			SVoid.DisplayName: Void Orb虚空之球
+			SWeeb.DisplayName: Stasis Drone静态无人机
+			SWPet.DisplayName: Lil Weaver小风暴编织者
+			TerminalRock.DisplayName: Xeroc's Xerock克希洛克的宠物石
 			TUB.DisplayName: TUB
 			UngodlySerpent.DisplayName: Sneaker Dude
-			VoidOrb.DisplayName: Void Orb
+			VoidOrb.DisplayName: Void Orb虚空之球
 			WraithsExcalibur.DisplayName: Wraith's Excalibur
-			WulfrumDrone.DisplayName: Wulfrum Drone
-			WulfrumHover.DisplayName: Wulfrum Hovercraft
-			WulfrumOrb.DisplayName: Wulfrom Gyrothing
-			WulfrumPylon.DisplayName: Wulfrum Pylon
-			WulfrumRover.DisplayName: Wulfrom Rover
-			YharimSquid.DisplayName: Yharim Squid亚利姆鱿鱼
+			WulfrumDrone.DisplayName: Wulfrum Drone钨钢无人机
+			WulfrumHover.DisplayName: Wulfrum Hovercraft钨钢悬浮坦克
+			WulfrumOrb.DisplayName: Wulfrom Gyrothing钨钢回转器
+			WulfrumPylon.DisplayName: Wulfrum Pylon钨钢增幅器
+			WulfrumRover.DisplayName: Wulfrom Rover钨钢漫步者
+			YharimSquid.DisplayName: Yharim Squid鱿鱼
 			AnahitaPlush.DisplayName: Anahita Plush
 			ApolloPlush.DisplayName: Apollo Plush阿波罗公仔
 			AquaticScourgePlush.DisplayName: Aquatic Scourge Plush
 			AresPlush.DisplayName: Ares Plush阿瑞斯公仔
 			ArtemisPlush.DisplayName: Artemis Plush
 			AstrageldonPlush.DisplayName: Astrageldon Plush
-			AstrumAureusPlush.DisplayName: Astrum Aureus Plush
-			AstrumDeusPlush.DisplayName: Astrum Deus Plush
+			AstrumAureusPlush.DisplayName: Astrum Aureus Plush白金星舰公仔
+			AstrumDeusPlush.DisplayName: Astrum Deus Plush星神游龙公仔
 			BrimstoneElementalPlush.DisplayName: Brimstone Elemental Plush
 			BumblefuckPlush.DisplayName: Bumblefuck Plush
 			CalaFumo.DisplayName: Cala Fumo
 			CalaFumoSpeen.DisplayName: Cala Fumo Speen
 			CeaselessVoidPlush.DisplayName: Ceaseless Void Plush
-			ClonePlush.DisplayName: Clone Plush
+			ClonePlush.DisplayName: Clone Plush灾厄之影公仔
 			CrabulonPlush.DisplayName: Crabulon Plush菌生蟹公仔
 			CryogenPlush.DisplayName: Cryogen Plush极地之灵公仔
-			DesertScourgePlush.DisplayName: Desert Scourge Plush
+			DesertScourgePlush.DisplayName: Desert Scourge Plush荒漠灾虫公仔
 			DevourerofGodsPlush.DisplayName: Devourerof Gods Plush神明吞噬者公仔
 			DraedonPlush.DisplayName: Draedon Plush痴愚金龙公仔
 			GiantClamPlush.DisplayName: Giant Clam Plush巨像蛤公仔
@@ -4750,15 +4750,15 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			MaulerPlush.DisplayName: Mauler Plush
 			MirePlushP1.DisplayName: Mire Plush P1峭咽潭公仔P1
 			MirePlushP2.DisplayName: Mire Plush P2峭咽潭公仔P2
-			NuclearTerrorPlush.DisplayName: Nuclear Terror Plush
+			NuclearTerrorPlush.DisplayName: Nuclear Terror Plush辐核骇兽公仔
 			OldDukePlush.DisplayName: Old Duke Plush硫海遗爵公仔
 			PerforatorPlush.DisplayName: Perforator Plush血肉宿主公仔
-			PlaguebringerGoliathPlush.DisplayName: Plaguebringer Goliath Plush
-			PolterghastPlush.DisplayName: Polterghast Plush
+			PlaguebringerGoliathPlush.DisplayName: Plaguebringer Goliath Plush瘟疫使者歌莉娅公仔
+			PolterghastPlush.DisplayName: Polterghast Plush噬魂幽花公仔
 			ProfanedGuardianPlush.DisplayName: Profaned Guardian Plush亵渎守卫公仔
 			ProvidencePlush.DisplayName: Providence Plush普罗维登斯公仔
 			RavagerPlush.DisplayName: Ravager Plush毁灭魔像公仔
-			SandSharkPlush.DisplayName: Sand Shark Plush
+			SandSharkPlush.DisplayName: Sand Shark Plush旱海狂鲨公仔
 			SignusPlush.DisplayName: Signus Plush西格纳斯公仔
 			SlimeGodPlush.DisplayName: Slime God Plush史莱姆之神公仔
 			StormWeaverPlush.DisplayName: Storm Weaver Plush风暴编织者公仔
@@ -4780,55 +4780,55 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 		Tiles: {
 			# Meldosaurus stuff
 			MeldosaurusMusicBoxPlaced.MapEntry: Music Box音乐盒
-			MeldosaurusTrophyPlaced.MapEntry: Meldosaurus Trophy
+			MeldosaurusTrophyPlaced.MapEntry: Meldosaurus Trophy冥思恐龙纪念章
 			AstralPalmSapling.MapEntry: Blighted Astral Palm Sapling
 			AstralSapling.MapEntry: Blighted Astral Sapling
 			SnowAstralSapling.MapEntry: Blighted Astral Sapling
-			TiedBoB2Placed.MapEntry: Tied Water Balloons
-			TiedBoxBalloonPlaced.MapEntry: Tied Box Balloon
-			TiedChaosBalloonPlaced.MapEntry: Tied Chaos Balloon
-			TiedMirageBalloonPlaced.MapEntry: Tied Mirage Balloon
-			AstragellySlimeBannerPlaced.MapEntry: Astragelly Slime Banner
-			BleamurBannerPlaced.MapEntry: Bleamur Banner
-			CalamitasBannerPlaced.MapEntry: Acursed Banner
-			EyedolBannerPlaced.MapEntry: Eyedol Banner
-			GodSlayerSlugBannerPlaced.MapEntry: God Slayer Slug Banner
-			IsopodBannerPlaced.MapEntry: Abyssal Isopod Banner
-			SandTurtleBannerPlaced.MapEntry: Sand Turtle Banner
-			VeilBannerPlaced.MapEntry: Veil Banner
-			ViolemurBannerPlaced.MapEntry: Violemur Banner
-			XerocodileBannerPlaced.MapEntry: Xerocodile Banner
-			AgedLogPlaced.MapEntry: Aged Blueprint
-			AstrumAureusBlueprintPlaced.MapEntry: Astrum Aureus Blueprint
-			BumblebirbBlueprintPlaced.MapEntry: Yharon Cloning Project Blueprint
+			TiedBoB2Placed.MapEntry: Tied Water Balloons捆绑水球束
+			TiedBoxBalloonPlaced.MapEntry: Tied Box Balloon捆绑盒气球
+			TiedChaosBalloonPlaced.MapEntry: Tied Chaos Balloon捆绑混沌气球
+			TiedMirageBalloonPlaced.MapEntry: Tied Mirage Balloon捆绑幻影气球
+			AstragellySlimeBannerPlaced.MapEntry: Astragelly Slime Banner星胶史莱姆旗帜
+			BleamurBannerPlaced.MapEntry: Bleamur Banner枯萎狐猴旗帜
+			CalamitasBannerPlaced.MapEntry: Acursed Banner诅咒旗帜
+			EyedolBannerPlaced.MapEntry: Eyedol Banner大眼虫旗帜
+			GodSlayerSlugBannerPlaced.MapEntry: God Slayer Slug Banner弑神者蛞蝓旗帜
+			IsopodBannerPlaced.MapEntry: Abyssal Isopod Banner深渊大王具足虫旗帜
+			SandTurtleBannerPlaced.MapEntry: Sand Turtle Banner沙漠龟旗帜
+			VeilBannerPlaced.MapEntry: Veil Banner面纱旗帜
+			ViolemurBannerPlaced.MapEntry: Violemur Banner星幻狐猴旗帜
+			XerocodileBannerPlaced.MapEntry: Xerocodile Banner克洛希克鳄旗帜
+			AgedLogPlaced.MapEntry: Aged Blueprint悠久蓝图
+			AstrumAureusBlueprintPlaced.MapEntry: Astrum Aureus Blueprint白金星舰蓝图
+			BumblebirbBlueprintPlaced.MapEntry: Yharon Cloning Project Blueprint犽戎克隆计划蓝图
 			CalamitasBlueprintPlaced.MapEntry: Calamitas Blueprint灾厄蓝图
 			DestroyerBlueprintPlaced.MapEntry: Destroyer Blueprint毁灭者蓝图
 			DogBlueprintPlaced.MapEntry: Cosmilite Plating Blueprint宇宙镀层蓝图
-			MurasamaBlueprintPlaced.MapEntry: Murasama Blueprint
-			OrthoceraBlueprintPlaced.MapEntry: Orthocera Exile Plan
-			PlagueBlueprintPlaced.MapEntry: Plague Blueprint
-			PrimeBlueprintPlaced.MapEntry: Skeletron Prime Blueprint
-			SamBlueprintPlaced.MapEntry: Murasama Blueprint EX
-			TwinsBlueprintPlaced.MapEntry: Twins Blueprint
-			YharmorBlueprintPlaced.MapEntry: Auric Armor Blueprint
-			AstJarPlaced.MapEntry: Astrageldon in a Jar
-			BleamurPerchPlaced.MapEntry: Bleamur Perch
-			BlinkerInABottlePlaced.MapEntry: Blinker in a Bottle
-			GAstJarPlaced.MapEntry: Cooler Astrageldon in a Jar
-			GoldViolemurMonolithPlaced.MapEntry: Gold Violemur Perch
-			NukeJarPlaced.MapEntry: Nuclear Fly in a Jar
-			OrthoJarPlaced.MapEntry: Orthocera in a Jar
-			ViolemurMonolithPlaced.MapEntry: Violemur Perch
-			CalamitasCofferPlaced.MapEntry: Treasure Coffer
-			CeremonialUrnPlaced.MapEntry: Ceremonial Urn
-			DraedonQuoteonQuoteBagPlaced.MapEntry: Draedon Box
-			AgedRustGamingTablePlaced.MapEntry: Aged Lab Gaming Table
+			MurasamaBlueprintPlaced.MapEntry: Murasama Blueprint鬼妖村正蓝图
+			OrthoceraBlueprintPlaced.MapEntry: Orthocera Exile Plan直角石流放计划蓝图
+			PlagueBlueprintPlaced.MapEntry: Plague Blueprint瘟疫蓝图
+			PrimeBlueprintPlaced.MapEntry: Skeletron Prime Blueprint骷髅王蓝图
+			SamBlueprintPlaced.MapEntry: Murasama Blueprint EX鬼妖村正蓝图EX
+			TwinsBlueprintPlaced.MapEntry: Twins Blueprint双子魔眼蓝图
+			YharmorBlueprintPlaced.MapEntry: Auric Armor Blueprint圣金源盔甲蓝图
+			AstJarPlaced.MapEntry: Astrageldon in a Jar星胶史莱姆罐
+			BleamurPerchPlaced.MapEntry: Bleamur Perch枯萎狐猴盆景
+			BlinkerInABottlePlaced.MapEntry: Blinker in a Bottle闪耀萤火虫瓶
+			GAstJarPlaced.MapEntry: Cooler Astrageldon in a Jar更酷的星胶史莱姆罐
+			GoldViolemurMonolithPlaced.MapEntry: Gold Violemur Perch黄金狐猴盆景
+			NukeJarPlaced.MapEntry: Nuclear Fly in a Jar硫海飞蝇罐
+			OrthoJarPlaced.MapEntry: Orthocera in a Jar直角石罐
+			ViolemurMonolithPlaced.MapEntry: Violemur Perch星幻狐猴盆景
+			CalamitasCofferPlaced.MapEntry: Treasure Coffer宝藏箱
+			CeremonialUrnPlaced.MapEntry: Ceremonial Urn仪式瓮
+			DraedonQuoteonQuoteBagPlaced.MapEntry: Draedon Box嘉登箱
+			AgedRustGamingTablePlaced.MapEntry: Aged Lab Gaming Table悠久实验室游戏桌
 			RustGamingTablePlaced.MapEntry: Lab Gaming Table实验室游戏桌
 			RustGamingTablePlaced2.MapEntry: Lab Gaming Table 2实验室游戏桌2
 			OldAstralBathtub.MapEntry: Xenomonolith Bathtub枯萎星幻浴缸
 			OldAstralBed.MapEntry: Xenomonolith Bed枯萎星幻床
 			OldAstralBookshelf.MapEntry: Xenomonolith Bookcase枯萎星幻书架
-			OldAstralCandelabra.MapEntry: Xenomonolith Candelabra枯萎星幻
+			OldAstralCandelabra.MapEntry: Xenomonolith Candelabra枯萎星幻烛台
 			OldAstralCandle.MapEntry: Xenomonolith Candle枯萎星幻蜡烛
 			OldAstralChair.MapEntry: Xenomonolith Chair枯萎星幻椅
 			OldAstralChandelier.MapEntry: Xenomonolith Chandelier枯萎星幻吊灯
@@ -4843,8 +4843,8 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			OldAstralDoorOpen.MapEntry: Xenomonolith Door枯萎星幻门
 
 			OldAstralDresser: {
-				MapEntry: Xenomonolith Dresser枯萎星幻
-				ContainerName: Xenomonolith Dresser枯萎星幻
+				MapEntry: Xenomonolith Dresser枯萎星幻梳妆台
+				ContainerName: Xenomonolith Dresser枯萎星幻梳妆台
 			}
 
 			OldAstralLamp.MapEntry: Xenomonolith Lamp枯萎星幻灯
@@ -4984,39 +4984,39 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			BrimstoneHeartPlaced.MapEntry: Hanging Heart悬挂之心
 			BubbleMachinePlaced.MapEntry: Glub glub
 			CalamityLampPlaced.MapEntry: Calamity Torch灾厄火把
-			CosmiliteChairEXPlaced.MapEntry: Cosmlite Chair EX
-			DecommissionedDaedalusGolemPlaced.MapEntry: Decommissioned Daedalus Golem
-			DemonShieldPlaced.MapEntry: Wall accessory.,,
+			CosmiliteChairEXPlaced.MapEntry: Cosmlite Chair EX维度之椅EX
+			DecommissionedDaedalusGolemPlaced.MapEntry: Decommissioned Daedalus Golem退役的代达罗斯巨像
+			DemonShieldPlaced.MapEntry: Wall accessory.,,墙壁配件
 			DisrepairUnitPlaced.MapEntry: Charletron's dead...
 			EvolutionPlaced.MapEntry: Evolution进化者
 			HeartoftheCommunityPlaced.MapEntry: Heart of the Community社区之心
 			Helplaced.MapEntry: Help me帮帮我
 			HesfinePlaced.MapEntry: I'm still not fine我还是感觉不舒服
 			JunkArtPlaced.MapEntry: Reconstructed Particle Accelerator修复的粒子加速器
-			MireAquariumPlaced.MapEntry: Mire Aquarium
-			MoulderingAltarPlaced.MapEntry: Mouldering Altar
+			MireAquariumPlaced.MapEntry: Mire Aquarium峭咽潭笼
+			MoulderingAltarPlaced.MapEntry: Mouldering Altar腐巢祭坛
 			PlagueDialysisPlaced.MapEntry: Bumbletube
 			PongMachinePlaced.MapEntry: Pong Machine
-			RespirationShrinePlaced.MapEntry: Respiration Shrine
+			RespirationShrinePlaced.MapEntry: Respiration Shrine呼吸神殿
 			RoxFakePlaced.MapEntry: Fake Roxcalibur
-			SailfishTrophyPlaced.MapEntry: Sailfish Trophy
-			SchematicDisplayPlaced.MapEntry: Schematic Display
-			StarstruckSynthesizerPlaced.MapEntry: Starstruck Synthesizer
-			SulphuricTankPlaced.MapEntry: Irradiated Tank
-			SunkenLampPlaced.MapEntry: Sunken Lamp
-			TerminusShrineLevel2Placed.MapEntry: Terminus Shrine
-			TerminusShrineLevel3Placed.MapEntry: Terminus Shrine
-			TerminusShrinePlaced.MapEntry: Terminus Shrine
-			TeslaPlaced.MapEntry: Weaver Coil
-			VisceralAltarPlaced.MapEntry: Visceral Altar
-			VoidPortalPlaced.MapEntry: Void Portal
-			YellowSeaFountainPlaced.MapEntry: Yellow Sea Fountain
-			AccidentalAbominationnPlaced.MapEntry: Accidental Abominationn
-			BlazingConflictPlaced.MapEntry: Blazing Conflict
-			CalamiteaTimePlaced.MapEntry: Calamitea Time
-			CalamityFriendsPlaced.MapEntry: Friends!
-			CalamityPaintPlaced.MapEntry: Calamity Paint
-			CalamityPaintRetoldPlaced.MapEntry: Calamity Paint
+			SailfishTrophyPlaced.MapEntry: Sailfish Trophy旗鱼纪念章
+			SchematicDisplayPlaced.MapEntry: Schematic Display数据显示屏
+			StarstruckSynthesizerPlaced.MapEntry: Starstruck Synthesizer追星合成器
+			SulphuricTankPlaced.MapEntry: Irradiated Tank辐照罐
+			SunkenLampPlaced.MapEntry: Sunken Lamp下沉灯
+			TerminusShrineLevel2Placed.MapEntry: Terminus Shrine终末祭坛
+			TerminusShrineLevel3Placed.MapEntry: Terminus Shrine终末祭坛
+			TerminusShrinePlaced.MapEntry: Terminus Shrine终末祭坛
+			TeslaPlaced.MapEntry: Weaver Coil编织者线圈
+			VisceralAltarPlaced.MapEntry: Visceral Altar血肉祭坛
+			VoidPortalPlaced.MapEntry: Void Portal虚空之门
+			YellowSeaFountainPlaced.MapEntry: Yellow Sea Fountain黄色海洋喷泉
+			AccidentalAbominationnPlaced.MapEntry: Accidental Abominationn意外的憎恶
+			BlazingConflictPlaced.MapEntry: Blazing Conflict炽热的冲突
+			CalamiteaTimePlaced.MapEntry: Calamitea Time灾厄下午茶
+			CalamityFriendsPlaced.MapEntry: Friends!朋友
+			CalamityPaintPlaced.MapEntry: Calamity Paint灾厄画作
+			CalamityPaintRetoldPlaced.MapEntry: Calamity Paint灾厄画作
 			CirrusBoozePlaced.MapEntry: FineChalice
 			ClamPlaced.MapEntry: Gyate Gyate
 			CosmicTerrorPlaced.MapEntry: Cosmic Terror
@@ -5030,93 +5030,93 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			LostSoulsPlaced.MapEntry: Lost Souls迷失之魂
 			ModIconPaintingPlaced.MapEntry: Calamity's Vanities灾厄虚荣
 			NotLikeHomePlaced.MapEntry: Not like home...
-			OldModIconPaintingPlaced.MapEntry: Calamity's Vanities... but OLD!
-			OldUCMMPlaced.MapEntry: Unofficial Calamity Mod Music... but OLD!
+			OldModIconPaintingPlaced.MapEntry: Calamity's Vanities... but OLD!灾厄虚荣（旧）
+			OldUCMMPlaced.MapEntry: Unofficial Calamity Mod Music... but OLD!非官方灾厄音乐（旧）
 			Plague22Placed.MapEntry: "22"
 			RogueExtractorPlaced.MapEntry: Rogue Extractor
 			ScourgyPlaced.MapEntry: Scourgy
-			SignutPlaced.MapEntry: Signut
-			SleepingGiantPlaced.MapEntry: Sleeping Giant
+			SignutPlaced.MapEntry: Signut西格纳特
+			SleepingGiantPlaced.MapEntry: Sleeping Giant沉睡巨兽
 			SnoutsPlaced.MapEntry: Snouts
-			SundayAfternoonCalPlaced.MapEntry: A Sunday Afternoon in the World of Calamity.
+			SundayAfternoonCalPlaced.MapEntry: A Sunday Afternoon in the World of Calamity.灾厄世界的一个周末下午
 			SwearingShroomPlaced.MapEntry: Swearshroom
-			TheGreatSandwormPlaced.MapEntry: The Great Sandworm
+			TheGreatSandwormPlaced.MapEntry: The Great Sandworm伟大的沙虫
 			TheYharPlaced.MapEntry: ":THE_YHAR:"
 			UCMMPlaced.MapEntry: Unofficial Calamity Mod Music非官方灾厄音乐
 			UnholyTripPlaced.MapEntry: Unholy Trip不洁之旅
-			VVanitiesPlaced.MapEntry: V for Vanities!
+			VVanitiesPlaced.MapEntry: V for Vanities!虚荣的V
 			WilliamPaintingPlaced.MapEntry: Calamity's Vanities灾厄虚荣
 			WormHeavenPlaced.MapEntry: Worm Heaven
 			YharlamitasPlaced.MapEntry: Fear恐惧
-			AnemonePlaced.MapEntry: Potted Anemone
+			AnemonePlaced.MapEntry: Potted Anemone盆栽海葵
 			AstralOldPurplePlaced.MapEntry: Purple Xenomonolith紫色星幻木
 			AstralOldYellowPlaced.MapEntry: Yellow Xenomonolith黄色星幻木
-			BelchingCoralPlaced.MapEntry: Sulphuric Coral
+			BelchingCoralPlaced.MapEntry: Sulphuric Coral硫酸珊瑚
 			BloodstoneRosesPlaced.MapEntry: Bloodstone Roses血石玫瑰
-			BotanicPotPlaced.MapEntry: Botanic Bonsai
-			BrainCoralPlaced.MapEntry: Potted Brain Coral
+			BotanicPotPlaced.MapEntry: Botanic Bonsai植物盆栽
+			BrainCoralPlaced.MapEntry: Potted Brain Coral盆栽脑珊瑚
 			BrimPlantPlaced.MapEntry: Brimberry Plant
-			DecapoditaSproutPlaced.MapEntry: Potted Decapodita Sprout
-			FanCoralPlaced.MapEntry: Potted Fan Coral
-			FleshThingPlaced.MapEntry: Weird flesh thing
-			HolyStudedBonsaiPlaced.MapEntry: Holy Studded Bonsai
-			MonolithPotPlaced.MapEntry: Potted Astral Monolith
-			NetherTreeBigPlaced.MapEntry: Nether Willow
-			NetherTreePlaced.MapEntry: Twisting Nether Sapling
-			OddMushromPotPlaced.MapEntry: Fungus
-			SSCoralPlaced.MapEntry: Potted Sunken Coral
-			SulphurousCactusPlaced.MapEntry: Potted Sulphurous Cactus
-			SulphurousPlanterPlaced.MapEntry: Acid Vine Planter
-			TableCoralPlaced.MapEntry: Potted Table Coral
-			AnahitaPlushPlaced.MapEntry: Anahita Plush
-			ApolloPlushPlaced.MapEntry: Apollo Plush
-			AquaticScourgePlushPlaced.MapEntry: Aquatic Scourge Plush
-			AresPlushPlaced.MapEntry: Ares Plush
-			ArtemisPlushPlaced.MapEntry: Artemis Plush
-			AstrageldonPlushPlaced.MapEntry: Astrageldon Plush
-			AstrumAureusPlushPlaced.MapEntry: Astrum Aureus Plush
-			AstrumDeusPlushPlaced.MapEntry: Astrum Deus Plush
-			BrimstoneElementalPlushPlaced.MapEntry: Brimstone Elemental Plush
-			BumblefuckPlushPlaced.MapEntry: Dragonfolly Plush
+			DecapoditaSproutPlaced.MapEntry: Potted Decapodita Sprout盆栽节肢动物芽孢
+			FanCoralPlaced.MapEntry: Potted Fan Coral盆栽扇形珊瑚
+			FleshThingPlaced.MapEntry: Weird flesh thing奇怪的肉
+			HolyStudedBonsaiPlaced.MapEntry: Holy Studded Bonsai圣痕盆景
+			MonolithPotPlaced.MapEntry: Potted Astral Monolith盆栽星幻树
+			NetherTreeBigPlaced.MapEntry: Nether Willow下界柳
+			NetherTreePlaced.MapEntry: Twisting Nether Sapling缠绕下界树苗
+			OddMushromPotPlaced.MapEntry: Fungus真菌
+			SSCoralPlaced.MapEntry: Potted Sunken Coral盆栽沉水珊瑚
+			SulphurousCactusPlaced.MapEntry: Potted Sulphurous Cactus盆栽硫磺仙人掌
+			SulphurousPlanterPlaced.MapEntry: Acid Vine Planter酸性藤蔓花盆
+			TableCoralPlaced.MapEntry: Potted Table Coral盆栽桌珊瑚
+			AnahitaPlushPlaced.MapEntry: Anahita Plush阿娜希塔公仔
+			ApolloPlushPlaced.MapEntry: Apollo Plush阿波罗公仔
+			AquaticScourgePlushPlaced.MapEntry: Aquatic Scourge Plush渊海灾虫公仔
+			AresPlushPlaced.MapEntry: Ares Plush阿瑞斯公仔
+			ArtemisPlushPlaced.MapEntry: Artemis Plush阿尔忒弥斯公仔
+			AstrageldonPlushPlaced.MapEntry: Astrageldon Plush末世星史莱姆公仔
+			AstrumAureusPlushPlaced.MapEntry: Astrum Aureus Plush白金星舰公仔
+			AstrumDeusPlushPlaced.MapEntry: Astrum Deus Plush星神游龙公仔
+			BrimstoneElementalPlushPlaced.MapEntry: Brimstone Elemental Plush硫磺火元素公仔
+			BumblefuckPlushPlaced.MapEntry: Dragonfolly Plush痴愚金龙公仔
 			CalaFumoPlaced.MapEntry: Calamitas Fumo
-			CeaselessVoidPlushPlaced.MapEntry: Ceaseless Void Plush
-			ClamPlushPlaced.MapEntry: Giant Clam Plush
-			ClonePlushPlaced.MapEntry: Calamitas Clone Plush
-			CrabulonPlushPlaced.MapEntry: Crabulon Plush
-			CryogenPlushPlaced.MapEntry: Cryogen Plush
-			DesertScourgePlushPlaced.MapEntry: Desert Scourge Plush
-			DevourerofGodsPlushPlaced.MapEntry: Devourer of Gods Plush
-			DraedonPlushPlaced.MapEntry: Draedon Plush
-			HiveMindPlushPlaced.MapEntry: Hive Mind Plush
-			HypnosPlushPlaced.MapEntry: Hypnos Plush
-			JaredPlushPlaced.MapEntry: Eidolon Wyrm Plush
-			LeviathanPlushPlaced.MapEntry: Leviathan Plush
-			MaulerPlushPlaced.MapEntry: Mauler Plush
-			MirePlushPlacedP1.MapEntry: Cragmaw Mire Plush
-			MirePlushPlacedP2.MapEntry: Cragmaw Mire Plush
-			NuclearTerrorPlushPlaced.MapEntry: Nuclear Terror Plush
-			OldDukePlushPlaced.MapEntry: Old Duke Plush
-			PerforatorPlushPlaced.MapEntry: Perforator Plush
-			PlaguebringerGoliathPlushPlaced.MapEntry: Plaguebringer Goliath Plush
-			PolterghastPlushPlaced.MapEntry: Polterghast Plush
-			ProfanedGuardianPlushPlaced.MapEntry: Profaned Guardian Plush
-			ProvidencePlushPlaced.MapEntry: Providence Plush
+			CeaselessVoidPlushPlaced.MapEntry: Ceaseless Void Plush无尽虚空公仔
+			ClamPlushPlaced.MapEntry: Giant Clam Plush巨像蛤公仔
+			ClonePlushPlaced.MapEntry: Calamitas Clone Plush灾厄之影公仔
+			CrabulonPlushPlaced.MapEntry: Crabulon Plush菌生蟹公仔
+			CryogenPlushPlaced.MapEntry: Cryogen Plush极地之灵公仔
+			DesertScourgePlushPlaced.MapEntry: Desert Scourge Plush荒漠灾虫公仔
+			DevourerofGodsPlushPlaced.MapEntry: Devourer of Gods Plush神明吞噬者公仔
+			DraedonPlushPlaced.MapEntry: Draedon Plush嘉登公仔
+			HiveMindPlushPlaced.MapEntry: Hive Mind Plush腐巢意志公仔
+			HypnosPlushPlaced.MapEntry: Hypnos Plush修普洛斯公仔
+			JaredPlushPlaced.MapEntry: Eidolon Wyrm Plush幻海妖龙公仔
+			LeviathanPlushPlaced.MapEntry: Leviathan Plush利维坦公仔
+			MaulerPlushPlaced.MapEntry: Mauler Plush渊海狂鲨公仔
+			MirePlushPlacedP1.MapEntry: Cragmaw Mire Plush峭咽潭公仔
+			MirePlushPlacedP2.MapEntry: Cragmaw Mire Plush峭咽潭公仔
+			NuclearTerrorPlushPlaced.MapEntry: Nuclear Terror Plush辐核骇兽公仔
+			OldDukePlushPlaced.MapEntry: Old Duke Plush硫海遗爵
+			PerforatorPlushPlaced.MapEntry: Perforator Plush血肉宿主公仔
+			PlaguebringerGoliathPlushPlaced.MapEntry: Plaguebringer Goliath Plush瘟疫使者歌莉娅公仔
+			PolterghastPlushPlaced.MapEntry: Polterghast Plush噬魂幽花公仔
+			ProfanedGuardianPlushPlaced.MapEntry: Profaned Guardian Plush亵渎守卫公仔
+			ProvidencePlushPlaced.MapEntry: Providence Plush亵渎天神公仔
 			RavagerPlushPlaced.MapEntry: Ravager Plush毁灭魔像公仔
-			SandSharkPlushPlaced.MapEntry: Great Sand Shark Plush
-			SignusPlushPlaced.MapEntry: Signus Plush
+			SandSharkPlushPlaced.MapEntry: Great Sand Shark Plush旱海狂鲨公仔
+			SignusPlushPlaced.MapEntry: Signus Plush西格纳斯公仔
 			SlimeGodPlushPlaced.MapEntry: Slime God Plush史莱姆之神
 			StormWeaverPlushPlaced.MapEntry: Storm Weaver Plush风暴编织者公仔
-			ThanatosPlushPlaced.MapEntry: Thanatos Plush
+			ThanatosPlushPlaced.MapEntry: Thanatos Plush塔纳托斯公仔
 			YharonPlushPlaced.MapEntry: Yharon Plush犽戎公仔
 			CPlaced.MapEntry: Calamity灾厄
 			EyedolStatuePlaced.MapEntry: Eyedol Statue大眼蛙雕像
 			IsopodStatuePlaced.MapEntry: Isopod Statue深渊大王具足虫雕像
-			KnightPlaced.MapEntry: Earthen Knight Statue
-			NukeFlyStatuePlaced.MapEntry: Vaporofly Statue
-			PlagueFrogStatuePlaced.MapEntry: Plagued Frog Statue
-			ProfanedIdolPlaced.MapEntry: Profaned Idol
-			ShrineoftheTidesPlaced.MapEntry: Shrine of the Tides
-			ViolemurStatuePlaced.MapEntry: Violemur Statue
+			KnightPlaced.MapEntry: Earthen Knight Statue土制骑士雕像
+			NukeFlyStatuePlaced.MapEntry: Vaporofly Statue硫海飞蝇雕像
+			PlagueFrogStatuePlaced.MapEntry: Plagued Frog Statue瘟疫箭毒蛙雕像
+			ProfanedIdolPlaced.MapEntry: Profaned Idol亵渎祭坛
+			ShrineoftheTidesPlaced.MapEntry: Shrine of the Tides潮汐神殿
+			ViolemurStatuePlaced.MapEntry: Violemur Statue星幻狐猴雕像
 		}
 
 		Buffs: {
@@ -5140,13 +5140,13 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 			}
 
 			DiggerBuff: {
-				DisplayName: Rebuilt Digger
-				Description: Summons a piece of digging machinery to light your way
+				DisplayName: Rebuilt Digger修复的装甲挖掘虫
+				Description: Summons a piece of digging machinery to light your way召唤一台挖掘机械照亮你的道路
 			}
 
 			GodrgeBuff: {
 				DisplayName: Godrge蛙蛙乔治
-				Description: Pathetic.
+				Description: Pathetic.太可怜了
 			}
 
 			HeatBuff: {
@@ -5217,7 +5217,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			BikeBuff: {
 				DisplayName: Profaned Cycle亵渎守卫牌摩托车
-				Description: For when you really need to get somewhere, in style.
+				Description: For when you really need to get somewhere, in style.当您真正想有型的去某个地方时。
 			}
 
 			BloodstoneCarriageBuff: {
@@ -5471,7 +5471,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			DEBuff: {
 				DisplayName: Dark Aura暗能量
-				Description: An aura of pure nothingness floats near you一小团纯粹的虚无在你的身旁浮动
+				Description: An aura of pure nothingness floats near you一小团纯粹的虚空在你的身旁浮动
 			}
 
 			DesertBuff: {
@@ -5486,7 +5486,7 @@ jharim很高兴，立刻服从我，这是你唯一能再次取悦我的方法!
 
 			DogBuff: {
 				DisplayName: The Devourer of Gods神明吞噬者
-				Description: All of this is canon
+				Description: All of this is canon这些都是真的
 			}
 
 			Doggobuff: {
